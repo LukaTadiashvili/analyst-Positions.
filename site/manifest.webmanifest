@@ -1,0 +1,16 @@
+{
+  "name": "ანალიტიკოსის ვაკანსიები",
+  "short_name": "ვაკანსიები",
+  "description": "ქართული საიტების ანალიტიკოსის ვაკანსიები ერთ ადგილას",
+  "lang": "ka",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f3f6fb",
+  "theme_color": "#2f6bd8",
+  "icons": [
+    { "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
