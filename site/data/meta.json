@@ -1,164 +1,63 @@
 {
- "updated": "2026-11-07T14:02+04:00",
+ "updated": "2026-11-07T14:32+04:00",
  "active": 100,
  "total": 100,
- "new": 100,
- "newIds": [
-  "454fd8ca48fc",
-  "ac029cfd2d12",
-  "dc84e136f9c3",
-  "bb3593ff1fe6",
-  "a8b528b8e093",
-  "04d55a25f826",
-  "2e77e76f8443",
-  "bd4052196f19",
-  "ec261e0f0687",
-  "a6665ba2527c",
-  "d96553eaf8c6",
-  "4ef91bb1f49b",
-  "da125f774f29",
-  "51f7d56dfa58",
-  "ff1f4b3f4511",
-  "94868a086daa",
-  "2b8ffc84ba7d",
-  "65e3a6b2855d",
-  "bf2676765b65",
-  "7ff2b6da65f8",
-  "3d8403891339",
-  "38d930a3b804",
-  "c929d9f654c5",
-  "27afd927397c",
-  "c55e792ab4e9",
-  "9c96a74d4a27",
-  "d6f2e7c859ce",
-  "1e165868bce8",
-  "97ab19d920a6",
-  "f9ce2160d15d",
-  "adb304a9d68b",
-  "c6e41a4d81b8",
-  "5fb91489c37d",
-  "26bd39158421",
-  "7e811ab642fa",
-  "a40efb6e6432",
-  "b68ec7ea48a3",
-  "e79bf0e6f349",
-  "fbc3aecb65bd",
-  "4070e4ab8df3",
-  "c60acbd4b9c1",
-  "c12568d07573",
-  "48690cca8d28",
-  "6b526039193a",
-  "ccf33f8bcc54",
-  "daf7fd64e73c",
-  "82962e7b8995",
-  "a82798eb962e",
-  "707eb3c13352",
-  "6c38b929d149",
-  "7155822e5dce",
-  "96848fb0dba7",
-  "267c110bce72",
-  "e0ff8f4d1441",
-  "166e4c37a5fd",
-  "2a0ea2c23eb2",
-  "3277aceebaf6",
-  "f0cb4ec3ebfc",
-  "8d5670da85b9",
-  "e2e550b5adc5",
-  "c4863650154e",
-  "23027cdc1fba",
-  "6f3aaf0bcca9",
-  "f6795f66ce7a",
-  "48793d892766",
-  "1bc239ed1cb8",
-  "8bb6186f74e7",
-  "32afcb3783e5",
-  "d57b44d633b3",
-  "56ea2ae9a281",
-  "5a3aac0976a2",
-  "b5895b66949f",
-  "b9b8c839c030",
-  "8ad706ecb409",
-  "7ba76a6adffb",
-  "841deb785699",
-  "52e337a21791",
-  "aada2e9516f8",
-  "d43dedeb996f",
-  "e0ddea88abd3",
-  "d87e1e0fb7c4",
-  "801e455643c6",
-  "84e1bdeb619d",
-  "67264e61d3cf",
-  "23c9f1446a55",
-  "3cc1e9a8fdf4",
-  "60b354d102ef",
-  "b7ab8895d766",
-  "b7547cc86d2c",
-  "f40b942a12d0",
-  "41267b879f07",
-  "56508055e415",
-  "0638966bbf81",
-  "0b6a4c71b338",
-  "972878e77266",
-  "9d97c10bedfb",
-  "225c0bebf538",
-  "766ffe3397a8",
-  "60f06e985846",
-  "0bc963d1df92"
- ],
+ "new": 0,
+ "newIds": [],
  "sources": [
   {
    "site": "jobs.ge",
    "ok": true,
    "count": 73,
-   "sec": 14.4
+   "sec": 16.6
   },
   {
    "site": "hr.ge",
    "ok": true,
    "count": 26,
-   "sec": 21.1
+   "sec": 22.6
   },
   {
    "site": "myjobs.ge",
    "ok": true,
    "count": 41,
-   "sec": 120.7
+   "sec": 107.3
   },
   {
    "site": "cv.ge",
    "ok": true,
    "count": 18,
-   "sec": 20.2
+   "sec": 20.9
   },
   {
    "site": "hh.ge",
    "ok": true,
    "count": 0,
-   "sec": 3.0
+   "sec": 2.8
   },
   {
    "site": "TBC კარიერა",
    "ok": true,
    "count": 10,
-   "sec": 2.0
+   "sec": 1.8
   },
   {
    "site": "openjobs.ge",
    "ok": true,
    "count": 0,
-   "sec": 16.1
+   "sec": 12.2
   },
   {
    "site": "unijobs.ge",
    "ok": true,
    "count": 2,
-   "sec": 15.9
+   "sec": 13.7
   },
   {
    "site": "joob.ge",
    "ok": true,
    "count": 0,
-   "sec": 27.9
+   "sec": 29.1
   }
  ]
 }
