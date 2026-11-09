@@ -1,6 +1,41 @@
 {
-"updated": "2026-11-09T21:47+04:00",
+"updated": "2026-11-10T03:02+04:00",
 "jobs": [
+{
+"id": "bba80fa50637",
+"title": "ჰოკეის მატჩის ანალიტიკოსი",
+"company": "SportsTag",
+"logo": null,
+"salary": null,
+"published": "2026-11-10",
+"deadline": "2026-12-10",
+"location": "თბილისი",
+"sources": [
+{
+"site": "jobs.ge",
+"url": "https://jobs.ge/ge/?view=jobs&id=767118"
+}
+],
+"url": "https://jobs.ge/ge/?view=jobs&id=767118",
+"firstSeen": "2026-11-10T03:02+04:00",
+"lastSeen": "2026-11-10T03:02+04:00",
+"active": true,
+"skills": [],
+"languages": [
+"ინგლისური"
+],
+"exp": null,
+"level": "Middle",
+"direction": "სხვა",
+"remote": null,
+"summary": {
+"about": "\"SportsTag\" აცხადებს ვაკანსიას ჰოკეის მატჩის ანალიტიკოსის თანამდებობაზე. იხილეთ ამ განცხადების სრული ტექსტი ინგლისურ ენაზე .",
+"duties": [],
+"reqs": [],
+"offers": []
+},
+"textLen": 124
+},
 {
 "id": "8573278d3795",
 "title": "მოდელების რისკების მართვის მენეჯერი / მონაცემთა მეცნიერი",
@@ -26,7 +61,7 @@
 ],
 "url": "https://jobs.smartrecruiters.com/TBCBANK/744000160610654",
 "firstSeen": "2026-11-09T21:47+04:00",
-"lastSeen": "2026-11-09T21:47+04:00",
+"lastSeen": "2026-11-10T03:02+04:00",
 "active": true,
 "skills": [
 "SQL",
@@ -95,7 +130,7 @@
 ],
 "url": "https://jobs.ge/ge/?view=jobs&id=767007",
 "firstSeen": "2026-11-09T16:52+04:00",
-"lastSeen": "2026-11-09T21:47+04:00",
+"lastSeen": "2026-11-10T03:02+04:00",
 "active": true,
 "skills": [
 "SQL",
@@ -151,7 +186,7 @@
 ],
 "url": "https://jobs.ge/ge/?view=jobs&id=766876",
 "firstSeen": "2026-11-09T16:52+04:00",
-"lastSeen": "2026-11-09T21:47+04:00",
+"lastSeen": "2026-11-10T03:02+04:00",
 "active": true,
 "skills": [],
 "languages": [],
@@ -194,7 +229,7 @@
 ],
 "url": "https://www.myjobs.ge/ka/vacancy/31414",
 "firstSeen": "2026-11-09T16:52+04:00",
-"lastSeen": "2026-11-09T21:47+04:00",
+"lastSeen": "2026-11-10T03:02+04:00",
 "active": true,
 "skills": [
 "SQL",
@@ -248,7 +283,7 @@
 ],
 "url": "https://www.hr.ge/announcement/501870",
 "firstSeen": "2026-11-09T16:52+04:00",
-"lastSeen": "2026-11-09T21:47+04:00",
+"lastSeen": "2026-11-10T03:02+04:00",
 "active": true,
 "skills": [
 "SQL",
@@ -307,7 +342,7 @@
 ],
 "url": "https://www.hr.ge/announcement/501460",
 "firstSeen": "2026-11-09T16:52+04:00",
-"lastSeen": "2026-11-09T21:47+04:00",
+"lastSeen": "2026-11-10T03:02+04:00",
 "active": true,
 "skills": [],
 "languages": [
@@ -336,6 +371,108 @@
 "textLen": 1757
 },
 {
+"id": "41267b879f07",
+"title": "აუდიტის მენეჯერი",
+"company": "აუდიტორული კომპანია TMC",
+"logo": "https://jobs.ge/data/clients/logo_icon/18947_tmc_9674631.gif",
+"salary": null,
+"published": "2026-11-09",
+"deadline": "2026-12-09",
+"location": "თბილისი",
+"sources": [
+{
+"site": "jobs.ge",
+"url": "https://jobs.ge/ge/?view=jobs&id=767072"
+}
+],
+"url": "https://jobs.ge/ge/?view=jobs&id=767072",
+"firstSeen": "2026-11-07T14:02+04:00",
+"lastSeen": "2026-11-10T03:02+04:00",
+"active": true,
+"skills": [
+"Excel",
+"IFRS"
+],
+"languages": [
+"ინგლისური"
+],
+"exp": 4,
+"level": "Middle",
+"direction": "აუდიტი",
+"remote": null,
+"summary": {
+"about": "აუდიტორული კომპანია \"თი ემ სი\" აცხადებს ვაკანსიას აუდიტის მენეჯერის პოზიციაზე.",
+"duties": [
+"ფინანსური ანგარიშგების აუდიტის პროექტების დაგეგმვასა და შესრულებაში მონაწილეობა და მათი მართვა",
+"აუდიტის გუნდის ხელმძღვანელობა, სამუშაოს შესრულების კონტროლი და გუნდის წევრებისთვის პროფესიული უკუკავშირის მიცემა",
+"აუდიტის სამუშაო დოკუმენტაციის დეტალური მიმოხილვა და შესაბამისობის უზრუნველყოფა",
+"აუდიტის ფარგლებში მომზადებული ფინანსური ანგარიშგების, განმარტებითი შენიშვნებისა და სხვა ფინანსური ინფორმაციის ანალიზი",
+"აუდიტის შედეგად გამოვლენილი საკითხების, უზუსტობებისა და რისკების შეფასება",
+"კლიენტთან დამოუკიდებელი პროფესიული კომუნიკაცია აუდიტის დაგეგმვის, მიმდინარეობისა და შედეგების შესახებ"
+],
+"reqs": [
+"აუდიტის სფეროში მინიმუმ 4 წლიანი მუშაობის გამოცდილება",
+"აუდიტის მენეჯერის ან უფროსი აუდიტორის პოზიციაზე მუშაობის გამოცდილება",
+"ფინანსური ანგარიშგების აუდიტის პროცესის სრულად და პრაქტიკულად ცოდნა",
+"აუდიტის სამუშაო დოკუმენტაციის მომზადებისა და მიმოხილვის გამოცდილება",
+"კლიენტებთან დამოუკიდებელი და პროფესიული კომუნიკაციის გამოცდილება",
+"ISA-ის ცოდნა და პრაქტიკაში გამოყენების გამოცდილება",
+"ACCA-ის პროფესიული კვალიფიკაციის მიმართულებით სწავლა"
+],
+"offers": []
+},
+"textLen": 3222
+},
+{
+"id": "b7547cc86d2c",
+"title": "უმცროსი აუდიტორი",
+"company": "აუდიტორული კომპანია TMC",
+"logo": "https://jobs.ge/data/clients/logo_icon/18947_tmc_9674631.gif",
+"salary": null,
+"published": "2026-11-09",
+"deadline": "2026-12-09",
+"location": "თბილისი",
+"sources": [
+{
+"site": "jobs.ge",
+"url": "https://jobs.ge/ge/?view=jobs&id=767071"
+}
+],
+"url": "https://jobs.ge/ge/?view=jobs&id=767071",
+"firstSeen": "2026-11-07T14:02+04:00",
+"lastSeen": "2026-11-10T03:02+04:00",
+"active": true,
+"skills": [
+"Excel",
+"IFRS"
+],
+"languages": [],
+"exp": 2,
+"level": "Junior",
+"direction": "აუდიტი",
+"remote": null,
+"summary": {
+"about": "აუდიტორული კომპანია \" თი ემ სი \" აცხადებს ვაკანსიას უმცროსი აუდიტორის პოზიციაზე.",
+"duties": [
+"ფინანსური ინფორმაციის შეგროვებას",
+"ბუღალტრულ ოპერაციებში არსებული უზუსტობების იდენტიფიცირებას ფინანსურ ინფორმაციასთან, მათ შორის პირველად დოკუმენტებთან მიმართებაში",
+"ცხრილების მომზადებას MS Excel-ში",
+"გამოვლენილი ხარვეზების განხილვას ხელმძღვანელ პირებთან",
+"კვალიფიკაციის შესაბამისად ფინანსური დეპარტამენტის საქმიანობასთან დაკავშირებული სხვა ამოცანების შესრულებას",
+"პროფესიულ განვითარებაზე ორიენტირებულობა"
+],
+"reqs": [
+"უმაღლესი განათლება",
+"ბუღალტრული აღრიცხვისა და IFRS-ის საბაზისო დონეზე ცოდნა",
+"ACCA-ის პროფესიული კვალიფიკაციის მიმართულებით სწავლა ჩაითვლება უპირატესობად",
+"მინიმუმ 2 წლიანი სამუშაო გამოცდილება ბუღალტრული აღრიცხვის ან აუდიტის მიმართულებით",
+"სამუშაოს შესრულების სიზუსტე და დეტალებზე ორიენტირებულობა"
+],
+"offers": []
+},
+"textLen": 2563
+},
+{
 "id": "454fd8ca48fc",
 "title": "უფროსი ფინანსური ანალიტიკოსი",
 "company": "სილქ ბანკი",
@@ -352,7 +489,7 @@
 ],
 "url": "https://jobs.ge/ge/?view=jobs&id=766670",
 "firstSeen": "2026-11-07T14:02+04:00",
-"lastSeen": "2026-11-09T21:47+04:00",
+"lastSeen": "2026-11-10T03:02+04:00",
 "active": true,
 "skills": [],
 "languages": [],
@@ -389,7 +526,7 @@
 ],
 "url": "https://www.hr.ge/announcement/501721",
 "firstSeen": "2026-11-07T14:02+04:00",
-"lastSeen": "2026-11-09T21:47+04:00",
+"lastSeen": "2026-11-10T03:02+04:00",
 "active": true,
 "skills": [
 "Excel"
@@ -436,7 +573,7 @@
 ],
 "url": "https://jobs.ge/ge/?view=jobs&id=766325",
 "firstSeen": "2026-11-07T14:02+04:00",
-"lastSeen": "2026-11-09T21:47+04:00",
+"lastSeen": "2026-11-10T03:02+04:00",
 "active": true,
 "skills": [
 "Excel",
@@ -492,7 +629,7 @@
 ],
 "url": "https://jobs.ge/ge/?view=jobs&id=766295",
 "firstSeen": "2026-11-07T14:02+04:00",
-"lastSeen": "2026-11-09T21:47+04:00",
+"lastSeen": "2026-11-10T03:02+04:00",
 "active": true,
 "skills": [
 "Machine Learning",
@@ -546,7 +683,7 @@
 ],
 "url": "https://jobs.ge/ge/?view=jobs&id=766124",
 "firstSeen": "2026-11-07T14:02+04:00",
-"lastSeen": "2026-11-09T21:47+04:00",
+"lastSeen": "2026-11-10T03:02+04:00",
 "active": true,
 "skills": [
 "SQL",
@@ -603,7 +740,7 @@
 ],
 "url": "https://jobs.ge/ge/?view=jobs&id=766138",
 "firstSeen": "2026-11-07T14:02+04:00",
-"lastSeen": "2026-11-09T21:47+04:00",
+"lastSeen": "2026-11-10T03:02+04:00",
 "active": true,
 "skills": [],
 "languages": [],
@@ -636,7 +773,7 @@
 ],
 "url": "https://jobs.ge/ge/?view=jobs&id=766137",
 "firstSeen": "2026-11-07T14:02+04:00",
-"lastSeen": "2026-11-09T21:47+04:00",
+"lastSeen": "2026-11-10T03:02+04:00",
 "active": true,
 "skills": [],
 "languages": [],
@@ -669,7 +806,7 @@
 ],
 "url": "https://jobs.ge/ge/?view=jobs&id=766299",
 "firstSeen": "2026-11-07T14:02+04:00",
-"lastSeen": "2026-11-09T21:47+04:00",
+"lastSeen": "2026-11-10T03:02+04:00",
 "active": true,
 "skills": [
 "Python",
@@ -720,7 +857,7 @@
 ],
 "url": "https://jobs.ge/ge/?view=jobs&id=766024",
 "firstSeen": "2026-11-07T14:02+04:00",
-"lastSeen": "2026-11-09T21:47+04:00",
+"lastSeen": "2026-11-10T03:02+04:00",
 "active": true,
 "skills": [],
 "languages": [
@@ -755,7 +892,7 @@
 ],
 "url": "https://jobs.ge/ge/?view=jobs&id=765984",
 "firstSeen": "2026-11-07T14:02+04:00",
-"lastSeen": "2026-11-09T21:47+04:00",
+"lastSeen": "2026-11-10T03:02+04:00",
 "active": true,
 "skills": [],
 "languages": [],
@@ -803,7 +940,7 @@
 ],
 "url": "https://jobs.ge/ge/?view=jobs&id=765938",
 "firstSeen": "2026-11-07T14:02+04:00",
-"lastSeen": "2026-11-09T21:47+04:00",
+"lastSeen": "2026-11-10T03:02+04:00",
 "active": true,
 "skills": [
 "Excel",
@@ -857,7 +994,7 @@
 ],
 "url": "https://jobs.ge/ge/?view=jobs&id=765871",
 "firstSeen": "2026-11-07T14:02+04:00",
-"lastSeen": "2026-11-09T21:47+04:00",
+"lastSeen": "2026-11-10T03:02+04:00",
 "active": true,
 "skills": [],
 "languages": [],
@@ -898,7 +1035,7 @@
 ],
 "url": "https://www.myjobs.ge/ka/vacancy/31281",
 "firstSeen": "2026-11-07T14:02+04:00",
-"lastSeen": "2026-11-09T21:47+04:00",
+"lastSeen": "2026-11-10T03:02+04:00",
 "active": true,
 "skills": [
 "SQL",
@@ -951,7 +1088,7 @@
 ],
 "url": "https://jobs.ge/ge/?view=jobs&id=765709",
 "firstSeen": "2026-11-07T14:02+04:00",
-"lastSeen": "2026-11-09T21:47+04:00",
+"lastSeen": "2026-11-10T03:02+04:00",
 "active": true,
 "skills": [],
 "languages": [],
@@ -984,7 +1121,7 @@
 ],
 "url": "https://jobs.ge/ge/?view=jobs&id=765680",
 "firstSeen": "2026-11-07T14:02+04:00",
-"lastSeen": "2026-11-09T21:47+04:00",
+"lastSeen": "2026-11-10T03:02+04:00",
 "active": true,
 "skills": [
 "SQL",
@@ -1053,7 +1190,7 @@
 ],
 "url": "https://www.hr.ge/announcement/501252",
 "firstSeen": "2026-11-07T14:02+04:00",
-"lastSeen": "2026-11-09T21:47+04:00",
+"lastSeen": "2026-11-10T03:02+04:00",
 "active": true,
 "skills": [],
 "languages": [
@@ -1108,7 +1245,7 @@
 ],
 "url": "https://www.hr.ge/announcement/501255",
 "firstSeen": "2026-11-07T14:02+04:00",
-"lastSeen": "2026-11-09T21:47+04:00",
+"lastSeen": "2026-11-10T03:02+04:00",
 "active": true,
 "skills": [
 "SQL",
@@ -1165,7 +1302,7 @@
 ],
 "url": "https://www.myjobs.ge/ka/vacancy/31233",
 "firstSeen": "2026-11-07T14:02+04:00",
-"lastSeen": "2026-11-09T21:47+04:00",
+"lastSeen": "2026-11-10T03:02+04:00",
 "active": true,
 "skills": [
 "SQL",
@@ -1226,7 +1363,7 @@
 ],
 "url": "https://jobs.ge/ge/?view=jobs&id=765366",
 "firstSeen": "2026-11-07T14:02+04:00",
-"lastSeen": "2026-11-09T21:47+04:00",
+"lastSeen": "2026-11-10T03:02+04:00",
 "active": true,
 "skills": [],
 "languages": [],
@@ -1259,7 +1396,7 @@
 ],
 "url": "https://jobs.ge/ge/?view=jobs&id=765297",
 "firstSeen": "2026-11-07T14:02+04:00",
-"lastSeen": "2026-11-09T21:47+04:00",
+"lastSeen": "2026-11-10T03:02+04:00",
 "active": true,
 "skills": [],
 "languages": [],
@@ -1278,73 +1415,6 @@
 "offers": []
 },
 "textLen": 699
-},
-{
-"id": "3d8403891339",
-"title": "რისკ-ანალიტიკოსთა გუნდის ხელმძღვანელი",
-"company": "Evolution",
-"logo": "https://d1hedpmorgly0j.cloudfront.net/logo/20682/015b0cec-daf7-4f2c-b2d0-fa3fc98a0120.png",
-"salary": null,
-"published": "2026-11-02",
-"deadline": "2026-11-09",
-"location": "თბილისი",
-"sources": [
-{
-"site": "hr.ge",
-"url": "https://www.hr.ge/announcement/501119"
-},
-{
-"site": "cv.ge",
-"url": "https://www.cv.ge/announcement/501119"
-},
-{
-"site": "jobs.ge",
-"url": "https://jobs.ge/ge/?view=jobs&id=765505"
-}
-],
-"url": "https://www.hr.ge/announcement/501119",
-"firstSeen": "2026-11-07T14:02+04:00",
-"lastSeen": "2026-11-09T21:47+04:00",
-"active": true,
-"skills": [
-"Excel",
-"API"
-],
-"languages": [
-"ინგლისური"
-],
-"exp": 1,
-"level": "Senior",
-"direction": "რისკი / საკრედიტო",
-"remote": null,
-"summary": {
-"about": "Company Description Evolution is a market-leading Swedish company, developer and provider of products and services for online casino entertainment founded in 2006 and listed on Nasdaq Nordic (EVO). Our integrated business-to-business solutions guarantee that…",
-"duties": [
-"To Ensure that Risk Analysts’ team operates with high standards, meets set objectives and direct subordinates understand and follow the policies",
-"Lead employees using a performance management and development process that provides an overall context and framework to encourage employee contribution and includes…",
-"Provide support, direction and assistance to direct subordinates on all areas of their assigned duties",
-"Plan, monitor and appraise job, coach, mentor, and develop staff, as well as prepare, maintain and deliver internal training(s) for direct subordinates",
-"Ensure the delivery of better value and greater efficiency through the proactive identification and elimination of unnecessary complexity within department processes…",
-"Identify and manage resources to deliver effective solutions; plan recruitment and training and oversee the employee on-boarding process"
-],
-"reqs": [
-"Higher Education",
-"At least 1 year of managerial experience",
-"At least 3 years of professional experience preferable in game security and risk areas",
-"Full Professional Working Proficiency in English and Georgian written and verbal",
-"Advanced knowledge of MS office (Excel and Word is a must)",
-"Mathematically minded",
-"Ability to work independently with minimal supervision"
-],
-"offers": [
-"Inclusive and diverse workplace",
-"Development oriented organizational culture",
-"Health Insurance",
-"Mobile phone with corporate service",
-"On-site Gym / Yoga lessons"
-]
-},
-"textLen": 3643
 },
 {
 "id": "38d930a3b804",
@@ -1367,7 +1437,7 @@
 ],
 "url": "https://www.hr.ge/announcement/500942",
 "firstSeen": "2026-11-07T14:02+04:00",
-"lastSeen": "2026-11-09T21:47+04:00",
+"lastSeen": "2026-11-10T03:02+04:00",
 "active": true,
 "skills": [
 "Excel",
@@ -1426,7 +1496,7 @@
 ],
 "url": "https://www.hr.ge/announcement/500944",
 "firstSeen": "2026-11-07T14:02+04:00",
-"lastSeen": "2026-11-09T21:47+04:00",
+"lastSeen": "2026-11-10T03:02+04:00",
 "active": true,
 "skills": [
 "Excel",
@@ -1480,7 +1550,7 @@
 ],
 "url": "https://jobs.smartrecruiters.com/TBCBANK/744000159205019",
 "firstSeen": "2026-11-07T14:02+04:00",
-"lastSeen": "2026-11-09T21:47+04:00",
+"lastSeen": "2026-11-10T03:02+04:00",
 "active": true,
 "skills": [
 "SQL",
@@ -1522,6 +1592,73 @@
 ]
 },
 "textLen": 4983
+},
+{
+"id": "3d8403891339",
+"title": "რისკ-ანალიტიკოსთა გუნდის ხელმძღვანელი",
+"company": "Evolution",
+"logo": "https://d1hedpmorgly0j.cloudfront.net/logo/20682/015b0cec-daf7-4f2c-b2d0-fa3fc98a0120.png",
+"salary": null,
+"published": "2026-11-02",
+"deadline": "2026-11-09",
+"location": "თბილისი",
+"sources": [
+{
+"site": "hr.ge",
+"url": "https://www.hr.ge/announcement/501119"
+},
+{
+"site": "cv.ge",
+"url": "https://www.cv.ge/announcement/501119"
+},
+{
+"site": "jobs.ge",
+"url": "https://jobs.ge/ge/?view=jobs&id=765505"
+}
+],
+"url": "https://www.hr.ge/announcement/501119",
+"firstSeen": "2026-11-07T14:02+04:00",
+"lastSeen": "2026-11-09T21:47+04:00",
+"active": false,
+"skills": [
+"Excel",
+"API"
+],
+"languages": [
+"ინგლისური"
+],
+"exp": 1,
+"level": "Senior",
+"direction": "რისკი / საკრედიტო",
+"remote": null,
+"summary": {
+"about": "Company Description Evolution is a market-leading Swedish company, developer and provider of products and services for online casino entertainment founded in 2006 and listed on Nasdaq Nordic (EVO). Our integrated business-to-business solutions guarantee that…",
+"duties": [
+"To Ensure that Risk Analysts’ team operates with high standards, meets set objectives and direct subordinates understand and follow the policies",
+"Lead employees using a performance management and development process that provides an overall context and framework to encourage employee contribution and includes…",
+"Provide support, direction and assistance to direct subordinates on all areas of their assigned duties",
+"Plan, monitor and appraise job, coach, mentor, and develop staff, as well as prepare, maintain and deliver internal training(s) for direct subordinates",
+"Ensure the delivery of better value and greater efficiency through the proactive identification and elimination of unnecessary complexity within department processes…",
+"Identify and manage resources to deliver effective solutions; plan recruitment and training and oversee the employee on-boarding process"
+],
+"reqs": [
+"Higher Education",
+"At least 1 year of managerial experience",
+"At least 3 years of professional experience preferable in game security and risk areas",
+"Full Professional Working Proficiency in English and Georgian written and verbal",
+"Advanced knowledge of MS office (Excel and Word is a must)",
+"Mathematically minded",
+"Ability to work independently with minimal supervision"
+],
+"offers": [
+"Inclusive and diverse workplace",
+"Development oriented organizational culture",
+"Health Insurance",
+"Mobile phone with corporate service",
+"On-site Gym / Yoga lessons"
+]
+},
+"textLen": 3643
 },
 {
 "id": "c55e792ab4e9",
@@ -1596,7 +1733,7 @@
 ],
 "url": "https://www.hr.ge/announcement/500660",
 "firstSeen": "2026-11-07T14:02+04:00",
-"lastSeen": "2026-11-09T21:47+04:00",
+"lastSeen": "2026-11-10T03:02+04:00",
 "active": true,
 "skills": [
 "Excel"
@@ -1645,7 +1782,7 @@
 ],
 "url": "https://jobs.ge/ge/?view=jobs&id=764920",
 "firstSeen": "2026-11-07T14:02+04:00",
-"lastSeen": "2026-11-09T21:47+04:00",
+"lastSeen": "2026-11-10T03:02+04:00",
 "active": true,
 "skills": [
 "Excel",
@@ -1743,7 +1880,7 @@
 ],
 "url": "https://jobs.ge/ge/?view=jobs&id=766018",
 "firstSeen": "2026-11-07T14:02+04:00",
-"lastSeen": "2026-11-09T21:47+04:00",
+"lastSeen": "2026-11-10T03:02+04:00",
 "active": true,
 "skills": [
 "Excel",
@@ -1807,7 +1944,7 @@
 ],
 "url": "https://jobs.ge/ge/?view=jobs&id=764615",
 "firstSeen": "2026-11-07T14:02+04:00",
-"lastSeen": "2026-11-09T21:47+04:00",
+"lastSeen": "2026-11-10T03:02+04:00",
 "active": true,
 "skills": [
 "Excel",
@@ -1869,7 +2006,7 @@
 ],
 "url": "https://www.hr.ge/announcement/500861",
 "firstSeen": "2026-11-07T14:02+04:00",
-"lastSeen": "2026-11-09T21:47+04:00",
+"lastSeen": "2026-11-10T03:02+04:00",
 "active": true,
 "skills": [
 "SQL",
@@ -1928,7 +2065,7 @@
 ],
 "url": "https://www.hr.ge/announcement/500380",
 "firstSeen": "2026-11-07T14:02+04:00",
-"lastSeen": "2026-11-09T21:47+04:00",
+"lastSeen": "2026-11-10T03:02+04:00",
 "active": true,
 "skills": [
 "Excel"
@@ -1970,6 +2107,61 @@
 "textLen": 2932
 },
 {
+"id": "23c9f1446a55",
+"title": "IT ბიზნეს ანალიტიკოსი",
+"company": "უნისონი",
+"logo": "https://jobs.ge/data/clients/logo_icon/1542.gif",
+"salary": null,
+"published": "2026-10-28",
+"deadline": "2026-11-28",
+"location": "თბილისი",
+"sources": [
+{
+"site": "jobs.ge",
+"url": "https://jobs.ge/ge/?view=jobs&id=764300"
+}
+],
+"url": "https://jobs.ge/ge/?view=jobs&id=764300",
+"firstSeen": "2026-11-07T14:02+04:00",
+"lastSeen": "2026-11-10T03:02+04:00",
+"active": true,
+"skills": [
+"SQL",
+"API",
+"Cloud"
+],
+"languages": [
+"ინგლისური",
+"რუსული"
+],
+"exp": 2,
+"level": "Middle",
+"direction": "ბიზნეს / სისტემური",
+"remote": null,
+"summary": {
+"about": "სადაზღვევო კომპანია \" უნისონი \" 2011 წლიდან ზრუნავს ადამიანებისა და ბიზნესების ფინანსურ უსაფრთხოებაზე. წლების განმავლობაში ჩვენ ჩამოვყალიბდით ქართული სადაზღვევო ბაზრის ერთ-ერთ წამყვან კომპანიად, რომელსაც მომხმარებლები ენდობიან პროფესიონალიზმის, ინოვაციური…",
+"duties": [
+"ინფორმაციული ტექნოლოგიების დეპარტამენტსა და კომპანიის ტოპ-მენეჯმენტს, ასევე სხვადასხვა ბიზნეს ერთეულებს შორის ურთიერთკავშირის დამყარება",
+"კომპანიის სტრატეგიული ბიზნეს საჭიროებების და ზრდის გეგმების გააზრება და ანალიზი",
+"კომპანიის ვებ-საიტის მიმართულების მართვა-განვითარება",
+"IT პროდუქტებისა და სერვისების ხარისხის ამაღლება",
+"არსებული ტექნიკური სისტემებისა და ბიზნეს მოდელების ანალიზი",
+"IT მონაცემების გამოყენება ბიზნეს ანალიტიკისთვის"
+],
+"reqs": [
+"უმაღლესი განათლება კომპიუტერული ინჟინერიის, ბიზნესის ადმინისტრირების ან მასთან დაკავშირებულ სფეროში",
+"ანალიტიკოსის პოზიციაზე ან ტექნოლოგიების სფეროში 3 წლიანი გამოცდილება",
+"მსგავს პოზიციაზე მინ. 2 წლიანი გამოცდილება",
+"WEB ტექნოლოგიებთან მუშაობის გამოცდილება",
+"API სერვისებთან მუშაობის გამოცდილება",
+"AMAZON AWS- თან მუშაობის გამოცდილება",
+"ინგლისური ენების ცოდნა, რუსული ენის ცოდნა (სასურველია)"
+],
+"offers": []
+},
+"textLen": 3204
+},
+{
 "id": "5fb91489c37d",
 "title": "უმცროსი ფინანსური ანალიტიკოსი",
 "company": "ტესენ ქონსთრაქშენი",
@@ -1986,7 +2178,7 @@
 ],
 "url": "https://jobs.ge/ge/?view=jobs&id=764267",
 "firstSeen": "2026-11-07T14:02+04:00",
-"lastSeen": "2026-11-09T21:47+04:00",
+"lastSeen": "2026-11-10T03:02+04:00",
 "active": true,
 "skills": [],
 "languages": [],
@@ -2025,7 +2217,7 @@
 ],
 "url": "https://jobs.ge/ge/?view=jobs&id=764369",
 "firstSeen": "2026-11-07T14:02+04:00",
-"lastSeen": "2026-11-09T21:47+04:00",
+"lastSeen": "2026-11-10T03:02+04:00",
 "active": true,
 "skills": [
 "IFRS"
@@ -2065,7 +2257,7 @@
 ],
 "url": "https://jobs.ge/ge/?view=jobs&id=764076",
 "firstSeen": "2026-11-07T14:02+04:00",
-"lastSeen": "2026-11-09T21:47+04:00",
+"lastSeen": "2026-11-10T03:02+04:00",
 "active": true,
 "skills": [],
 "languages": [],
@@ -2096,10 +2288,6 @@
 "location": "თბილისი",
 "sources": [
 {
-"site": "TBC კარიერა",
-"url": "https://jobs.smartrecruiters.com/TBCBANK/744000157993729"
-},
-{
 "site": "hr.ge",
 "url": "https://www.hr.ge/announcement/499846"
 },
@@ -2116,9 +2304,9 @@
 "url": "https://www.myjobs.ge/ka/vacancy/30815"
 }
 ],
-"url": "https://jobs.smartrecruiters.com/TBCBANK/744000157993729",
+"url": "https://www.hr.ge/announcement/499846",
 "firstSeen": "2026-11-07T14:02+04:00",
-"lastSeen": "2026-11-09T21:47+04:00",
+"lastSeen": "2026-11-10T03:02+04:00",
 "active": true,
 "skills": [
 "SQL",
@@ -2132,15 +2320,8 @@
 "direction": "ფინანსური",
 "remote": "hybrid",
 "summary": {
-"about": "ჩვენ ვართ თიბისი - წამყვანი ფინანსური ინსტიტუტი რეგიონში, სადაც გამბედავი და მიზანსწრაფული გუნდი, ჩვენს მისიას ვასრულებთ და ადამიანების ცხოვრებას ვამარტივებთ. ჩვენ ვადგენთ მომსახურების ახალ სტანდარტს მონაცემთა ანალიზის, ხელოვნური ინტელექტისა და ციფრული…",
-"duties": [
-"კლიენტებისა და კლიენტური ჯგუფების მომგებიანობის მონიტორინგი, ანალიზიდაშესაბამისირეკომენდაციებისმომზადება",
-"კლიენტური ბაზის ანალიზი — აქტივობა, Monthly Active Users, მოზიდვა, გადინება, retention, cross-sell და სხვა ძირითადიმაჩვენებლები",
-"ახალი ინიციატივების, შეთავაზებებისა და კამპანიების ფინანსურიეფექტიანობისშეფასება — business case, unit economics, breakeven და ROI",
-"ფინანსური და კომერციული Target-ების ჩამოყალიბებაში მონაწილეობა და მათი შესრულებისმონიტორინგი",
-"დიდი მოცულობის მონაცემების დამუშავება და მათზე დაფუძნებული ანალიტიკური ხედვებისა და რეკომენდაციების მომზადება",
-"რთული ანალიზის მარტივ, სტრუქტურულ და გადაწყვეტილებაზე ორიენტირებულ ფორმატში წარმოდგენა"
-],
+"about": "თიბისი აცხადებს ვაკანსიას პოზიციაზე: ფინანსური ანალიტიკოსი - სტრატეგიული ფინანსები. ადგილმდებარეობა: თბილისი, სათაო / სტრატეგიული ფინანსების დეპარტამენტი თანამშრომლები ჰიბრიდულ რეჟიმში მუშაობენ დასაქმების ტიპი: შრომითი ხელშეკრულება სამუშაო გრაფიკი: სრული…",
+"duties": [],
 "reqs": [
 "ძლიერი ანალიტიკური და კრიტიკული აზროვნება",
 "ფინანსური და კომერციული მონაცემების გააზრების უნარი",
@@ -2150,47 +2331,9 @@
 "ცვლილებებთან სწრაფად ადაპტირების უნარი",
 "Power BI და SQL"
 ],
-"offers": [
-"ანონიმური ვებ-ფორმა #1 – https://form.jotform.me/tbcbank/anonymous-hotline",
-"ანონიმური ვებ-ფორმა #2 – https://app.safecall.co.uk/ka/file-a-report",
-"ანონიმური ცხელი ხაზი – 0800 100 268",
-"ანონიმური წერილი"
-]
-},
-"textLen": 3771
-},
-{
-"id": "b68ec7ea48a3",
-"title": "უმცროსი ანალიტიკოსი",
-"company": "ლიბერთი, ბაზისბანკ ჯგუფი",
-"logo": null,
-"salary": null,
-"published": "2026-10-27",
-"deadline": "2026-11-09",
-"location": "თბილისი",
-"sources": [
-{
-"site": "jobs.ge",
-"url": "https://jobs.ge/ge/?view=jobs&id=763857"
-}
-],
-"url": "https://jobs.ge/ge/?view=jobs&id=763857",
-"firstSeen": "2026-11-07T14:02+04:00",
-"lastSeen": "2026-11-09T21:47+04:00",
-"active": true,
-"skills": [],
-"languages": [],
-"exp": null,
-"level": "Junior",
-"direction": "სხვა",
-"remote": null,
-"summary": {
-"about": "\"ლიბერთი, ბაზისბანკ ჯგუფი \" აცხადებს ვაკანსიას უმცროსი ანალიტიკოსის პოზიციაზე. იხილეთ განცხადების ბმული: https://www.libertybank.ge/ka/kariera/mimdinare-vakansiebi/1334/umtsrosi-analitikosi-strategiuli-proeqtebisa-da-m_a-mimartulebit",
-"duties": [],
-"reqs": [],
 "offers": []
 },
-"textLen": 233
+"textLen": 3307
 },
 {
 "id": "e79bf0e6f349",
@@ -2209,7 +2352,7 @@
 ],
 "url": "https://jobs.ge/ge/?view=jobs&id=763833",
 "firstSeen": "2026-11-07T14:02+04:00",
-"lastSeen": "2026-11-09T21:47+04:00",
+"lastSeen": "2026-11-10T03:02+04:00",
 "active": true,
 "skills": [],
 "languages": [
@@ -2262,7 +2405,7 @@
 ],
 "url": "https://jobs.ge/ge/?view=jobs&id=763829",
 "firstSeen": "2026-11-07T14:02+04:00",
-"lastSeen": "2026-11-09T21:47+04:00",
+"lastSeen": "2026-11-10T03:02+04:00",
 "active": true,
 "skills": [
 "სტატისტიკა"
@@ -2321,7 +2464,7 @@
 ],
 "url": "https://jobs.ge/ge/?view=jobs&id=763767",
 "firstSeen": "2026-11-07T14:02+04:00",
-"lastSeen": "2026-11-09T21:47+04:00",
+"lastSeen": "2026-11-10T03:02+04:00",
 "active": true,
 "skills": [
 "Excel",
@@ -2372,7 +2515,7 @@
 ],
 "url": "https://jobs.ge/ge/?view=jobs&id=763899",
 "firstSeen": "2026-11-07T14:02+04:00",
-"lastSeen": "2026-11-09T21:47+04:00",
+"lastSeen": "2026-11-10T03:02+04:00",
 "active": true,
 "skills": [],
 "languages": [],
@@ -2390,6 +2533,39 @@
 "offers": []
 },
 "textLen": 619
+},
+{
+"id": "b68ec7ea48a3",
+"title": "უმცროსი ანალიტიკოსი",
+"company": "ლიბერთი, ბაზისბანკ ჯგუფი",
+"logo": null,
+"salary": null,
+"published": "2026-10-27",
+"deadline": "2026-11-09",
+"location": "თბილისი",
+"sources": [
+{
+"site": "jobs.ge",
+"url": "https://jobs.ge/ge/?view=jobs&id=763857"
+}
+],
+"url": "https://jobs.ge/ge/?view=jobs&id=763857",
+"firstSeen": "2026-11-07T14:02+04:00",
+"lastSeen": "2026-11-09T21:47+04:00",
+"active": false,
+"skills": [],
+"languages": [],
+"exp": null,
+"level": "Junior",
+"direction": "სხვა",
+"remote": null,
+"summary": {
+"about": "\"ლიბერთი, ბაზისბანკ ჯგუფი \" აცხადებს ვაკანსიას უმცროსი ანალიტიკოსის პოზიციაზე. იხილეთ განცხადების ბმული: https://www.libertybank.ge/ka/kariera/mimdinare-vakansiebi/1334/umtsrosi-analitikosi-strategiuli-proeqtebisa-da-m_a-mimartulebit",
+"duties": [],
+"reqs": [],
+"offers": []
+},
+"textLen": 233
 },
 {
 "id": "c12568d07573",
@@ -2413,7 +2589,7 @@
 "url": "https://www.myjobs.ge/ka/vacancy/30796",
 "firstSeen": "2026-11-07T14:02+04:00",
 "lastSeen": "2026-11-09T21:47+04:00",
-"active": true,
+"active": false,
 "skills": [
 "Excel",
 "ფინ. მოდელირება"
@@ -2449,39 +2625,6 @@
 "textLen": 4715
 },
 {
-"id": "48690cca8d28",
-"title": "სისტემის ანალიტიკოსი",
-"company": "კრედო ბანკი",
-"logo": null,
-"salary": null,
-"published": "2026-10-26",
-"deadline": "2026-11-09",
-"location": "თბილისი",
-"sources": [
-{
-"site": "jobs.ge",
-"url": "https://jobs.ge/ge/?view=jobs&id=763565"
-}
-],
-"url": "https://jobs.ge/ge/?view=jobs&id=763565",
-"firstSeen": "2026-11-07T14:02+04:00",
-"lastSeen": "2026-11-09T21:47+04:00",
-"active": true,
-"skills": [],
-"languages": [],
-"exp": null,
-"level": "Middle",
-"direction": "ბიზნეს / სისტემური",
-"remote": null,
-"summary": {
-"about": "\" კრედო ბანკი \" აცხადებს ვაკანსიას პოზიციაზე - სისტემის ანალიტიკოსი , ქალაქში - თბილისი. ვაკანსიის შესახებ დეტალური ინფორმაციის გასაცნობად და რეზიუმეს გადმოსაგზავნად გთხოვთ ეწვიოთ მოცემულ ბმულს: https://hel-ai.com/apply/wo45penb",
-"duties": [],
-"reqs": [],
-"offers": []
-},
-"textLen": 228
-},
-{
 "id": "ccf33f8bcc54",
 "title": "ანაზღაურებადი სტაჟირება კომერციულ მიმართულებაში – ანალიტიკა",
 "company": "TBC Leasing – თიბისი ლიზინგი",
@@ -2498,7 +2641,7 @@
 ],
 "url": "https://unijobs.ge/job/anazgaurebadi-stajireba-komerciul-mimartulebashi-analitika-3/",
 "firstSeen": "2026-11-07T14:02+04:00",
-"lastSeen": "2026-11-09T21:47+04:00",
+"lastSeen": "2026-11-10T03:02+04:00",
 "active": true,
 "skills": [],
 "languages": [],
@@ -2516,6 +2659,39 @@
 "offers": []
 },
 "textLen": 265
+},
+{
+"id": "48690cca8d28",
+"title": "სისტემის ანალიტიკოსი",
+"company": "კრედო ბანკი",
+"logo": null,
+"salary": null,
+"published": "2026-10-26",
+"deadline": "2026-11-09",
+"location": "თბილისი",
+"sources": [
+{
+"site": "jobs.ge",
+"url": "https://jobs.ge/ge/?view=jobs&id=763565"
+}
+],
+"url": "https://jobs.ge/ge/?view=jobs&id=763565",
+"firstSeen": "2026-11-07T14:02+04:00",
+"lastSeen": "2026-11-09T21:47+04:00",
+"active": false,
+"skills": [],
+"languages": [],
+"exp": null,
+"level": "Middle",
+"direction": "ბიზნეს / სისტემური",
+"remote": null,
+"summary": {
+"about": "\" კრედო ბანკი \" აცხადებს ვაკანსიას პოზიციაზე - სისტემის ანალიტიკოსი , ქალაქში - თბილისი. ვაკანსიის შესახებ დეტალური ინფორმაციის გასაცნობად და რეზიუმეს გადმოსაგზავნად გთხოვთ ეწვიოთ მოცემულ ბმულს: https://hel-ai.com/apply/wo45penb",
+"duties": [],
+"reqs": [],
+"offers": []
+},
+"textLen": 228
 },
 {
 "id": "daf7fd64e73c",
@@ -2538,7 +2714,7 @@
 ],
 "url": "https://www.myjobs.ge/ka/vacancy/30698",
 "firstSeen": "2026-11-07T14:02+04:00",
-"lastSeen": "2026-11-09T21:47+04:00",
+"lastSeen": "2026-11-10T03:02+04:00",
 "active": true,
 "skills": [
 "Excel"
@@ -2624,7 +2800,7 @@
 ],
 "url": "https://jobs.ge/ge/?view=jobs&id=763214",
 "firstSeen": "2026-11-07T14:02+04:00",
-"lastSeen": "2026-11-09T21:47+04:00",
+"lastSeen": "2026-11-10T03:02+04:00",
 "active": true,
 "skills": [],
 "languages": [
@@ -2663,7 +2839,7 @@
 ],
 "url": "https://www.hr.ge/announcement/499435",
 "firstSeen": "2026-11-07T14:02+04:00",
-"lastSeen": "2026-11-09T21:47+04:00",
+"lastSeen": "2026-11-10T03:02+04:00",
 "active": true,
 "skills": [
 "Excel",
@@ -2726,7 +2902,7 @@
 ],
 "url": "https://www.hr.ge/announcement/499425",
 "firstSeen": "2026-11-07T14:02+04:00",
-"lastSeen": "2026-11-09T21:47+04:00",
+"lastSeen": "2026-11-10T03:02+04:00",
 "active": true,
 "skills": [
 "Excel",
@@ -2786,7 +2962,7 @@
 ],
 "url": "https://www.hr.ge/announcement/499287",
 "firstSeen": "2026-11-07T14:02+04:00",
-"lastSeen": "2026-11-09T21:47+04:00",
+"lastSeen": "2026-11-10T03:02+04:00",
 "active": true,
 "skills": [
 "API"
@@ -2839,7 +3015,7 @@
 "url": "https://www.myjobs.ge/ka/vacancy/30664",
 "firstSeen": "2026-11-07T14:02+04:00",
 "lastSeen": "2026-11-09T21:47+04:00",
-"active": true,
+"active": false,
 "skills": [],
 "languages": [],
 "exp": null,
@@ -2871,7 +3047,7 @@
 ],
 "url": "https://jobs.ge/ge/?view=jobs&id=762858",
 "firstSeen": "2026-11-07T14:02+04:00",
-"lastSeen": "2026-11-09T21:47+04:00",
+"lastSeen": "2026-11-10T03:02+04:00",
 "active": true,
 "skills": [],
 "languages": [
@@ -2907,7 +3083,7 @@
 "url": "https://www.myjobs.ge/ka/vacancy/30631",
 "firstSeen": "2026-11-07T14:02+04:00",
 "lastSeen": "2026-11-09T21:47+04:00",
-"active": true,
+"active": false,
 "skills": [],
 "languages": [],
 "exp": null,
@@ -2939,7 +3115,7 @@
 ],
 "url": "https://jobs.ge/ge/?view=jobs&id=762640",
 "firstSeen": "2026-11-07T14:02+04:00",
-"lastSeen": "2026-11-09T21:47+04:00",
+"lastSeen": "2026-11-10T03:02+04:00",
 "active": true,
 "skills": [],
 "languages": [],
@@ -2972,7 +3148,7 @@
 ],
 "url": "https://jobs.ge/ge/?view=jobs&id=762578",
 "firstSeen": "2026-11-07T14:02+04:00",
-"lastSeen": "2026-11-09T21:47+04:00",
+"lastSeen": "2026-11-10T03:02+04:00",
 "active": true,
 "skills": [],
 "languages": [],
@@ -3009,7 +3185,7 @@
 ],
 "url": "https://www.hr.ge/announcement/499117",
 "firstSeen": "2026-11-07T14:02+04:00",
-"lastSeen": "2026-11-09T21:47+04:00",
+"lastSeen": "2026-11-10T03:02+04:00",
 "active": true,
 "skills": [
 "Excel",
@@ -3069,7 +3245,7 @@
 ],
 "url": "https://www.hr.ge/announcement/499080",
 "firstSeen": "2026-11-07T14:02+04:00",
-"lastSeen": "2026-11-09T21:47+04:00",
+"lastSeen": "2026-11-10T03:02+04:00",
 "active": true,
 "skills": [
 "SQL",
@@ -3121,7 +3297,7 @@
 ],
 "url": "https://jobs.ge/ge/?view=jobs&id=762120",
 "firstSeen": "2026-11-07T14:02+04:00",
-"lastSeen": "2026-11-09T21:47+04:00",
+"lastSeen": "2026-11-10T03:02+04:00",
 "active": true,
 "skills": [
 "Excel"
@@ -3174,7 +3350,7 @@
 ],
 "url": "https://jobs.smartrecruiters.com/TBCBANK/744000156505414",
 "firstSeen": "2026-11-07T14:02+04:00",
-"lastSeen": "2026-11-09T21:47+04:00",
+"lastSeen": "2026-11-10T03:02+04:00",
 "active": true,
 "skills": [
 "Excel"
@@ -3248,7 +3424,7 @@
 ],
 "url": "https://jobs.ge/ge/?view=jobs&id=763682",
 "firstSeen": "2026-11-07T14:02+04:00",
-"lastSeen": "2026-11-09T21:47+04:00",
+"lastSeen": "2026-11-10T03:02+04:00",
 "active": true,
 "skills": [
 "SQL",
@@ -3315,7 +3491,7 @@
 ],
 "url": "https://jobs.ge/ge/?view=jobs&id=765807",
 "firstSeen": "2026-11-07T14:02+04:00",
-"lastSeen": "2026-11-09T21:47+04:00",
+"lastSeen": "2026-11-10T03:02+04:00",
 "active": true,
 "skills": [
 "Excel"
@@ -3373,7 +3549,7 @@
 ],
 "url": "https://www.myjobs.ge/ka/vacancy/27002",
 "firstSeen": "2026-11-07T14:02+04:00",
-"lastSeen": "2026-11-09T21:47+04:00",
+"lastSeen": "2026-11-10T03:02+04:00",
 "active": true,
 "skills": [],
 "languages": [],
@@ -3410,7 +3586,7 @@
 ],
 "url": "https://jobs.ge/ge/?view=jobs&id=762722",
 "firstSeen": "2026-11-07T14:02+04:00",
-"lastSeen": "2026-11-09T21:47+04:00",
+"lastSeen": "2026-11-10T03:02+04:00",
 "active": true,
 "skills": [
 "Excel"
@@ -3466,7 +3642,7 @@
 ],
 "url": "https://www.myjobs.ge/ka/vacancy/27028",
 "firstSeen": "2026-11-07T14:02+04:00",
-"lastSeen": "2026-11-09T21:47+04:00",
+"lastSeen": "2026-11-10T03:02+04:00",
 "active": true,
 "skills": [],
 "languages": [],
@@ -3506,7 +3682,7 @@
 ],
 "url": "https://jobs.ge/ge/?view=jobs&id=765968",
 "firstSeen": "2026-11-07T14:02+04:00",
-"lastSeen": "2026-11-09T21:47+04:00",
+"lastSeen": "2026-11-10T03:02+04:00",
 "active": true,
 "skills": [],
 "languages": [
@@ -3545,7 +3721,7 @@
 ],
 "url": "https://www.myjobs.ge/ka/vacancy/27089",
 "firstSeen": "2026-11-07T14:02+04:00",
-"lastSeen": "2026-11-09T21:47+04:00",
+"lastSeen": "2026-11-10T03:02+04:00",
 "active": true,
 "skills": [
 "Excel",
@@ -3607,7 +3783,7 @@
 ],
 "url": "https://jobs.ge/ge/?view=jobs&id=761293",
 "firstSeen": "2026-11-07T14:02+04:00",
-"lastSeen": "2026-11-09T21:47+04:00",
+"lastSeen": "2026-11-10T03:02+04:00",
 "active": true,
 "skills": [],
 "languages": [
@@ -3650,7 +3826,7 @@
 ],
 "url": "https://jobs.ge/ge/?view=jobs&id=761177",
 "firstSeen": "2026-11-07T14:02+04:00",
-"lastSeen": "2026-11-09T21:47+04:00",
+"lastSeen": "2026-11-10T03:02+04:00",
 "active": true,
 "skills": [],
 "languages": [
@@ -3704,7 +3880,7 @@
 ],
 "url": "https://jobs.ge/ge/?view=jobs&id=760965",
 "firstSeen": "2026-11-07T14:02+04:00",
-"lastSeen": "2026-11-09T21:47+04:00",
+"lastSeen": "2026-11-10T03:02+04:00",
 "active": true,
 "skills": [],
 "languages": [],
@@ -3741,7 +3917,7 @@
 ],
 "url": "https://jobs.ge/ge/?view=jobs&id=763603",
 "firstSeen": "2026-11-07T14:02+04:00",
-"lastSeen": "2026-11-09T21:47+04:00",
+"lastSeen": "2026-11-10T03:02+04:00",
 "active": true,
 "skills": [],
 "languages": [],
@@ -3780,7 +3956,7 @@
 ],
 "url": "https://www.myjobs.ge/ka/vacancy/27110",
 "firstSeen": "2026-11-07T14:02+04:00",
-"lastSeen": "2026-11-09T21:47+04:00",
+"lastSeen": "2026-11-10T03:02+04:00",
 "active": true,
 "skills": [],
 "languages": [],
@@ -3813,7 +3989,7 @@
 ],
 "url": "https://jobs.ge/ge/?view=jobs&id=761105",
 "firstSeen": "2026-11-07T14:02+04:00",
-"lastSeen": "2026-11-09T21:47+04:00",
+"lastSeen": "2026-11-10T03:02+04:00",
 "active": true,
 "skills": [],
 "languages": [],
@@ -3850,7 +4026,7 @@
 ],
 "url": "https://www.myjobs.ge/ka/vacancy/27066",
 "firstSeen": "2026-11-07T14:02+04:00",
-"lastSeen": "2026-11-09T21:47+04:00",
+"lastSeen": "2026-11-10T03:02+04:00",
 "active": true,
 "skills": [],
 "languages": [
@@ -3889,7 +4065,7 @@
 ],
 "url": "https://jobs.smartrecruiters.com/TBCBANK/744000155709331",
 "firstSeen": "2026-11-07T14:02+04:00",
-"lastSeen": "2026-11-09T21:47+04:00",
+"lastSeen": "2026-11-10T03:02+04:00",
 "active": true,
 "skills": [],
 "languages": [
@@ -3948,7 +4124,7 @@
 ],
 "url": "https://jobs.smartrecruiters.com/TBCBANK/744000155784319",
 "firstSeen": "2026-11-07T14:02+04:00",
-"lastSeen": "2026-11-09T21:47+04:00",
+"lastSeen": "2026-11-10T03:02+04:00",
 "active": true,
 "skills": [
 "Excel",
@@ -4020,7 +4196,7 @@
 ],
 "url": "https://jobs.ge/ge/?view=jobs&id=761115",
 "firstSeen": "2026-11-07T14:02+04:00",
-"lastSeen": "2026-11-09T21:47+04:00",
+"lastSeen": "2026-11-10T03:02+04:00",
 "active": true,
 "skills": [
 "Excel"
@@ -4076,7 +4252,7 @@
 ],
 "url": "https://jobs.ge/ge/?view=jobs&id=761078",
 "firstSeen": "2026-11-07T14:02+04:00",
-"lastSeen": "2026-11-09T21:47+04:00",
+"lastSeen": "2026-11-10T03:02+04:00",
 "active": true,
 "skills": [
 "Excel"
@@ -4137,7 +4313,7 @@
 ],
 "url": "https://jobs.ge/ge/?view=jobs&id=765672",
 "firstSeen": "2026-11-07T14:02+04:00",
-"lastSeen": "2026-11-09T21:47+04:00",
+"lastSeen": "2026-11-10T03:02+04:00",
 "active": true,
 "skills": [],
 "languages": [],
@@ -4178,7 +4354,7 @@
 ],
 "url": "https://jobs.ge/ge/?view=jobs&id=765671",
 "firstSeen": "2026-11-07T14:02+04:00",
-"lastSeen": "2026-11-09T21:47+04:00",
+"lastSeen": "2026-11-10T03:02+04:00",
 "active": true,
 "skills": [],
 "languages": [],
@@ -4219,7 +4395,7 @@
 ],
 "url": "https://www.hr.ge/announcement/499141",
 "firstSeen": "2026-11-07T14:02+04:00",
-"lastSeen": "2026-11-09T21:47+04:00",
+"lastSeen": "2026-11-10T03:02+04:00",
 "active": true,
 "skills": [],
 "languages": [
@@ -4273,7 +4449,7 @@
 ],
 "url": "https://www.hr.ge/announcement/497759",
 "firstSeen": "2026-11-07T14:02+04:00",
-"lastSeen": "2026-11-09T21:47+04:00",
+"lastSeen": "2026-11-10T03:02+04:00",
 "active": true,
 "skills": [
 "SQL",
@@ -4333,7 +4509,7 @@
 ],
 "url": "https://jobs.ge/ge/?view=jobs&id=760535",
 "firstSeen": "2026-11-07T14:02+04:00",
-"lastSeen": "2026-11-09T21:47+04:00",
+"lastSeen": "2026-11-10T03:02+04:00",
 "active": true,
 "skills": [
 "SQL",
@@ -4389,7 +4565,7 @@
 ],
 "url": "https://jobs.ge/ge/?view=jobs&id=760484",
 "firstSeen": "2026-11-07T14:02+04:00",
-"lastSeen": "2026-11-09T21:47+04:00",
+"lastSeen": "2026-11-10T03:02+04:00",
 "active": true,
 "skills": [],
 "languages": [
@@ -4428,7 +4604,7 @@
 ],
 "url": "https://jobs.ge/ge/?view=jobs&id=760483",
 "firstSeen": "2026-11-07T14:02+04:00",
-"lastSeen": "2026-11-09T21:47+04:00",
+"lastSeen": "2026-11-10T03:02+04:00",
 "active": true,
 "skills": [],
 "languages": [
@@ -4463,7 +4639,7 @@
 ],
 "url": "https://www.myjobs.ge/ka/vacancy/29838",
 "firstSeen": "2026-11-07T14:02+04:00",
-"lastSeen": "2026-11-09T21:47+04:00",
+"lastSeen": "2026-11-10T03:02+04:00",
 "active": true,
 "skills": [
 "Oracle"
@@ -4500,7 +4676,7 @@
 ],
 "url": "https://www.myjobs.ge/ka/vacancy/26322",
 "firstSeen": "2026-11-07T14:02+04:00",
-"lastSeen": "2026-11-09T21:47+04:00",
+"lastSeen": "2026-11-10T03:02+04:00",
 "active": true,
 "skills": [],
 "languages": [],
@@ -4515,65 +4691,6 @@
 "offers": []
 },
 "textLen": 398
-},
-{
-"id": "23c9f1446a55",
-"title": "IT ბიზნეს ანალიტიკოსი",
-"company": "უნისონი",
-"logo": "https://jobs.ge/data/clients/logo_icon/1542.gif",
-"salary": null,
-"published": "2026-10-09",
-"deadline": "2026-11-28",
-"location": "თბილისი",
-"sources": [
-{
-"site": "jobs.ge",
-"url": "https://jobs.ge/ge/?view=jobs&id=764300"
-},
-{
-"site": "myjobs.ge",
-"url": "https://www.myjobs.ge/ka/vacancy/29843"
-}
-],
-"url": "https://jobs.ge/ge/?view=jobs&id=764300",
-"firstSeen": "2026-11-07T14:02+04:00",
-"lastSeen": "2026-11-09T21:47+04:00",
-"active": true,
-"skills": [
-"SQL",
-"API",
-"Cloud"
-],
-"languages": [
-"ინგლისური",
-"რუსული"
-],
-"exp": 2,
-"level": "Middle",
-"direction": "ბიზნეს / სისტემური",
-"remote": null,
-"summary": {
-"about": "სადაზღვევო კომპანია \" უნისონი \" 2011 წლიდან ზრუნავს ადამიანებისა და ბიზნესების ფინანსურ უსაფრთხოებაზე. წლების განმავლობაში ჩვენ ჩამოვყალიბდით ქართული სადაზღვევო ბაზრის ერთ-ერთ წამყვან კომპანიად, რომელსაც მომხმარებლები ენდობიან პროფესიონალიზმის, ინოვაციური…",
-"duties": [
-"ინფორმაციული ტექნოლოგიების დეპარტამენტსა და კომპანიის ტოპ-მენეჯმენტს, ასევე სხვადასხვა ბიზნეს ერთეულებს შორის ურთიერთკავშირის დამყარება",
-"კომპანიის სტრატეგიული ბიზნეს საჭიროებების და ზრდის გეგმების გააზრება და ანალიზი",
-"კომპანიის ვებ-საიტის მიმართულების მართვა-განვითარება",
-"IT პროდუქტებისა და სერვისების ხარისხის ამაღლება",
-"არსებული ტექნიკური სისტემებისა და ბიზნეს მოდელების ანალიზი",
-"IT მონაცემების გამოყენება ბიზნეს ანალიტიკისთვის"
-],
-"reqs": [
-"უმაღლესი განათლება კომპიუტერული ინჟინერიის, ბიზნესის ადმინისტრირების ან მასთან დაკავშირებულ სფეროში",
-"ანალიტიკოსის პოზიციაზე ან ტექნოლოგიების სფეროში 3 წლიანი გამოცდილება",
-"მსგავს პოზიციაზე მინ. 2 წლიანი გამოცდილება",
-"WEB ტექნოლოგიებთან მუშაობის გამოცდილება",
-"API სერვისებთან მუშაობის გამოცდილება",
-"AMAZON AWS- თან მუშაობის გამოცდილება",
-"ინგლისური ენების ცოდნა, რუსული ენის ცოდნა (სასურველია)"
-],
-"offers": []
-},
-"textLen": 3204
 },
 {
 "id": "b7ab8895d766",
@@ -4593,7 +4710,7 @@
 "url": "https://jobs.ge/ge/?view=jobs&id=759915",
 "firstSeen": "2026-11-07T14:02+04:00",
 "lastSeen": "2026-11-09T21:47+04:00",
-"active": true,
+"active": false,
 "skills": [
 "SQL",
 "Machine Learning"
@@ -4629,108 +4746,6 @@
 "textLen": 2877
 },
 {
-"id": "41267b879f07",
-"title": "აუდიტის მენეჯერი",
-"company": "აუდიტორული კომპანია TMC",
-"logo": "https://jobs.ge/data/clients/logo_icon/18947_tmc_9674631.gif",
-"salary": null,
-"published": "2026-10-09",
-"deadline": "2026-12-09",
-"location": "თბილისი",
-"sources": [
-{
-"site": "jobs.ge",
-"url": "https://jobs.ge/ge/?view=jobs&id=767072"
-}
-],
-"url": "https://jobs.ge/ge/?view=jobs&id=767072",
-"firstSeen": "2026-11-07T14:02+04:00",
-"lastSeen": "2026-11-09T21:47+04:00",
-"active": true,
-"skills": [
-"Excel",
-"IFRS"
-],
-"languages": [
-"ინგლისური"
-],
-"exp": 4,
-"level": "Middle",
-"direction": "აუდიტი",
-"remote": null,
-"summary": {
-"about": "აუდიტორული კომპანია \"თი ემ სი\" აცხადებს ვაკანსიას აუდიტის მენეჯერის პოზიციაზე.",
-"duties": [
-"ფინანსური ანგარიშგების აუდიტის პროექტების დაგეგმვასა და შესრულებაში მონაწილეობა და მათი მართვა",
-"აუდიტის გუნდის ხელმძღვანელობა, სამუშაოს შესრულების კონტროლი და გუნდის წევრებისთვის პროფესიული უკუკავშირის მიცემა",
-"აუდიტის სამუშაო დოკუმენტაციის დეტალური მიმოხილვა და შესაბამისობის უზრუნველყოფა",
-"აუდიტის ფარგლებში მომზადებული ფინანსური ანგარიშგების, განმარტებითი შენიშვნებისა და სხვა ფინანსური ინფორმაციის ანალიზი",
-"აუდიტის შედეგად გამოვლენილი საკითხების, უზუსტობებისა და რისკების შეფასება",
-"კლიენტთან დამოუკიდებელი პროფესიული კომუნიკაცია აუდიტის დაგეგმვის, მიმდინარეობისა და შედეგების შესახებ"
-],
-"reqs": [
-"აუდიტის სფეროში მინიმუმ 4 წლიანი მუშაობის გამოცდილება",
-"აუდიტის მენეჯერის ან უფროსი აუდიტორის პოზიციაზე მუშაობის გამოცდილება",
-"ფინანსური ანგარიშგების აუდიტის პროცესის სრულად და პრაქტიკულად ცოდნა",
-"აუდიტის სამუშაო დოკუმენტაციის მომზადებისა და მიმოხილვის გამოცდილება",
-"კლიენტებთან დამოუკიდებელი და პროფესიული კომუნიკაციის გამოცდილება",
-"ISA-ის ცოდნა და პრაქტიკაში გამოყენების გამოცდილება",
-"ACCA-ის პროფესიული კვალიფიკაციის მიმართულებით სწავლა"
-],
-"offers": []
-},
-"textLen": 3222
-},
-{
-"id": "b7547cc86d2c",
-"title": "უმცროსი აუდიტორი",
-"company": "აუდიტორული კომპანია TMC",
-"logo": "https://jobs.ge/data/clients/logo_icon/18947_tmc_9674631.gif",
-"salary": null,
-"published": "2026-10-09",
-"deadline": "2026-12-09",
-"location": "თბილისი",
-"sources": [
-{
-"site": "jobs.ge",
-"url": "https://jobs.ge/ge/?view=jobs&id=759944"
-}
-],
-"url": "https://jobs.ge/ge/?view=jobs&id=759944",
-"firstSeen": "2026-11-07T14:02+04:00",
-"lastSeen": "2026-11-09T21:47+04:00",
-"active": true,
-"skills": [
-"Excel",
-"IFRS"
-],
-"languages": [],
-"exp": 2,
-"level": "Junior",
-"direction": "აუდიტი",
-"remote": null,
-"summary": {
-"about": "აუდიტორული კომპანია \"თი ემ სი\" აცხადებს ვაკანსიას უმცროსი აუდიტორის პოზიციაზე.",
-"duties": [
-"ფინანსური ინფორმაციის შეგროვებას",
-"ბუღალტრულ ოპერაციებში არსებული უზუსტობების იდენტიფიცირებას ფინანსურ ინფორმაციასთან, მათ შორის პირველად დოკუმენტებთან მიმართებაში",
-"ცხრილების მომზადებას MS Excel-ში",
-"გამოვლენილი ხარვეზების განხილვას ხელმძღვანელ პირებთან",
-"კვალიფიკაციის შესაბამისად ფინანსური დეპარტამენტის საქმიანობასთან დაკავშირებული სხვა ამოცანების შესრულებას",
-"პროფესიულ განვითარებაზე ორიენტირებულობა"
-],
-"reqs": [
-"უმაღლესი განათლება",
-"ბუღალტრული აღრიცხვისა და IFRS-ის საბაზისო დონეზე ცოდნა",
-"ACCA-ის პროფესიული კვალიფიკაციის მიმართულებით სწავლა ჩაითვლება უპირატესობად",
-"მინიმუმ 2 წლიანი სამუშაო გამოცდილება ბუღალტრული აღრიცხვის ან აუდიტის მიმართულებით",
-"სამუშაოს შესრულების სიზუსტე და დეტალებზე ორიენტირებულობა"
-],
-"offers": []
-},
-"textLen": 2746
-},
-{
 "id": "f40b942a12d0",
 "title": "უფროსი აუდიტორი",
 "company": "აუდიტორული კომპანია TMC",
@@ -4748,7 +4763,7 @@
 "url": "https://jobs.ge/ge/?view=jobs&id=759943",
 "firstSeen": "2026-11-07T14:02+04:00",
 "lastSeen": "2026-11-09T21:47+04:00",
-"active": true,
+"active": false,
 "skills": [
 "Excel",
 "IFRS"
@@ -5131,7 +5146,7 @@
 ],
 "url": "https://jobs.smartrecruiters.com/TBCBANK/744000137871914",
 "firstSeen": "2026-11-07T14:02+04:00",
-"lastSeen": "2026-11-09T21:47+04:00",
+"lastSeen": "2026-11-10T03:02+04:00",
 "active": true,
 "skills": [
 "SQL",
@@ -5190,7 +5205,7 @@
 ],
 "url": "https://jobs.smartrecruiters.com/TBCBANK/743999956340743",
 "firstSeen": "2026-11-07T14:02+04:00",
-"lastSeen": "2026-11-09T21:47+04:00",
+"lastSeen": "2026-11-10T03:02+04:00",
 "active": true,
 "skills": [
 "Excel"
