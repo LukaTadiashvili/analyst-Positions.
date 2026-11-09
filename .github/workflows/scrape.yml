@@ -7,7 +7,12 @@ on:
     - cron: "17 4 * * *"   # 08:17 თბილისი
     - cron: "41 7 * * *"   # 11:41 თბილისი
     - cron: "23 13 * * *"  # 17:23 თბილისი
-  workflow_dispatch: {}    # აპის "განახლების" ღილაკი / ხელით გაშვება
+  workflow_dispatch:        # აპის "განახლების" ღილაკი / ხელით გაშვება
+    inputs:
+      test_notify:
+        description: "ტესტური შეტყობინების გაგზავნა ntfy-ზე"
+        type: boolean
+        default: false
   push:
     branches: [main]
     paths: ["site/**", "scraper/**", ".github/workflows/**"]
@@ -39,6 +44,7 @@ jobs:
         if: github.event_name != 'push'
         env:
           NTFY_TOPIC: ${{ secrets.NTFY_TOPIC }}
+          NTFY_TEST: ${{ inputs.test_notify && '1' || '' }}
           SITE_URL: https://${{ github.repository_owner }}.github.io/${{ github.event.repository.name }}
         run: python scraper/scrape.py
 

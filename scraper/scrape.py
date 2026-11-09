@@ -886,6 +886,22 @@ def build(raws: list[dict], previous: dict) -> dict:
 
 # ---------------------------------------------------------------- notify
 
+def notify_test(active: int):
+    topic = os.environ.get("NTFY_TOPIC", "").strip()
+    if not topic:
+        print("::error::NTFY_TOPIC საიდუმლო არ არის შენახული — Settings → Secrets and variables → Actions")
+        return
+    site_url = os.environ.get("SITE_URL", "").rstrip("/")
+    payload = {"topic": topic, "title": "✅ ტესტი: შეტყობინებები მუშაობს",
+               "message": f"ახლა {active} აქტიური ანალიტიკოსის ვაკანსიაა. ახალ ვაკანსიაზე ასეთი შეტყობინება მოგივა.",
+               "tags": ["white_check_mark"], "priority": 4}
+    if site_url:
+        payload["click"] = site_url + "/"
+    fetch("https://ntfy.sh/", data=json.dumps(payload).encode("utf-8"),
+          headers={"Content-Type": "application/json"}, retries=1)
+    print("ntfy: ტესტური შეტყობინება გაიგზავნა")
+
+
 def notify(new_jobs: list[dict], first_run: bool):
     topic = os.environ.get("NTFY_TOPIC", "").strip()
     if not topic or not new_jobs:
@@ -1003,6 +1019,8 @@ def main():
 
     print(f"სულ: {meta['active']} აქტიური, {meta['new']} ახალი")
     notify(new_jobs, first_run)
+    if os.environ.get("NTFY_TEST"):
+        notify_test(meta["active"])
 
 
 if __name__ == "__main__":
