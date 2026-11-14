@@ -1,24 +1,21 @@
 {
- "updated": "2026-11-14T15:28+04:00",
+ "updated": "2026-11-14T18:28+04:00",
  "active": 99,
  "total": 132,
- "new": 2,
- "newIds": [
-  "228b61e3ffb0",
-  "b19101a45cae"
- ],
+ "new": 0,
+ "newIds": [],
  "sources": [
   {
    "site": "jobs.ge",
    "ok": true,
    "count": 74,
-   "sec": 14.8
+   "sec": 13.3
   },
   {
    "site": "hr.ge",
    "ok": true,
    "count": 26,
-   "sec": 21.4
+   "sec": 18.7
   },
   {
    "site": "myjobs.ge",
@@ -30,7 +27,7 @@
    "site": "cv.ge",
    "ok": true,
    "count": 18,
-   "sec": 20.2
+   "sec": 18.4
   },
   {
    "site": "hh.ge",
@@ -48,19 +45,19 @@
    "site": "openjobs.ge",
    "ok": true,
    "count": 0,
-   "sec": 13.6
+   "sec": 13.0
   },
   {
    "site": "unijobs.ge",
    "ok": true,
    "count": 2,
-   "sec": 13.6
+   "sec": 14.3
   },
   {
    "site": "joob.ge",
    "ok": true,
    "count": 0,
-   "sec": 28.6
+   "sec": 27.7
   }
  ]
 }
