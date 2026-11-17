@@ -1,39 +1,44 @@
 {
- "updated": "2026-11-17T02:56+04:00",
- "active": 94,
- "total": 134,
- "new": 0,
- "newIds": [],
+ "updated": "2026-11-17T17:26+04:00",
+ "active": 98,
+ "total": 138,
+ "new": 4,
+ "newIds": [
+  "85eb7ece2b3d",
+  "e5679e1da12a",
+  "7dd77a3d8847",
+  "649f0bbf2bb3"
+ ],
  "sources": [
   {
    "site": "jobs.ge",
    "ok": true,
-   "count": 71,
+   "count": 73,
    "sec": 15.6
   },
   {
    "site": "hr.ge",
    "ok": true,
-   "count": 27,
-   "sec": 19.2
+   "count": 30,
+   "sec": 30.1
   },
   {
    "site": "myjobs.ge",
-   "ok": false,
-   "count": 0,
-   "error": "IncompleteRead(38557 bytes read)"
+   "ok": true,
+   "count": 17,
+   "sec": 79.9
   },
   {
    "site": "cv.ge",
    "ok": true,
-   "count": 19,
-   "sec": 20.8
+   "count": 22,
+   "sec": 32.1
   },
   {
    "site": "hh.ge",
-   "ok": true,
-   "count": 1,
-   "sec": 2.5
+   "ok": false,
+   "count": 0,
+   "error": "https://www.hh.ge/en/vacancies/: HTTP Error 503: Service Unavailable"
   },
   {
    "site": "TBC კარიერა",
@@ -51,13 +56,13 @@
    "site": "unijobs.ge",
    "ok": true,
    "count": 2,
-   "sec": 13.5
+   "sec": 16.4
   },
   {
    "site": "joob.ge",
    "ok": true,
    "count": 0,
-   "sec": 27.0
+   "sec": 39.0
   }
  ]
 }
