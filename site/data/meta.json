@@ -1,65 +1,63 @@
 {
- "updated": "2026-11-24T23:04+04:00",
- "active": 90,
+ "updated": "2026-11-25T03:06+04:00",
+ "active": 89,
  "total": 157,
- "new": 1,
- "newIds": [
-  "c037fd47249a"
- ],
+ "new": 0,
+ "newIds": [],
  "sources": [
   {
    "site": "jobs.ge",
    "ok": true,
    "count": 64,
-   "sec": 13.2
+   "sec": 13.4
   },
   {
    "site": "hr.ge",
    "ok": true,
-   "count": 30,
-   "sec": 38.9
+   "count": 29,
+   "sec": 38.5
   },
   {
    "site": "myjobs.ge",
    "ok": true,
    "count": 10,
-   "sec": 63.7
+   "sec": 62.4
   },
   {
    "site": "cv.ge",
    "ok": true,
-   "count": 24,
-   "sec": 37.5
+   "count": 23,
+   "sec": 29.6
   },
   {
    "site": "hh.ge",
    "ok": true,
    "count": 0,
-   "sec": 3.1
+   "sec": 2.8
   },
   {
    "site": "TBC კარიერა",
    "ok": true,
    "count": 7,
-   "sec": 1.7
+   "sec": 1.8
   },
   {
    "site": "openjobs.ge",
    "ok": true,
    "count": 0,
-   "sec": 14.8
+   "sec": 14.2
   },
   {
    "site": "unijobs.ge",
    "ok": true,
    "count": 2,
-   "sec": 15.2
+   "sec": 14.9
   },
   {
    "site": "joob.ge",
    "ok": true,
    "count": 0,
-   "sec": 27.2
+   "sec": 25.7
   }
  ]
 }
