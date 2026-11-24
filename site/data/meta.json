@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-23T23:27+04:00",
+ "updated": "2026-11-24T05:01+04:00",
  "active": 84,
  "total": 151,
  "new": 0,
@@ -9,55 +9,55 @@
    "site": "jobs.ge",
    "ok": true,
    "count": 61,
-   "sec": 14.2
+   "sec": 12.0
   },
   {
    "site": "hr.ge",
-   "ok": false,
-   "count": 0,
-   "error": "https://www.hr.ge/search-posting?q=analyst: HTTP Error 504: Gateway Time-out"
+   "ok": true,
+   "count": 26,
+   "sec": 155.3
   },
   {
    "site": "myjobs.ge",
    "ok": true,
    "count": 9,
-   "sec": 66.4
+   "sec": 58.4
   },
   {
    "site": "cv.ge",
-   "ok": false,
-   "count": 0,
-   "error": "https://www.cv.ge/search-posting?q=%E1%83%90%E1%83%9C%E1%83%90%E1%83%9A%E1%83%98%E1%83%A2%E1%83%98%E1%83%99%E1%83%9D%E1%83%A1%E1%83%98: HTTP Error 502: Bad Gateway"
+   "ok": true,
+   "count": 22,
+   "sec": 163.2
   },
   {
    "site": "hh.ge",
    "ok": true,
    "count": 0,
-   "sec": 3.2
+   "sec": 2.6
   },
   {
    "site": "TBC კარიერა",
    "ok": true,
    "count": 7,
-   "sec": 1.9
+   "sec": 1.8
   },
   {
    "site": "openjobs.ge",
    "ok": true,
    "count": 0,
-   "sec": 13.5
+   "sec": 12.6
   },
   {
    "site": "unijobs.ge",
    "ok": true,
    "count": 2,
-   "sec": 15.2
+   "sec": 13.3
   },
   {
    "site": "joob.ge",
    "ok": true,
    "count": 0,
-   "sec": 39.6
+   "sec": 27.6
   }
  ]
 }
