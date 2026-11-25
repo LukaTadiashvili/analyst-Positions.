@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-25T22:10+04:00",
- "active": 94,
+ "updated": "2026-11-26T02:37+04:00",
+ "active": 92,
  "total": 161,
  "new": 0,
  "newIds": [],
@@ -9,55 +9,55 @@
    "site": "jobs.ge",
    "ok": true,
    "count": 65,
-   "sec": 12.2
+   "sec": 11.8
   },
   {
    "site": "hr.ge",
    "ok": true,
-   "count": 32,
-   "sec": 23.0
+   "count": 31,
+   "sec": 22.1
   },
   {
    "site": "myjobs.ge",
    "ok": true,
-   "count": 10,
-   "sec": 66.9
+   "count": 9,
+   "sec": 58.9
   },
   {
    "site": "cv.ge",
-   "ok": false,
-   "count": 0,
-   "error": "https://www.cv.ge/search-posting?q=%E1%83%90%E1%83%9C%E1%83%90%E1%83%9A%E1%83%98%E1%83%A2%E1%83%98%E1%83%99%E1%83%90: HTTP Error 500: Internal Server Error"
+   "ok": true,
+   "count": 24,
+   "sec": 67.6
   },
   {
    "site": "hh.ge",
    "ok": true,
    "count": 0,
-   "sec": 3.2
+   "sec": 2.8
   },
   {
    "site": "TBC კარიერა",
    "ok": true,
    "count": 7,
-   "sec": 1.8
+   "sec": 1.7
   },
   {
    "site": "openjobs.ge",
    "ok": true,
    "count": 0,
-   "sec": 14.9
+   "sec": 14.8
   },
   {
    "site": "unijobs.ge",
    "ok": true,
    "count": 2,
-   "sec": 15.5
+   "sec": 14.8
   },
   {
    "site": "joob.ge",
    "ok": true,
    "count": 0,
-   "sec": 30.6
+   "sec": 32.3
   }
  ]
 }
