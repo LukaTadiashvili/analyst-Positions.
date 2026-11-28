@@ -1,5 +1,5 @@
 {
-"updated": "2026-11-28T16:59+04:00",
+"updated": "2026-11-28T20:23+04:00",
 "jobs": [
 {
 "id": "a64c58077e2a",
@@ -18,7 +18,7 @@
 ],
 "url": "https://jobs.ge/ge/?view=jobs&id=771268",
 "firstSeen": "2026-11-27T21:38+04:00",
-"lastSeen": "2026-11-28T02:07+04:00",
+"lastSeen": "2026-11-28T20:23+04:00",
 "active": true,
 "skills": [],
 "languages": [],
@@ -33,62 +33,6 @@
 "offers": []
 },
 "textLen": 236
-},
-{
-"id": "31b3f3cc368a",
-"title": "პროვაიდერული ქსელის სტრატეგიული მართვის ანალიტიკოსი",
-"company": "სადაზღვევო კომპანია უნისონი",
-"logo": "https://d1hedpmorgly0j.cloudfront.net/logo/13081/d6ca44c8-61ef-49fa-98d7-e8173315494c.png",
-"salary": null,
-"published": "2026-11-27",
-"deadline": "2026-12-26",
-"location": "თბილისი",
-"sources": [
-{
-"site": "hr.ge",
-"url": "https://www.hr.ge/announcement/504609"
-}
-],
-"url": "https://www.hr.ge/announcement/504609",
-"firstSeen": "2026-11-27T17:51+04:00",
-"lastSeen": "2026-11-28T16:59+04:00",
-"active": true,
-"skills": [
-"SQL",
-"Excel",
-"Power BI",
-"Tableau",
-"სტატისტიკა"
-],
-"languages": [
-"ინგლისური"
-],
-"exp": 2,
-"level": "Middle",
-"direction": "ფინანსური",
-"remote": null,
-"summary": {
-"about": "სადაზღვევო კომპანია უნისონი აცხადებს ვაკანსიას პროვაიდერული ქსელის სტრატეგიული მართვის ანალიტიკოსის პოზიციაზე. სამუშაო საათები: 09:30-18:30 (ორშაბათი-პარასკევი) სამუშაო ადგილი: თბილისი, დავით გამრეკელის ქუჩა #19",
-"duties": [
-"ახალი სამედიცინო დაწესებულებების მოძიება, ბაზრის კვლევა და საჭიროებების იდენტიფიცირება გეოგრაფიული და პროფილური დაფარვის გასაუმჯობესებლად",
-"პროვაიდერ კლინიკებთან კომერციული პირობების, ტარიფებისა და ფასდაკლებების სისტემის შეთანხმება",
-"ხელშეკრულებების მომზადება, გაფორმება, განახლება და მათი პირობების შესრულების მონიტორინგი იურიდიულ და ფინანსურ დეპარტამენტებთან ერთად",
-"პროვაიდერებთან ყოველდღიური კომუნიკაცია, საოპერაციო ხარვეზების აღმოფხვრა და პარტნიორული ურთიერთობების გაღრმავება",
-"სამედიცინო ზარალების (Claims) სტატისტიკის დამუშავება, პროვაიდერების ჭრილში ხარჯების დინამიკის კვლევა და გადახარჯვის რისკების გამოვლენა",
-"სამედიცინო სერვისების ფასების ბენჩმარკინგი (ბაზრის საშუალო ფასებთან შედარება) და ოპტიმალური სატარიფო პაკეტების შემუშავება"
-],
-"reqs": [
-"უმაღლესი განათლება ბიზნესის ადმინისტრირების, ფინანსების, ეკონომიკის, ჯანდაცვის მენეჯმენტის ან სამედიცინო მიმართულებით",
-"მინიმუმ 2-3 წლიანი გამოცდილება სადაზღვევო სექტორში (სამედიცინო დაზღვევის, ზარალების რეგულირების ან პროვაიდერებთან ურთიერთობის კუთხით) ან სამედიცინო დაწესებულების…",
-"MS Excel-ის მაღალ დონეზე ცოდნა (Pivot Tables, VLOOKUP/XLOOKUP, რთული ფორმულები, მონაცემთა ვიზუალიზაცია); სასურველია Power BI, Tableau ან SQL-ის ცოდნა",
-"საქართველოს ჯანდაცვის სისტემის, სამედიცინო ტერმინოლოგიისა და დაზღვევის სპეციფიკის კარგი ცოდნა",
-"ქართული ენის სრულყოფილად ცოდნა; ინგლისური ენის ცოდნა B2 დონეზე",
-"ძლიერი ანალიტიკური და სტრატეგიული აზროვნების უნარი",
-"მოლაპარაკებების წარმოებისა და დარწმუნების უნარი"
-],
-"offers": []
-},
-"textLen": 2622
 },
 {
 "id": "c6636b8d1bd7",
@@ -107,7 +51,7 @@
 ],
 "url": "https://jobs.ge/ge/?view=jobs&id=770987",
 "firstSeen": "2026-11-27T17:51+04:00",
-"lastSeen": "2026-11-28T02:07+04:00",
+"lastSeen": "2026-11-28T20:23+04:00",
 "active": true,
 "skills": [
 "სტატისტიკა"
@@ -158,7 +102,7 @@
 ],
 "url": "https://jobs.ge/ge/?view=jobs&id=771094",
 "firstSeen": "2026-11-27T17:51+04:00",
-"lastSeen": "2026-11-28T02:07+04:00",
+"lastSeen": "2026-11-28T20:23+04:00",
 "active": true,
 "skills": [
 "SQL",
@@ -200,6 +144,222 @@
 "textLen": 5390
 },
 {
+"id": "31b3f3cc368a",
+"title": "პროვაიდერული ქსელის სტრატეგიული მართვის ანალიტიკოსი",
+"company": "სადაზღვევო კომპანია უნისონი",
+"logo": "https://d1hedpmorgly0j.cloudfront.net/logo/13081/d6ca44c8-61ef-49fa-98d7-e8173315494c.png",
+"salary": null,
+"published": "2026-11-27",
+"deadline": "2026-12-26",
+"location": "თბილისი",
+"sources": [
+{
+"site": "hr.ge",
+"url": "https://www.hr.ge/announcement/504609"
+}
+],
+"url": "https://www.hr.ge/announcement/504609",
+"firstSeen": "2026-11-27T17:51+04:00",
+"lastSeen": "2026-11-28T20:23+04:00",
+"active": true,
+"skills": [
+"SQL",
+"Excel",
+"Power BI",
+"Tableau",
+"სტატისტიკა"
+],
+"languages": [
+"ინგლისური"
+],
+"exp": 2,
+"level": "Middle",
+"direction": "ფინანსური",
+"remote": null,
+"summary": {
+"about": "სადაზღვევო კომპანია უნისონი აცხადებს ვაკანსიას პროვაიდერული ქსელის სტრატეგიული მართვის ანალიტიკოსის პოზიციაზე. სამუშაო საათები: 09:30-18:30 (ორშაბათი-პარასკევი) სამუშაო ადგილი: თბილისი, დავით გამრეკელის ქუჩა #19",
+"duties": [
+"ახალი სამედიცინო დაწესებულებების მოძიება, ბაზრის კვლევა და საჭიროებების იდენტიფიცირება გეოგრაფიული და პროფილური დაფარვის გასაუმჯობესებლად",
+"პროვაიდერ კლინიკებთან კომერციული პირობების, ტარიფებისა და ფასდაკლებების სისტემის შეთანხმება",
+"ხელშეკრულებების მომზადება, გაფორმება, განახლება და მათი პირობების შესრულების მონიტორინგი იურიდიულ და ფინანსურ დეპარტამენტებთან ერთად",
+"პროვაიდერებთან ყოველდღიური კომუნიკაცია, საოპერაციო ხარვეზების აღმოფხვრა და პარტნიორული ურთიერთობების გაღრმავება",
+"სამედიცინო ზარალების (Claims) სტატისტიკის დამუშავება, პროვაიდერების ჭრილში ხარჯების დინამიკის კვლევა და გადახარჯვის რისკების გამოვლენა",
+"სამედიცინო სერვისების ფასების ბენჩმარკინგი (ბაზრის საშუალო ფასებთან შედარება) და ოპტიმალური სატარიფო პაკეტების შემუშავება"
+],
+"reqs": [
+"უმაღლესი განათლება ბიზნესის ადმინისტრირების, ფინანსების, ეკონომიკის, ჯანდაცვის მენეჯმენტის ან სამედიცინო მიმართულებით",
+"მინიმუმ 2-3 წლიანი გამოცდილება სადაზღვევო სექტორში (სამედიცინო დაზღვევის, ზარალების რეგულირების ან პროვაიდერებთან ურთიერთობის კუთხით) ან სამედიცინო დაწესებულების…",
+"MS Excel-ის მაღალ დონეზე ცოდნა (Pivot Tables, VLOOKUP/XLOOKUP, რთული ფორმულები, მონაცემთა ვიზუალიზაცია); სასურველია Power BI, Tableau ან SQL-ის ცოდნა",
+"საქართველოს ჯანდაცვის სისტემის, სამედიცინო ტერმინოლოგიისა და დაზღვევის სპეციფიკის კარგი ცოდნა",
+"ქართული ენის სრულყოფილად ცოდნა; ინგლისური ენის ცოდნა B2 დონეზე",
+"ძლიერი ანალიტიკური და სტრატეგიული აზროვნების უნარი",
+"მოლაპარაკებების წარმოებისა და დარწმუნების უნარი"
+],
+"offers": []
+},
+"textLen": 2622
+},
+{
+"id": "ca6752387346",
+"title": "Oracle მონაცემთა ბაზის დეველოპერი/რეპორტინგის სპეციალისტი",
+"company": "მაგთიკომი",
+"logo": "https://jobs.ge/data/clients/logo_icon/3182_magti_9951230.gif",
+"salary": null,
+"published": "2026-11-26",
+"deadline": "2026-12-26",
+"location": "თბილისი",
+"sources": [
+{
+"site": "jobs.ge",
+"url": "https://jobs.ge/ge/?view=jobs&id=770855"
+}
+],
+"url": "https://jobs.ge/ge/?view=jobs&id=770855",
+"firstSeen": "2026-11-26T17:54+04:00",
+"lastSeen": "2026-11-28T20:23+04:00",
+"active": true,
+"skills": [
+"SQL",
+"ETL",
+"DWH",
+"Oracle"
+],
+"languages": [
+"ინგლისური"
+],
+"exp": 3,
+"level": "Middle",
+"direction": "მონაცემები / BI",
+"remote": null,
+"summary": {
+"about": "შპს \"მაგთიკომი\" აცხადებს ვაკანსიას Oracle-ის მონაცემთა ბაზის დეველოპერის/რეპორტინგის სპეციალისტის პოზიციაზე. დასაქმებულს მოუწევს დიდი მოცულობის მონაცემებთან გაცნობა, მუშაობა, მათი მხარდაჭერა და განვითარება.",
+"duties": [
+"პერიოდული და Ad Hoc რეპორტების მომზადება/ანალიზი",
+"ETL პროცესების შექმნა/ცვლილება/მონიტორინგი",
+"Data Warehouse პროექტში მონაწილეობა",
+"სხვადასხვა ვიზუალიზაციის ხელსაწყოების გამოყენებით რეპორტების აწყობა, ავტომატიზაცია, ოპტიმიზაცია",
+"მონაცემების შესწავლა (საჭიროების შემთხვევაში შესაბამის პირებთან კომუნიკაცია)"
+],
+"reqs": [
+"უმაღლესი განათლება ინფორმაციული ტექნოლოგიების ან ტექნიკური სპეციალობების მიმართულებით",
+"მონაცემთა რელაციურ ბაზებთან (Oracle, MS SQL და ა.შ.) მუშაობის მინიმუმ 3 წლიანი გამოცდილება",
+"SQL პროცედურული ენის ცოდნა (PL/SQL-ს ცოდნა ჩაითვლება უპირატესობად)",
+"უპირატესობად ჩაითვლება Jasper, OBEEI, Qlick View -თან მუშაობის გამოცდილება",
+"ანალიტიკური აზროვნება და პრობლემის ლოგიკურად გადაჭრის უნარი",
+"მოტივირებულობა, ახლის ძიებისა და განვითარების ინიციატივა",
+"დროის სწორად განაწილებისა და ახლის სწრაფად ათვისების უნარები"
+],
+"offers": [
+"მუშაობის მოქნილი გრაფიკი",
+"კონკურენტული ანაზღაურება გამოცდილებისა და კვალიფიკაციის მიხედვით",
+"პერსონალური მონაცემების დამუშავების მიზანია კანდიდატის შესაბამისობის დადგენა არსებულ ან/და სამომავლო ვაკანსიის მოთხოვნებთან, დასაქმების თაობაზე გადაწყვეტილების მიღების…",
+"ასევე გაცნობებთ, რომ თქვენ უფლება გაქვთ მიიღოთ ინფორმაცია თქვენს შესახებ დამუშავებული მონაცემების თაობაზე, მოითხოვოთ მონაცემების გასწორება, განახლება, დამატება,…"
+]
+},
+"textLen": 2762
+},
+{
+"id": "58cbff996911",
+"title": "შემოსავლების აუდიტორი",
+"company": "პარაგრაფ გოლფი და სპა თაბორი, აუტოგრაფ ქოლექშენი",
+"logo": "https://jobs.ge/data/clients/logo_icon/26996_paragraphgolf_3466374.gif",
+"salary": null,
+"published": "2026-11-26",
+"deadline": "2026-12-26",
+"location": "თბილისი",
+"sources": [
+{
+"site": "jobs.ge",
+"url": "https://jobs.ge/ge/?view=jobs&id=770829"
+}
+],
+"url": "https://jobs.ge/ge/?view=jobs&id=770829",
+"firstSeen": "2026-11-26T17:54+04:00",
+"lastSeen": "2026-11-28T20:23+04:00",
+"active": true,
+"skills": [],
+"languages": [
+"ინგლისური"
+],
+"exp": null,
+"level": "Middle",
+"direction": "აუდიტი",
+"remote": null,
+"summary": {
+"about": "\"პარაგრაფ გოლფი და სპა აუტოგრაფ ქოლექშენი\" აცხადებს ვაკანსიას შემოსავლების აუდიტორის თანამდებობაზე. იხილეთ ამ განცხადების სრული ტექსტი ინგლისურ ენაზე .",
+"duties": [],
+"reqs": [],
+"offers": []
+},
+"textLen": 151
+},
+{
+"id": "56fbd1a4ff73",
+"title": "აუდიტორი",
+"company": "Ecovis Georgia",
+"logo": "https://jobs.ge/data/clients/logo_icon/16434_ecovis_5392976.gif",
+"salary": null,
+"published": "2026-11-26",
+"deadline": "2026-12-26",
+"location": "თბილისი",
+"sources": [
+{
+"site": "jobs.ge",
+"url": "https://jobs.ge/ge/?view=jobs&id=770815"
+}
+],
+"url": "https://jobs.ge/ge/?view=jobs&id=770815",
+"firstSeen": "2026-11-26T17:54+04:00",
+"lastSeen": "2026-11-28T20:23+04:00",
+"active": true,
+"skills": [],
+"languages": [],
+"exp": null,
+"level": "Middle",
+"direction": "აუდიტი",
+"remote": null,
+"summary": {
+"about": "საერთაშორისო აუდიტორული კომპანია \" ECOVIS Georgia \" აუდიტისა და სხვა მარწმუნებელი მომსახურებების დეპარტამენტში აცხადებს ვაკანსიას აუდიტორის პოზიციაზე. დაინტერესების შემთხვევაში გთხოვთ გადახვიდეთ ბმულზე და შეავსოთ ინფორმაცია:…",
+"duties": [],
+"reqs": [],
+"offers": []
+},
+"textLen": 261
+},
+{
+"id": "a052a6285755",
+"title": "უფროსი აუდიტორი",
+"company": "Ecovis Georgia",
+"logo": "https://jobs.ge/data/clients/logo_icon/16434_ecovis_5392976.gif",
+"salary": null,
+"published": "2026-11-26",
+"deadline": "2026-12-26",
+"location": "თბილისი",
+"sources": [
+{
+"site": "jobs.ge",
+"url": "https://jobs.ge/ge/?view=jobs&id=770814"
+}
+],
+"url": "https://jobs.ge/ge/?view=jobs&id=770814",
+"firstSeen": "2026-11-26T17:54+04:00",
+"lastSeen": "2026-11-28T20:23+04:00",
+"active": true,
+"skills": [],
+"languages": [],
+"exp": null,
+"level": "Senior",
+"direction": "აუდიტი",
+"remote": null,
+"summary": {
+"about": "საერთაშორისო აუდიტორული კომპანია \" ECOVIS Georgia \" აუდიტისა და სხვა მარწმუნებელი მომსახურებების დეპარტამენტში აცხადებს ვაკანსიას უფროსი აუდიტორის პოზიციაზე. დაინტერესების შემთხვევაში გთხოვთ, გადახვიდეთ ლინკზე: https://ecovis.selfrecruit.ge/s/Fs63",
+"duties": [],
+"reqs": [],
+"offers": []
+},
+"textLen": 247
+},
+{
 "id": "7f81e8a98768",
 "title": "შიდა აუდიტორი",
 "company": "სადაზღვევო კომპანია პრაიმი",
@@ -220,7 +380,7 @@
 ],
 "url": "https://www.hr.ge/announcement/503996",
 "firstSeen": "2026-11-26T17:54+04:00",
-"lastSeen": "2026-11-28T16:59+04:00",
+"lastSeen": "2026-11-28T20:23+04:00",
 "active": true,
 "skills": [
 "IFRS"
@@ -282,7 +442,7 @@
 ],
 "url": "https://www.hr.ge/announcement/504219",
 "firstSeen": "2026-11-26T17:54+04:00",
-"lastSeen": "2026-11-28T16:59+04:00",
+"lastSeen": "2026-11-28T20:23+04:00",
 "active": true,
 "skills": [
 "SQL",
@@ -327,166 +487,6 @@
 "textLen": 2743
 },
 {
-"id": "ca6752387346",
-"title": "Oracle მონაცემთა ბაზის დეველოპერი/რეპორტინგის სპეციალისტი",
-"company": "მაგთიკომი",
-"logo": "https://jobs.ge/data/clients/logo_icon/3182_magti_9951230.gif",
-"salary": null,
-"published": "2026-11-26",
-"deadline": "2026-12-26",
-"location": "თბილისი",
-"sources": [
-{
-"site": "jobs.ge",
-"url": "https://jobs.ge/ge/?view=jobs&id=770855"
-}
-],
-"url": "https://jobs.ge/ge/?view=jobs&id=770855",
-"firstSeen": "2026-11-26T17:54+04:00",
-"lastSeen": "2026-11-28T02:07+04:00",
-"active": true,
-"skills": [
-"SQL",
-"ETL",
-"DWH",
-"Oracle"
-],
-"languages": [
-"ინგლისური"
-],
-"exp": 3,
-"level": "Middle",
-"direction": "მონაცემები / BI",
-"remote": null,
-"summary": {
-"about": "შპს \"მაგთიკომი\" აცხადებს ვაკანსიას Oracle-ის მონაცემთა ბაზის დეველოპერის/რეპორტინგის სპეციალისტის პოზიციაზე. დასაქმებულს მოუწევს დიდი მოცულობის მონაცემებთან გაცნობა, მუშაობა, მათი მხარდაჭერა და განვითარება.",
-"duties": [
-"პერიოდული და Ad Hoc რეპორტების მომზადება/ანალიზი",
-"ETL პროცესების შექმნა/ცვლილება/მონიტორინგი",
-"Data Warehouse პროექტში მონაწილეობა",
-"სხვადასხვა ვიზუალიზაციის ხელსაწყოების გამოყენებით რეპორტების აწყობა, ავტომატიზაცია, ოპტიმიზაცია",
-"მონაცემების შესწავლა (საჭიროების შემთხვევაში შესაბამის პირებთან კომუნიკაცია)"
-],
-"reqs": [
-"უმაღლესი განათლება ინფორმაციული ტექნოლოგიების ან ტექნიკური სპეციალობების მიმართულებით",
-"მონაცემთა რელაციურ ბაზებთან (Oracle, MS SQL და ა.შ.) მუშაობის მინიმუმ 3 წლიანი გამოცდილება",
-"SQL პროცედურული ენის ცოდნა (PL/SQL-ს ცოდნა ჩაითვლება უპირატესობად)",
-"უპირატესობად ჩაითვლება Jasper, OBEEI, Qlick View -თან მუშაობის გამოცდილება",
-"ანალიტიკური აზროვნება და პრობლემის ლოგიკურად გადაჭრის უნარი",
-"მოტივირებულობა, ახლის ძიებისა და განვითარების ინიციატივა",
-"დროის სწორად განაწილებისა და ახლის სწრაფად ათვისების უნარები"
-],
-"offers": [
-"მუშაობის მოქნილი გრაფიკი",
-"კონკურენტული ანაზღაურება გამოცდილებისა და კვალიფიკაციის მიხედვით",
-"პერსონალური მონაცემების დამუშავების მიზანია კანდიდატის შესაბამისობის დადგენა არსებულ ან/და სამომავლო ვაკანსიის მოთხოვნებთან, დასაქმების თაობაზე გადაწყვეტილების მიღების…",
-"ასევე გაცნობებთ, რომ თქვენ უფლება გაქვთ მიიღოთ ინფორმაცია თქვენს შესახებ დამუშავებული მონაცემების თაობაზე, მოითხოვოთ მონაცემების გასწორება, განახლება, დამატება,…"
-]
-},
-"textLen": 2762
-},
-{
-"id": "58cbff996911",
-"title": "შემოსავლების აუდიტორი",
-"company": "პარაგრაფ გოლფი და სპა თაბორი, აუტოგრაფ ქოლექშენი",
-"logo": "https://jobs.ge/data/clients/logo_icon/26996_paragraphgolf_3466374.gif",
-"salary": null,
-"published": "2026-11-26",
-"deadline": "2026-12-26",
-"location": "თბილისი",
-"sources": [
-{
-"site": "jobs.ge",
-"url": "https://jobs.ge/ge/?view=jobs&id=770829"
-}
-],
-"url": "https://jobs.ge/ge/?view=jobs&id=770829",
-"firstSeen": "2026-11-26T17:54+04:00",
-"lastSeen": "2026-11-28T02:07+04:00",
-"active": true,
-"skills": [],
-"languages": [
-"ინგლისური"
-],
-"exp": null,
-"level": "Middle",
-"direction": "აუდიტი",
-"remote": null,
-"summary": {
-"about": "\"პარაგრაფ გოლფი და სპა აუტოგრაფ ქოლექშენი\" აცხადებს ვაკანსიას შემოსავლების აუდიტორის თანამდებობაზე. იხილეთ ამ განცხადების სრული ტექსტი ინგლისურ ენაზე .",
-"duties": [],
-"reqs": [],
-"offers": []
-},
-"textLen": 151
-},
-{
-"id": "56fbd1a4ff73",
-"title": "აუდიტორი",
-"company": "Ecovis Georgia",
-"logo": "https://jobs.ge/data/clients/logo_icon/16434_ecovis_5392976.gif",
-"salary": null,
-"published": "2026-11-26",
-"deadline": "2026-12-26",
-"location": "თბილისი",
-"sources": [
-{
-"site": "jobs.ge",
-"url": "https://jobs.ge/ge/?view=jobs&id=770815"
-}
-],
-"url": "https://jobs.ge/ge/?view=jobs&id=770815",
-"firstSeen": "2026-11-26T17:54+04:00",
-"lastSeen": "2026-11-28T02:07+04:00",
-"active": true,
-"skills": [],
-"languages": [],
-"exp": null,
-"level": "Middle",
-"direction": "აუდიტი",
-"remote": null,
-"summary": {
-"about": "საერთაშორისო აუდიტორული კომპანია \" ECOVIS Georgia \" აუდიტისა და სხვა მარწმუნებელი მომსახურებების დეპარტამენტში აცხადებს ვაკანსიას აუდიტორის პოზიციაზე. დაინტერესების შემთხვევაში გთხოვთ გადახვიდეთ ბმულზე და შეავსოთ ინფორმაცია:…",
-"duties": [],
-"reqs": [],
-"offers": []
-},
-"textLen": 261
-},
-{
-"id": "a052a6285755",
-"title": "უფროსი აუდიტორი",
-"company": "Ecovis Georgia",
-"logo": "https://jobs.ge/data/clients/logo_icon/16434_ecovis_5392976.gif",
-"salary": null,
-"published": "2026-11-26",
-"deadline": "2026-12-26",
-"location": "თბილისი",
-"sources": [
-{
-"site": "jobs.ge",
-"url": "https://jobs.ge/ge/?view=jobs&id=770814"
-}
-],
-"url": "https://jobs.ge/ge/?view=jobs&id=770814",
-"firstSeen": "2026-11-26T17:54+04:00",
-"lastSeen": "2026-11-28T02:07+04:00",
-"active": true,
-"skills": [],
-"languages": [],
-"exp": null,
-"level": "Senior",
-"direction": "აუდიტი",
-"remote": null,
-"summary": {
-"about": "საერთაშორისო აუდიტორული კომპანია \" ECOVIS Georgia \" აუდიტისა და სხვა მარწმუნებელი მომსახურებების დეპარტამენტში აცხადებს ვაკანსიას უფროსი აუდიტორის პოზიციაზე. დაინტერესების შემთხვევაში გთხოვთ, გადახვიდეთ ლინკზე: https://ecovis.selfrecruit.ge/s/Fs63",
-"duties": [],
-"reqs": [],
-"offers": []
-},
-"textLen": 247
-},
-{
 "id": "93c375ee2190",
 "title": "IT ბიზნეს ანალიტიკოსი",
 "company": "სადაზღვევო კომპანია უნისონი",
@@ -503,7 +503,7 @@
 ],
 "url": "https://www.hr.ge/announcement/504266",
 "firstSeen": "2026-11-09T16:52+04:00",
-"lastSeen": "2026-11-28T16:59+04:00",
+"lastSeen": "2026-11-28T20:23+04:00",
 "active": true,
 "skills": [
 "SQL",
@@ -558,7 +558,7 @@
 ],
 "url": "https://jobs.ge/ge/?view=jobs&id=770874",
 "firstSeen": "2026-11-07T14:02+04:00",
-"lastSeen": "2026-11-28T02:07+04:00",
+"lastSeen": "2026-11-28T20:23+04:00",
 "active": true,
 "skills": [],
 "languages": [],
@@ -596,7 +596,7 @@
 ],
 "url": "https://jobs.ge/ge/?view=jobs&id=770472",
 "firstSeen": "2026-11-26T17:54+04:00",
-"lastSeen": "2026-11-28T02:07+04:00",
+"lastSeen": "2026-11-28T20:23+04:00",
 "active": true,
 "skills": [
 "Excel"
@@ -632,58 +632,6 @@
 "textLen": 5019
 },
 {
-"id": "af5a759f217b",
-"title": "საინვესტიციო ოპერაციების ანალიტიკოსი",
-"company": "საქართველოს საპენსიო ფონდი",
-"logo": null,
-"salary": null,
-"published": "2026-11-25",
-"deadline": "2026-12-08",
-"location": "თბილისი",
-"sources": [
-{
-"site": "hr.ge",
-"url": "https://www.hr.ge/announcement/503938"
-}
-],
-"url": "https://www.hr.ge/announcement/503938",
-"firstSeen": "2026-11-25T18:22+04:00",
-"lastSeen": "2026-11-28T16:59+04:00",
-"active": true,
-"skills": [
-"Excel"
-],
-"languages": [
-"ინგლისური"
-],
-"exp": 1,
-"level": "Junior",
-"direction": "ფინანსური",
-"remote": null,
-"summary": {
-"about": "სსიპ საქართველოს საპენსიო ფონდი აცხადებს კონკურსს საინვესტიციო სამსახურის, საინვესტიციო ოპერაციების განყოფილების, საინვესტიციო ოპერაციების ანალიტიკოსის (შტატგარეშე პოზიცია) ვაკანტურ პოზიციაზე. სამუშაოს ადგილმდებარეობა: თბილისი, საქართველო სამუშაო განაკვეთი:…",
-"duties": [
-"საინვესტიციო ტრანზაქციების ანგარიშსწორების და ოპერაციული პროცესის მხარდაჭერა ტრანზაქციის ინიცირებიდან დასრულებამდე, შიდა პოლიტიკებისა და პროცედურების შესაბამისად",
-"საინვესტიციო ტრანზაქციებთან დაკავშირებული დოკუმენტაციის აღრიცხვა, სათანადო წესით დოკუმენტირება და არქივირება",
-"საპენსიო აქტივების ყოველდღიური რეკონსილაციის განხორციელება სხვადასხვა სისტემაში, პოზიციებისა და ტრანზაქციების დონეზე",
-"საჭიროების შემთხვევაში, კონტრაგენტებთან ანგარიშების გახსნის პროცესში მონაწილეობა და შესაბამისი დოკუმენტაციის მომზადება",
-"სპეციალიზებულ დეპოზიტართან ყოველდღიური კომუნიკაცია საინვესტიციო ოპერაციებისა და ანგარიშსწორების საკითხებზე",
-"საპენსიო აქტივებთან დაკავშირებული კორპორატიული ქმედებებისა და შესაბამისი ფულადი ნაკადების მონიტორინგი"
-],
-"reqs": [
-"უმაღლესი განათლება ფინანსების, ეკონომიკის, ბიზნესის ადმინისტრირების, მენეჯმენტის ან სხვა მომიჯნავე სფეროში",
-"სასურველია 1-2 წლიანი სამუშაო გამოცდილება საინვესტიციო ოპერაციების, საბანკო ოპერაციების, კასტოდიანური მომსახურების, ფასიანი ქაღალდების ანგარიშსწორების ან სხვა…",
-"სასურველია ფინანსური ბაზრების, ფასიანი ქაღალდების ანგარიშსწორებისა და საინვესტიციო ოპერაციების ძირითადი პროცესების ცოდნა",
-"სასურველია სხვადასხვა ფინანსური ინსტრუმენტების (ფულის ბაზრის ინსტრუმენტები, ობლიგაციები, აქციები, საინვესტიციო ფონდები) საბაზისო ცოდნა; Microsoft Office-ის,…",
-"სასურველია ინგლისური ენის ცოდნა მინიმუმ B2 დონეზე (როგორც ვერბალური, ასევე წერითი)",
-"საერთაშორისო ფინანსურ სისტემებთან (Bloomberg, Reuters, SWIFT, Front Arena ან სხვა) მუშაობის გამოცდილება ჩაითვლება უპირატესობად",
-"ანალიტიკური აზროვნება და პრობლემების გადაჭრის უნარი"
-],
-"offers": []
-},
-"textLen": 5000
-},
-{
 "id": "76b317370a4f",
 "title": "პროცესების და სისტემის ანალიტიკოსი",
 "company": "Girteka Logistics",
@@ -700,7 +648,7 @@
 ],
 "url": "https://jobs.ge/ge/?view=jobs&id=770591",
 "firstSeen": "2026-11-25T18:22+04:00",
-"lastSeen": "2026-11-28T02:07+04:00",
+"lastSeen": "2026-11-28T20:23+04:00",
 "active": true,
 "skills": [],
 "languages": [],
@@ -737,7 +685,7 @@
 ],
 "url": "https://jobs.ge/ge/?view=jobs&id=770519",
 "firstSeen": "2026-11-25T18:22+04:00",
-"lastSeen": "2026-11-28T02:07+04:00",
+"lastSeen": "2026-11-28T20:23+04:00",
 "active": true,
 "skills": [],
 "languages": [
@@ -786,7 +734,7 @@
 ],
 "url": "https://jobs.ge/ge/?view=jobs&id=770642",
 "firstSeen": "2026-11-25T18:22+04:00",
-"lastSeen": "2026-11-28T02:07+04:00",
+"lastSeen": "2026-11-28T20:23+04:00",
 "active": true,
 "skills": [
 "Excel"
@@ -827,6 +775,58 @@
 "textLen": 3870
 },
 {
+"id": "af5a759f217b",
+"title": "საინვესტიციო ოპერაციების ანალიტიკოსი",
+"company": "საქართველოს საპენსიო ფონდი",
+"logo": null,
+"salary": null,
+"published": "2026-11-25",
+"deadline": "2026-12-08",
+"location": "თბილისი",
+"sources": [
+{
+"site": "hr.ge",
+"url": "https://www.hr.ge/announcement/503938"
+}
+],
+"url": "https://www.hr.ge/announcement/503938",
+"firstSeen": "2026-11-25T18:22+04:00",
+"lastSeen": "2026-11-28T20:23+04:00",
+"active": true,
+"skills": [
+"Excel"
+],
+"languages": [
+"ინგლისური"
+],
+"exp": 1,
+"level": "Junior",
+"direction": "ფინანსური",
+"remote": null,
+"summary": {
+"about": "სსიპ საქართველოს საპენსიო ფონდი აცხადებს კონკურსს საინვესტიციო სამსახურის, საინვესტიციო ოპერაციების განყოფილების, საინვესტიციო ოპერაციების ანალიტიკოსის (შტატგარეშე პოზიცია) ვაკანტურ პოზიციაზე. სამუშაოს ადგილმდებარეობა: თბილისი, საქართველო სამუშაო განაკვეთი:…",
+"duties": [
+"საინვესტიციო ტრანზაქციების ანგარიშსწორების და ოპერაციული პროცესის მხარდაჭერა ტრანზაქციის ინიცირებიდან დასრულებამდე, შიდა პოლიტიკებისა და პროცედურების შესაბამისად",
+"საინვესტიციო ტრანზაქციებთან დაკავშირებული დოკუმენტაციის აღრიცხვა, სათანადო წესით დოკუმენტირება და არქივირება",
+"საპენსიო აქტივების ყოველდღიური რეკონსილაციის განხორციელება სხვადასხვა სისტემაში, პოზიციებისა და ტრანზაქციების დონეზე",
+"საჭიროების შემთხვევაში, კონტრაგენტებთან ანგარიშების გახსნის პროცესში მონაწილეობა და შესაბამისი დოკუმენტაციის მომზადება",
+"სპეციალიზებულ დეპოზიტართან ყოველდღიური კომუნიკაცია საინვესტიციო ოპერაციებისა და ანგარიშსწორების საკითხებზე",
+"საპენსიო აქტივებთან დაკავშირებული კორპორატიული ქმედებებისა და შესაბამისი ფულადი ნაკადების მონიტორინგი"
+],
+"reqs": [
+"უმაღლესი განათლება ფინანსების, ეკონომიკის, ბიზნესის ადმინისტრირების, მენეჯმენტის ან სხვა მომიჯნავე სფეროში",
+"სასურველია 1-2 წლიანი სამუშაო გამოცდილება საინვესტიციო ოპერაციების, საბანკო ოპერაციების, კასტოდიანური მომსახურების, ფასიანი ქაღალდების ანგარიშსწორების ან სხვა…",
+"სასურველია ფინანსური ბაზრების, ფასიანი ქაღალდების ანგარიშსწორებისა და საინვესტიციო ოპერაციების ძირითადი პროცესების ცოდნა",
+"სასურველია სხვადასხვა ფინანსური ინსტრუმენტების (ფულის ბაზრის ინსტრუმენტები, ობლიგაციები, აქციები, საინვესტიციო ფონდები) საბაზისო ცოდნა; Microsoft Office-ის,…",
+"სასურველია ინგლისური ენის ცოდნა მინიმუმ B2 დონეზე (როგორც ვერბალური, ასევე წერითი)",
+"საერთაშორისო ფინანსურ სისტემებთან (Bloomberg, Reuters, SWIFT, Front Arena ან სხვა) მუშაობის გამოცდილება ჩაითვლება უპირატესობად",
+"ანალიტიკური აზროვნება და პრობლემების გადაჭრის უნარი"
+],
+"offers": []
+},
+"textLen": 5000
+},
+{
 "id": "7ba76a6adffb",
 "title": "ბიუჯეტირებისა და რეპორტინგის უმცროსი ანალიტიკოსი",
 "company": "ჯიაიჯი ჰოლდინგი",
@@ -843,11 +843,15 @@
 {
 "site": "cv.ge",
 "url": "https://www.cv.ge/announcement/504125"
+},
+{
+"site": "jobs.ge",
+"url": "https://jobs.ge/ge/?view=jobs&id=770698"
 }
 ],
 "url": "https://www.hr.ge/announcement/504125",
 "firstSeen": "2026-11-07T14:02+04:00",
-"lastSeen": "2026-11-28T16:59+04:00",
+"lastSeen": "2026-11-28T20:23+04:00",
 "active": true,
 "skills": [
 "Excel"
@@ -906,11 +910,15 @@
 {
 "site": "cv.ge",
 "url": "https://www.cv.ge/announcement/504124"
+},
+{
+"site": "jobs.ge",
+"url": "https://jobs.ge/ge/?view=jobs&id=770697"
 }
 ],
 "url": "https://www.hr.ge/announcement/504124",
 "firstSeen": "2026-11-07T14:02+04:00",
-"lastSeen": "2026-11-28T16:59+04:00",
+"lastSeen": "2026-11-28T20:23+04:00",
 "active": true,
 "skills": [
 "Excel"
@@ -968,7 +976,7 @@
 ],
 "url": "https://jobs.ge/ge/?view=jobs&id=770515",
 "firstSeen": "2026-11-07T14:02+04:00",
-"lastSeen": "2026-11-28T02:07+04:00",
+"lastSeen": "2026-11-28T20:23+04:00",
 "active": true,
 "skills": [],
 "languages": [],
@@ -1002,7 +1010,7 @@
 "url": "https://www.hr.ge/announcement/503767",
 "firstSeen": "2026-11-28T16:59+04:00",
 "lastSeen": "2026-11-28T16:59+04:00",
-"active": true,
+"active": false,
 "skills": [
 "Excel",
 "ფინ. მოდელირება"
@@ -1054,7 +1062,7 @@
 ],
 "url": "https://jobs.ge/ge/?view=jobs&id=770359",
 "firstSeen": "2026-11-24T23:04+04:00",
-"lastSeen": "2026-11-28T02:07+04:00",
+"lastSeen": "2026-11-28T20:23+04:00",
 "active": true,
 "skills": [
 "Excel"
@@ -1088,166 +1096,6 @@
 "textLen": 1753
 },
 {
-"id": "6cf4bac123da",
-"title": "პროცესებისა და სისტემების ანალიტიკოსი",
-"company": "Girteka",
-"logo": "https://d1hedpmorgly0j.cloudfront.net/logo/50897/74429fa7-78ed-4aa0-b8a3-9320f7e66c8a.png",
-"salary": {
-"from": 4110,
-"to": null,
-"cur": "₾"
-},
-"published": "2026-11-24",
-"deadline": "2026-12-23",
-"location": "თბილისი",
-"sources": [
-{
-"site": "hr.ge",
-"url": "https://www.hr.ge/announcement/503900"
-},
-{
-"site": "cv.ge",
-"url": "https://www.cv.ge/announcement/503900"
-}
-],
-"url": "https://www.hr.ge/announcement/503900",
-"firstSeen": "2026-11-24T18:51+04:00",
-"lastSeen": "2026-11-28T16:59+04:00",
-"active": true,
-"skills": [
-"SAP",
-"BPMN"
-],
-"languages": [
-"ინგლისური"
-],
-"exp": 2,
-"level": "Middle",
-"direction": "ბიზნეს / სისტემური",
-"remote": null,
-"summary": {
-"about": "Girteka is pleased to announce a vacancy for the position of Process and Systems Analyst (Key User) About the role We’re looking for a Process and Systems Analyst (Key User) to join our global HRIS team and drive process excellence within SAP SuccessFactors…",
-"duties": [
-"Support global users in troubleshooting SAP SuccessFactors processes",
-"Identify and drive improvements, from requirement gathering to implementation and testing",
-"Ensure data accuracy and provide analytics to improve system performance",
-"Keep documentation up to date, including process maps, training materials, and BPMN workflows",
-"Conduct testing activities (UAT) to ensure smooth deployment of new functionalities",
-"Act as Subject Matter Expert (SME) in meetings with IT and other partners"
-],
-"reqs": [],
-"offers": [
-"Career opportunities: Many of our leaders started in entry-level roles at Girteka. Around 30% of our colleagues advance their careers within the company every year",
-"Learning and development: We invest in continuous growth through internal and external trainings, seminars, mentoring programs, leadership development initiatives, and…",
-"Health and well-being: We care about our colleagues' well-being and provide comprehensive health insurance. You will also benefit from 50% compensated on-site meals, as…",
-"Collaborative culture: We believe strong teamwork drives the best results. Working in international teams, we collaborate across functions, share knowledge, and…",
-"Recognition and additional benefits: We recognize and celebrate our people through work anniversary rewards and values-based recognition. In addition, we offer a day…"
-]
-},
-"textLen": 3800
-},
-{
-"id": "61c5dd9f0b96",
-"title": "ფინანსური ანალიტიკოსი",
-"company": "გრადუს გრუპ მაუდი",
-"logo": null,
-"salary": null,
-"published": "2026-11-24",
-"deadline": "2026-12-19",
-"location": "თბილისი",
-"sources": [
-{
-"site": "hr.ge",
-"url": "https://www.hr.ge/announcement/503601"
-},
-{
-"site": "cv.ge",
-"url": "https://www.cv.ge/announcement/503601"
-}
-],
-"url": "https://www.hr.ge/announcement/503601",
-"firstSeen": "2026-11-24T18:51+04:00",
-"lastSeen": "2026-11-28T16:59+04:00",
-"active": true,
-"skills": [
-"Excel",
-"Power Query",
-"ფინ. მოდელირება"
-],
-"languages": [],
-"exp": 2,
-"level": "Middle",
-"direction": "ფინანსური",
-"remote": null,
-"summary": {
-"about": "შპს ,,გრადუს გრუპ მაუდი “ (212809996) დეველოპერული კომპანიაა, რომელიც ქმნის თანამედროვე, ხარისხზე ორიენტირებულ საცხოვრებელ და საინვესტიციო პროექტებს საქართველოში. კომპანიის მიმდინარე პროექტია ,,Maudi Residence — ქუთაისის პირველი პრემიუმ დახურული საცხოვრებელი…",
-"duties": [
-"სამშენებლო პროექტების ბიუჯეტების შედგენა, კონტროლი და შესრულების მონიტორინგი",
-"პროექტების საინვესტიციო მიმზიდველობის შეფასება (ROI, IRR, NPV და სხვა მაჩვენებლების ანალიზი)",
-"შემოსავლების, ხარჯების, ფულადი ნაკადების (Cash Flow) დაგეგმვა და პროგნოზირება",
-"ფაქტობრივი შედეგების შედარება დაგეგმილ ბიუჯეტთან (Budget vs Actual Analysis)",
-"გადახრების მიზეზების გამოვლენა და ანალიზი",
-"სამშენებლო ხარჯების, კონტრაქტორების, მომწოდებლებისა და მომსახურების ხარჯების კონტროლი"
-],
-"reqs": [],
-"offers": []
-},
-"textLen": 3835
-},
-{
-"id": "9889b1209594",
-"title": "ფინანსური ანალიტიკოსი სტრატეგიული პროექტებისა და M&A მიმართულებით",
-"company": "ლიბერთი, ბაზისბანკ ჯგუფი",
-"logo": "https://static.tnet.ge/myjobs/company/226.jpg?v=2",
-"salary": null,
-"published": "2026-11-24",
-"deadline": "2026-12-08",
-"location": "თბილისი",
-"sources": [
-{
-"site": "myjobs.ge",
-"url": "https://www.myjobs.ge/ka/vacancy/31905"
-}
-],
-"url": "https://www.myjobs.ge/ka/vacancy/31905",
-"firstSeen": "2026-11-24T18:51+04:00",
-"lastSeen": "2026-11-28T16:59+04:00",
-"active": true,
-"skills": [
-"Excel",
-"ფინ. მოდელირება"
-],
-"languages": [
-"ინგლისური"
-],
-"exp": 2,
-"level": "Middle",
-"direction": "ფინანსური",
-"remote": null,
-"summary": {
-"about": "ადგილმდებარეობა თბილისი სამუშაო საათები სტანდარტული ბოლო ვადა 08 დეკემბერი, 2026 აღწერა ბაზისბანკ ჯგუფი საქართველოში მესამე უმსხვილესი სისტემური ფინანსური ინსტიტუტია, რომლის ბაზრის წილი 11%-ს შეადგენს. ჯგუფი 2 მილიონზე მეტ ფიზიკურ პირსა და 65,000-ზე მეტ…",
-"duties": [
-"სტრატეგიული და საინვესტიციო პროექტების ფინანსური მოდელების მომზადება და მონიტორინგი",
-"ბიზნეს პროექტებისთვის ფინანსური გათვლებისა და სხვადასხვა სცენარის მომზადება",
-"მონაცემების შეგროვება, სტრუქტურირება და ანალიზი",
-"ბიზნეს ქეისების განხორციელების შემდგომი (Post-Implementation) მონიტორინგი",
-"მსხვილი კლიენტების კომპლექსური (Cross-sell) სესხების ფასის (pricing) ანალიზი",
-"მომგებიანობის (Profitability) ანალიზის სრულად წარმართვა და შესაბამისი რეკომენდაციების მომზადება"
-],
-"reqs": [
-"უმაღლესი განათლება ფინანსების, ეკონომიკის, ბიზნესის ან მონათესავე სფეროში",
-"2–5 წლიანი სამუშაო გამოცდილება ფინანსურ ანალიტიკაში, საბანკო სფეროში, აუდიტში ან კონსალტინგში",
-"უპირატესობად ჩაითვლება CFA სერტიფიკატის ფლობა ან CFA-ის I ან II დონის სერტიფიცირება",
-"Excel-ის მაღალ დონეზე ცოდნა: “three-statement” მოდელები, სცენარული და sensitivity-ის ანალიზი, მოდელირების „best practice“",
-"ფინანსური ანალიზისა და კომპანიის შეფასების (Valuation) სიღრმისეული ცოდნა",
-"PowerPoint-ში სტრუქტურირებული პრეზენტაციების მომზადების უნარი",
-"ანალიტიკური და კრიტიკული აზროვნება"
-],
-"offers": []
-},
-"textLen": 4889
-},
-{
 "id": "7c2bc85cd2d5",
 "title": "ფინანსური ანალიტიკოსი",
 "company": "ლიბერთი, ბაზისბანკ ჯგუფი",
@@ -1268,8 +1116,8 @@
 ],
 "url": "https://www.hr.ge/announcement/503767",
 "firstSeen": "2026-11-24T18:51+04:00",
-"lastSeen": "2026-11-28T02:07+04:00",
-"active": false,
+"lastSeen": "2026-11-28T20:23+04:00",
+"active": true,
 "skills": [
 "Excel",
 "ფინ. მოდელირება"
@@ -1305,6 +1153,58 @@
 "textLen": 4871
 },
 {
+"id": "61c5dd9f0b96",
+"title": "ფინანსური ანალიტიკოსი",
+"company": "გრადუს გრუპ მაუდი",
+"logo": null,
+"salary": null,
+"published": "2026-11-24",
+"deadline": "2026-12-21",
+"location": "თბილისი",
+"sources": [
+{
+"site": "hr.ge",
+"url": "https://www.hr.ge/announcement/503601"
+},
+{
+"site": "cv.ge",
+"url": "https://www.cv.ge/announcement/503601"
+},
+{
+"site": "jobs.ge",
+"url": "https://jobs.ge/ge/?view=jobs&id=770131"
+}
+],
+"url": "https://www.hr.ge/announcement/503601",
+"firstSeen": "2026-11-24T18:51+04:00",
+"lastSeen": "2026-11-28T20:23+04:00",
+"active": true,
+"skills": [
+"Excel",
+"Power Query",
+"ფინ. მოდელირება"
+],
+"languages": [],
+"exp": 2,
+"level": "Middle",
+"direction": "ფინანსური",
+"remote": null,
+"summary": {
+"about": "შპს ,,გრადუს გრუპ მაუდი “ (212809996) დეველოპერული კომპანიაა, რომელიც ქმნის თანამედროვე, ხარისხზე ორიენტირებულ საცხოვრებელ და საინვესტიციო პროექტებს საქართველოში. კომპანიის მიმდინარე პროექტია ,,Maudi Residence — ქუთაისის პირველი პრემიუმ დახურული საცხოვრებელი…",
+"duties": [
+"სამშენებლო პროექტების ბიუჯეტების შედგენა, კონტროლი და შესრულების მონიტორინგი",
+"პროექტების საინვესტიციო მიმზიდველობის შეფასება (ROI, IRR, NPV და სხვა მაჩვენებლების ანალიზი)",
+"შემოსავლების, ხარჯების, ფულადი ნაკადების (Cash Flow) დაგეგმვა და პროგნოზირება",
+"ფაქტობრივი შედეგების შედარება დაგეგმილ ბიუჯეტთან (Budget vs Actual Analysis)",
+"გადახრების მიზეზების გამოვლენა და ანალიზი",
+"სამშენებლო ხარჯების, კონტრაქტორების, მომწოდებლებისა და მომსახურების ხარჯების კონტროლი"
+],
+"reqs": [],
+"offers": []
+},
+"textLen": 3835
+},
+{
 "id": "a35e33f8da0d",
 "title": "ფინანსური ანალიტიკოსი",
 "company": "ჰუალინგ ჯგუფი",
@@ -1321,7 +1221,7 @@
 ],
 "url": "https://jobs.ge/ge/?view=jobs&id=770128",
 "firstSeen": "2026-11-24T18:51+04:00",
-"lastSeen": "2026-11-28T02:07+04:00",
+"lastSeen": "2026-11-28T20:23+04:00",
 "active": true,
 "skills": [
 "Excel",
@@ -1359,6 +1259,118 @@
 "textLen": 3415
 },
 {
+"id": "6cf4bac123da",
+"title": "პროცესებისა და სისტემების ანალიტიკოსი",
+"company": "Girteka",
+"logo": "https://d1hedpmorgly0j.cloudfront.net/logo/50897/74429fa7-78ed-4aa0-b8a3-9320f7e66c8a.png",
+"salary": {
+"from": 4110,
+"to": null,
+"cur": "₾"
+},
+"published": "2026-11-24",
+"deadline": "2026-12-23",
+"location": "თბილისი",
+"sources": [
+{
+"site": "hr.ge",
+"url": "https://www.hr.ge/announcement/503900"
+},
+{
+"site": "cv.ge",
+"url": "https://www.cv.ge/announcement/503900"
+}
+],
+"url": "https://www.hr.ge/announcement/503900",
+"firstSeen": "2026-11-24T18:51+04:00",
+"lastSeen": "2026-11-28T20:23+04:00",
+"active": true,
+"skills": [
+"SAP",
+"BPMN"
+],
+"languages": [
+"ინგლისური"
+],
+"exp": 2,
+"level": "Middle",
+"direction": "ბიზნეს / სისტემური",
+"remote": null,
+"summary": {
+"about": "Girteka is pleased to announce a vacancy for the position of Process and Systems Analyst (Key User) About the role We’re looking for a Process and Systems Analyst (Key User) to join our global HRIS team and drive process excellence within SAP SuccessFactors…",
+"duties": [
+"Support global users in troubleshooting SAP SuccessFactors processes",
+"Identify and drive improvements, from requirement gathering to implementation and testing",
+"Ensure data accuracy and provide analytics to improve system performance",
+"Keep documentation up to date, including process maps, training materials, and BPMN workflows",
+"Conduct testing activities (UAT) to ensure smooth deployment of new functionalities",
+"Act as Subject Matter Expert (SME) in meetings with IT and other partners"
+],
+"reqs": [],
+"offers": [
+"Career opportunities: Many of our leaders started in entry-level roles at Girteka. Around 30% of our colleagues advance their careers within the company every year",
+"Learning and development: We invest in continuous growth through internal and external trainings, seminars, mentoring programs, leadership development initiatives, and…",
+"Health and well-being: We care about our colleagues' well-being and provide comprehensive health insurance. You will also benefit from 50% compensated on-site meals, as…",
+"Collaborative culture: We believe strong teamwork drives the best results. Working in international teams, we collaborate across functions, share knowledge, and…",
+"Recognition and additional benefits: We recognize and celebrate our people through work anniversary rewards and values-based recognition. In addition, we offer a day…"
+]
+},
+"textLen": 3800
+},
+{
+"id": "9889b1209594",
+"title": "ფინანსური ანალიტიკოსი სტრატეგიული პროექტებისა და M&A მიმართულებით",
+"company": "ლიბერთი, ბაზისბანკ ჯგუფი",
+"logo": "https://static.tnet.ge/myjobs/company/226.jpg?v=2",
+"salary": null,
+"published": "2026-11-24",
+"deadline": "2026-12-08",
+"location": "თბილისი",
+"sources": [
+{
+"site": "myjobs.ge",
+"url": "https://www.myjobs.ge/ka/vacancy/31905"
+}
+],
+"url": "https://www.myjobs.ge/ka/vacancy/31905",
+"firstSeen": "2026-11-24T18:51+04:00",
+"lastSeen": "2026-11-28T20:23+04:00",
+"active": true,
+"skills": [
+"Excel",
+"ფინ. მოდელირება"
+],
+"languages": [
+"ინგლისური"
+],
+"exp": 2,
+"level": "Middle",
+"direction": "ფინანსური",
+"remote": null,
+"summary": {
+"about": "ადგილმდებარეობა თბილისი სამუშაო საათები სტანდარტული ბოლო ვადა 08 დეკემბერი, 2026 აღწერა ბაზისბანკ ჯგუფი საქართველოში მესამე უმსხვილესი სისტემური ფინანსური ინსტიტუტია, რომლის ბაზრის წილი 11%-ს შეადგენს. ჯგუფი 2 მილიონზე მეტ ფიზიკურ პირსა და 65,000-ზე მეტ…",
+"duties": [
+"სტრატეგიული და საინვესტიციო პროექტების ფინანსური მოდელების მომზადება და მონიტორინგი",
+"ბიზნეს პროექტებისთვის ფინანსური გათვლებისა და სხვადასხვა სცენარის მომზადება",
+"მონაცემების შეგროვება, სტრუქტურირება და ანალიზი",
+"ბიზნეს ქეისების განხორციელების შემდგომი (Post-Implementation) მონიტორინგი",
+"მსხვილი კლიენტების კომპლექსური (Cross-sell) სესხების ფასის (pricing) ანალიზი",
+"მომგებიანობის (Profitability) ანალიზის სრულად წარმართვა და შესაბამისი რეკომენდაციების მომზადება"
+],
+"reqs": [
+"უმაღლესი განათლება ფინანსების, ეკონომიკის, ბიზნესის ან მონათესავე სფეროში",
+"2–5 წლიანი სამუშაო გამოცდილება ფინანსურ ანალიტიკაში, საბანკო სფეროში, აუდიტში ან კონსალტინგში",
+"უპირატესობად ჩაითვლება CFA სერტიფიკატის ფლობა ან CFA-ის I ან II დონის სერტიფიცირება",
+"Excel-ის მაღალ დონეზე ცოდნა: “three-statement” მოდელები, სცენარული და sensitivity-ის ანალიზი, მოდელირების „best practice“",
+"ფინანსური ანალიზისა და კომპანიის შეფასების (Valuation) სიღრმისეული ცოდნა",
+"PowerPoint-ში სტრუქტურირებული პრეზენტაციების მომზადების უნარი",
+"ანალიტიკური და კრიტიკული აზროვნება"
+],
+"offers": []
+},
+"textLen": 4889
+},
+{
 "id": "20256d67c2dc",
 "title": "აუდიტორი",
 "company": "სადაზღვევო კომპანია ალდაგი",
@@ -1371,11 +1383,15 @@
 {
 "site": "hr.ge",
 "url": "https://www.hr.ge/announcement/503805"
+},
+{
+"site": "jobs.ge",
+"url": "https://jobs.ge/ge/?view=jobs&id=770227"
 }
 ],
 "url": "https://www.hr.ge/announcement/503805",
 "firstSeen": "2026-11-11T15:52+04:00",
-"lastSeen": "2026-11-28T16:59+04:00",
+"lastSeen": "2026-11-28T20:23+04:00",
 "active": true,
 "skills": [
 "Excel"
@@ -1411,6 +1427,119 @@
 "textLen": 2704
 },
 {
+"id": "54dde6b4d8fe",
+"title": "დამწყები აუდიტორი",
+"company": "TaxInfo ჯგუფი",
+"logo": "https://jobs.ge/data/clients/logo_icon/7060.gif",
+"salary": {
+"from": 2000,
+"to": 2500,
+"cur": "₾"
+},
+"published": "2026-11-20",
+"deadline": "2026-12-20",
+"location": "თბილისი",
+"sources": [
+{
+"site": "jobs.ge",
+"url": "https://jobs.ge/ge/?view=jobs&id=769810"
+}
+],
+"url": "https://jobs.ge/ge/?view=jobs&id=769810",
+"firstSeen": "2026-11-20T16:53+04:00",
+"lastSeen": "2026-11-28T20:23+04:00",
+"active": true,
+"skills": [
+"Excel",
+"IFRS"
+],
+"languages": [
+"ინგლისური",
+"რუსული"
+],
+"exp": 1,
+"level": "Junior",
+"direction": "აუდიტი",
+"remote": null,
+"summary": {
+"about": "ბიზნეს საკონსულტაციო და აუდიტორული კომპანია - TaxInfo აცხადებს ვაკანსიას დამწყების აუდიტორის პოზიციის დასაკავებლად. სამუშაო ადგილი - ქ. თბილისი, მ. ალექსიძის ქ. N12, King David-ის ბიზნეს ცენტრი მე-9 სართული.",
+"duties": [
+"ბუღალტრული/ფინანსური აღრიცხვა-ანგარიშგება მცირე ან/და საშუალო ზომის კომპანიებში",
+"საგადასახადო-აღრიცხვა ანგარიშგება: საგადასახადო დეკლარაციების და სხვა სავალდებულო ინფორმაციის წარდგენა",
+"მცირე ან/და საშუალო ზომის კომპანიების აღრიცხვა-ანგარიშგების საგადასახადო/ფინანსური აუდიტი"
+],
+"reqs": [
+"განათლება ბიზნესის ადმინისტრირების, ფინანსების ან ეკონომიკის მიმართულებით (დამამთავრებელი კურსის სტუდენტების ჩათვლით)",
+"ბუღალტრული აღრიცხვის პრინციპების საფუძვლიანი ცოდნა",
+"Rs.ge - იზე მუშაობის გამოცდილება (სასურველია არანაკლებ 1 წლისა - არა სავალდებულო მოთხოვნა)"
+],
+"offers": [
+"პროფესიული ზრდის უნიკალურ შანსს: დროის მცირე პერიოდში მოახდინოთ ერთდროულად ფინანსურ და საგადასახადო აღრიცხვა ანგარიშგებისა და აუდიტის სფეროში საფუძვლიანი…",
+"საუკეთესო სამუშაო პირობებს",
+"უფასო ტრეინინგებს საგადასახადო კანონმდებლობაში",
+"ვაკანსიის დასახელება: დამწყები აუდიტორის პოზიცია",
+"სამუშაოს ტიპი: სრული"
+]
+},
+"textLen": 2744
+},
+{
+"id": "b23ac1b07abb",
+"title": "ანაზღაურებადი სტაჟირება - დამწყები აუდიტორი",
+"company": "TaxInfo ჯგუფი",
+"logo": "https://jobs.ge/data/clients/logo_icon/7060.gif",
+"salary": {
+"from": 1200,
+"to": null,
+"cur": "₾"
+},
+"published": "2026-11-20",
+"deadline": "2026-12-20",
+"location": "თბილისი",
+"sources": [
+{
+"site": "jobs.ge",
+"url": "https://jobs.ge/ge/?view=jobs&id=769808"
+}
+],
+"url": "https://jobs.ge/ge/?view=jobs&id=769808",
+"firstSeen": "2026-11-20T16:53+04:00",
+"lastSeen": "2026-11-28T20:23+04:00",
+"active": true,
+"skills": [
+"Excel",
+"IFRS"
+],
+"languages": [
+"ინგლისური",
+"რუსული"
+],
+"exp": null,
+"level": "სტაჟირება",
+"direction": "აუდიტი",
+"remote": null,
+"summary": {
+"about": "ბიზნეს საკონსულტაციო და აუდიტორული კომპანია - TaxInfo აცხადებს ანაზღაურებად სტაჟირებას დამწყები აუდიტორის პოზიციის დასაკავებლად. სტაჟირების ადგილი - ქ. თბილისი, მ. ალექსიძის ქ. N12, King David-ის ბიზნეს ცენტრი მე-9 სართული.",
+"duties": [
+"ბუღალტრული/ფინანსური აღრიცხვა-ანგარიშგება მცირე ან/და საშუალო ზომის კომპანიებში",
+"საგადასახადო-აღრიცხვა ანგარიშგება: საგადასახადო დეკლარაციების და სხვა სავალდებულო ინფორმაციის წარდგენა",
+"მცირე ან/და საშუალო ზომის კომპანიების აღრიცხვა-ანგარიშგების საგადასახადო/ფინანსური აუდიტი"
+],
+"reqs": [
+"განათლება ბიზნესის ადმინისტრირების, ფინანსების ან ეკონომიკის მიმართულებით (დამამთავრებელი კურსის სტუდენტების ჩათვლით)",
+"ბუღალტრული აღრიცხვის პრინციპების საფუძვლიანი ცოდნა"
+],
+"offers": [
+"პროფესიული ზრდის უნიკალურ შანსს: დროის მცირე პერიოდში მოახდინოთ ერთდროულად ფინანსურ და საგადასახადო აღრიცხვა ანგარიშგებისა და აუდიტის სფეროში საფუძვლიანი…",
+"საუკეთესო სამუშაო პირობებს",
+"უფასო ტრეინინგებს საგადასახადო კანონმდებლობაში",
+"სტაჟირების დამთავრების შემდეგ დამწყები აუდიტორის პოზიციაზე მუშაობის გაგრძელების შესაძლებლობას",
+"ვაკანსიის დასახელება: ანაზღაურებადი სტაჟირება დამწყები აუდიტორის პოზიციის დასაკავებლად"
+]
+},
+"textLen": 2664
+},
+{
 "id": "0b7d49a90596",
 "title": "ანაზღაურებად სტაჟირება - დამწყები აუდიტორი",
 "company": "აუდიტორული კომპანია TaxInfo",
@@ -1435,7 +1564,7 @@
 ],
 "url": "https://www.hr.ge/announcement/503426",
 "firstSeen": "2026-11-20T16:53+04:00",
-"lastSeen": "2026-11-28T16:59+04:00",
+"lastSeen": "2026-11-28T20:23+04:00",
 "active": true,
 "skills": [
 "Excel",
@@ -1500,7 +1629,7 @@
 ],
 "url": "https://www.hr.ge/announcement/503427",
 "firstSeen": "2026-11-20T16:53+04:00",
-"lastSeen": "2026-11-28T16:59+04:00",
+"lastSeen": "2026-11-28T20:23+04:00",
 "active": true,
 "skills": [
 "Excel",
@@ -1541,117 +1670,37 @@
 "textLen": 2725
 },
 {
-"id": "54dde6b4d8fe",
-"title": "დამწყები აუდიტორი",
-"company": "TaxInfo ჯგუფი",
-"logo": "https://jobs.ge/data/clients/logo_icon/7060.gif",
-"salary": {
-"from": 2000,
-"to": 2500,
-"cur": "₾"
-},
-"published": "2026-11-20",
-"deadline": "2026-12-20",
+"id": "281387ce7f26",
+"title": "ფინანსური ანალიტიკოსი",
+"company": "ორი ნაბიჯი",
+"logo": "https://jobs.ge/data/clients/logo_icon/1974_2nbiji_3644553.gif",
+"salary": null,
+"published": "2026-11-19",
+"deadline": "2026-12-03",
 "location": "თბილისი",
 "sources": [
 {
 "site": "jobs.ge",
-"url": "https://jobs.ge/ge/?view=jobs&id=769810"
+"url": "https://jobs.ge/ge/?view=jobs&id=769398"
 }
 ],
-"url": "https://jobs.ge/ge/?view=jobs&id=769810",
-"firstSeen": "2026-11-20T16:53+04:00",
-"lastSeen": "2026-11-28T02:07+04:00",
+"url": "https://jobs.ge/ge/?view=jobs&id=769398",
+"firstSeen": "2026-11-19T17:06+04:00",
+"lastSeen": "2026-11-28T20:23+04:00",
 "active": true,
-"skills": [
-"Excel",
-"IFRS"
-],
-"languages": [
-"ინგლისური",
-"რუსული"
-],
-"exp": 1,
-"level": "Junior",
-"direction": "აუდიტი",
-"remote": null,
-"summary": {
-"about": "ბიზნეს საკონსულტაციო და აუდიტორული კომპანია - TaxInfo აცხადებს ვაკანსიას დამწყების აუდიტორის პოზიციის დასაკავებლად. სამუშაო ადგილი - ქ. თბილისი, მ. ალექსიძის ქ. N12, King David-ის ბიზნეს ცენტრი მე-9 სართული.",
-"duties": [
-"ბუღალტრული/ფინანსური აღრიცხვა-ანგარიშგება მცირე ან/და საშუალო ზომის კომპანიებში",
-"საგადასახადო-აღრიცხვა ანგარიშგება: საგადასახადო დეკლარაციების და სხვა სავალდებულო ინფორმაციის წარდგენა",
-"მცირე ან/და საშუალო ზომის კომპანიების აღრიცხვა-ანგარიშგების საგადასახადო/ფინანსური აუდიტი"
-],
-"reqs": [
-"განათლება ბიზნესის ადმინისტრირების, ფინანსების ან ეკონომიკის მიმართულებით (დამამთავრებელი კურსის სტუდენტების ჩათვლით)",
-"ბუღალტრული აღრიცხვის პრინციპების საფუძვლიანი ცოდნა",
-"Rs.ge - იზე მუშაობის გამოცდილება (სასურველია არანაკლებ 1 წლისა - არა სავალდებულო მოთხოვნა)"
-],
-"offers": [
-"პროფესიული ზრდის უნიკალურ შანსს: დროის მცირე პერიოდში მოახდინოთ ერთდროულად ფინანსურ და საგადასახადო აღრიცხვა ანგარიშგებისა და აუდიტის სფეროში საფუძვლიანი…",
-"საუკეთესო სამუშაო პირობებს",
-"უფასო ტრეინინგებს საგადასახადო კანონმდებლობაში",
-"ვაკანსიის დასახელება: დამწყები აუდიტორის პოზიცია",
-"სამუშაოს ტიპი: სრული"
-]
-},
-"textLen": 2744
-},
-{
-"id": "b23ac1b07abb",
-"title": "ანაზღაურებადი სტაჟირება - დამწყები აუდიტორი",
-"company": "TaxInfo ჯგუფი",
-"logo": "https://jobs.ge/data/clients/logo_icon/7060.gif",
-"salary": {
-"from": 1200,
-"to": null,
-"cur": "₾"
-},
-"published": "2026-11-20",
-"deadline": "2026-12-20",
-"location": "თბილისი",
-"sources": [
-{
-"site": "jobs.ge",
-"url": "https://jobs.ge/ge/?view=jobs&id=769808"
-}
-],
-"url": "https://jobs.ge/ge/?view=jobs&id=769808",
-"firstSeen": "2026-11-20T16:53+04:00",
-"lastSeen": "2026-11-28T02:07+04:00",
-"active": true,
-"skills": [
-"Excel",
-"IFRS"
-],
-"languages": [
-"ინგლისური",
-"რუსული"
-],
+"skills": [],
+"languages": [],
 "exp": null,
-"level": "სტაჟირება",
-"direction": "აუდიტი",
+"level": "Middle",
+"direction": "ფინანსური",
 "remote": null,
 "summary": {
-"about": "ბიზნეს საკონსულტაციო და აუდიტორული კომპანია - TaxInfo აცხადებს ანაზღაურებად სტაჟირებას დამწყები აუდიტორის პოზიციის დასაკავებლად. სტაჟირების ადგილი - ქ. თბილისი, მ. ალექსიძის ქ. N12, King David-ის ბიზნეს ცენტრი მე-9 სართული.",
-"duties": [
-"ბუღალტრული/ფინანსური აღრიცხვა-ანგარიშგება მცირე ან/და საშუალო ზომის კომპანიებში",
-"საგადასახადო-აღრიცხვა ანგარიშგება: საგადასახადო დეკლარაციების და სხვა სავალდებულო ინფორმაციის წარდგენა",
-"მცირე ან/და საშუალო ზომის კომპანიების აღრიცხვა-ანგარიშგების საგადასახადო/ფინანსური აუდიტი"
-],
-"reqs": [
-"განათლება ბიზნესის ადმინისტრირების, ფინანსების ან ეკონომიკის მიმართულებით (დამამთავრებელი კურსის სტუდენტების ჩათვლით)",
-"ბუღალტრული აღრიცხვის პრინციპების საფუძვლიანი ცოდნა"
-],
-"offers": [
-"პროფესიული ზრდის უნიკალურ შანსს: დროის მცირე პერიოდში მოახდინოთ ერთდროულად ფინანსურ და საგადასახადო აღრიცხვა ანგარიშგებისა და აუდიტის სფეროში საფუძვლიანი…",
-"საუკეთესო სამუშაო პირობებს",
-"უფასო ტრეინინგებს საგადასახადო კანონმდებლობაში",
-"სტაჟირების დამთავრების შემდეგ დამწყები აუდიტორის პოზიციაზე მუშაობის გაგრძელების შესაძლებლობას",
-"ვაკანსიის დასახელება: ანაზღაურებადი სტაჟირება დამწყები აუდიტორის პოზიციის დასაკავებლად"
-]
+"about": "\" ორი ნაბიჯი \" აცხადებს ვაკანსიას პოზიციაზე: ფინანსური ანალიტიკოსი ვაკანსიის შესახებ დეტალური ინფორმაციის გასაცნობად და რეზიუმეს გადმოსაგზავნად, გთხოვთ, ეწვიოთ მოცემულ ბმულს: https://hel-ai.com/apply/glpJONLe",
+"duties": [],
+"reqs": [],
+"offers": []
 },
-"textLen": 2664
+"textLen": 208
 },
 {
 "id": "59e5e007977a",
@@ -1674,7 +1723,7 @@
 ],
 "url": "https://www.hr.ge/announcement/503380",
 "firstSeen": "2026-11-19T17:06+04:00",
-"lastSeen": "2026-11-28T16:59+04:00",
+"lastSeen": "2026-11-28T20:23+04:00",
 "active": true,
 "skills": [
 "Excel",
@@ -1729,7 +1778,7 @@
 ],
 "url": "https://www.hr.ge/announcement/503379",
 "firstSeen": "2026-11-19T17:06+04:00",
-"lastSeen": "2026-11-28T16:59+04:00",
+"lastSeen": "2026-11-28T20:23+04:00",
 "active": true,
 "skills": [
 "Excel",
@@ -1764,39 +1813,6 @@
 "textLen": 3184
 },
 {
-"id": "281387ce7f26",
-"title": "ფინანსური ანალიტიკოსი",
-"company": "ორი ნაბიჯი",
-"logo": "https://jobs.ge/data/clients/logo_icon/1974_2nbiji_3644553.gif",
-"salary": null,
-"published": "2026-11-19",
-"deadline": "2026-12-03",
-"location": "თბილისი",
-"sources": [
-{
-"site": "jobs.ge",
-"url": "https://jobs.ge/ge/?view=jobs&id=769398"
-}
-],
-"url": "https://jobs.ge/ge/?view=jobs&id=769398",
-"firstSeen": "2026-11-19T17:06+04:00",
-"lastSeen": "2026-11-28T02:07+04:00",
-"active": true,
-"skills": [],
-"languages": [],
-"exp": null,
-"level": "Middle",
-"direction": "ფინანსური",
-"remote": null,
-"summary": {
-"about": "\" ორი ნაბიჯი \" აცხადებს ვაკანსიას პოზიციაზე: ფინანსური ანალიტიკოსი ვაკანსიის შესახებ დეტალური ინფორმაციის გასაცნობად და რეზიუმეს გადმოსაგზავნად, გთხოვთ, ეწვიოთ მოცემულ ბმულს: https://hel-ai.com/apply/glpJONLe",
-"duties": [],
-"reqs": [],
-"offers": []
-},
-"textLen": 208
-},
-{
 "id": "a81ff8db3486",
 "title": "სისტემური ანალიტიკოსი",
 "company": "NOVACARD",
@@ -1817,7 +1833,7 @@
 ],
 "url": "https://www.hr.ge/announcement/503264",
 "firstSeen": "2026-11-18T20:42+04:00",
-"lastSeen": "2026-11-28T16:59+04:00",
+"lastSeen": "2026-11-28T20:23+04:00",
 "active": true,
 "skills": [
 "SQL",
@@ -1881,7 +1897,7 @@
 ],
 "url": "https://www.hr.ge/announcement/503236",
 "firstSeen": "2026-11-18T20:42+04:00",
-"lastSeen": "2026-11-28T16:59+04:00",
+"lastSeen": "2026-11-28T20:23+04:00",
 "active": true,
 "skills": [
 "ETL",
@@ -1916,57 +1932,6 @@
 "textLen": 3677
 },
 {
-"id": "4031f67d2a33",
-"title": "საინვესტიციო ანალიტიკოსი",
-"company": "საქართველოს საპენსიო ფონდი",
-"logo": null,
-"salary": null,
-"published": "2026-11-18",
-"deadline": "2026-11-27",
-"location": "თბილისი",
-"sources": [
-{
-"site": "jobs.ge",
-"url": "https://jobs.ge/ge/?view=jobs&id=769248"
-}
-],
-"url": "https://jobs.ge/ge/?view=jobs&id=769248",
-"firstSeen": "2026-11-18T17:02+04:00",
-"lastSeen": "2026-11-28T02:07+04:00",
-"active": false,
-"skills": [
-"Excel"
-],
-"languages": [
-"ინგლისური"
-],
-"exp": 1,
-"level": "Junior",
-"direction": "ფინანსური",
-"remote": null,
-"summary": {
-"about": "სსიპ \" საქართველოს საპენსიო ფონდი \" აცხადებს კონკურსს საინვესტიციო დეპარტამენტის საინვესტიციო ანალიტიკოსის ვაკანტურ პოზიციაზე. სამუშაოს ადგილმდებარეობა: თბილისი, საქართველო სამუშაო განაკვეთი: სრული",
-"duties": [
-"არსებული და პოტენციური ინვესტიციების ანალიზი ფასიან ქაღალდებსა და საბანკო პროდუქტებში",
-"ინვესტიციების ანალიზის შედეგად გამოვლენილი რისკების შეფასება და მათი განხილვა",
-"ინვესტიციების განხორციელების პროცესის წარმართვა და ორგანიზაციის შიგნით და გარეთ შესაბამის მხარეებთან კოორდინაცია",
-"ბანკებთან, ბროკერებთან და ბაზრის სხვა მონაწილეებთან პირდაპირი ურთიერთობა, საინვესტიციო პროექტებთან დაკავშირებული ინფორმაციის მოთხოვნა და დამუშავება",
-"ბაზრის ტენდენციების მონიტორინგი, ადგილობრივი და უცხოური კაპიტალის ბაზრების სიახლეების რეგულარული გაცნობა და ანალიზი",
-"საინვესტიციო შესაძლებლობების მოძიება, ანალიზი, ფულადი ნაკადების პროგნოზირება არსებული ტენდენციებისა და ბაზრის მოლოდინების გათვალისწინებით"
-],
-"reqs": [
-"უმაღლესი განათლება ფინანსების, ბიზნესის ადმინისტრირების, ეკონომიკის ან მათთან დაკავშირებულ სფეროში. CFA, CAIA ან ACCA სერტიფიკატი ჩაითვლება მნიშვნელოვან უპირატესობად",
-"შესაბამის სფეროში მუშაობის მინიმუმ 1-წლიანი გამოცდილება",
-"აქტივების კლასების მაღალ დონეზე ცოდნა, როგორიცაა ფულის ბაზრის ინსტრუმენტები, ობლიგაციები, აქციები, ფონდები და დერივატივები",
-"საოფისე პროგრამების მაღალ დონეზე ცოდნა (Word, Excel, PowerPoint)",
-"საინვესტიციო პროგრამებთან მუშაობის გამოცდილება ჩაითვლება უპირატესობად (Bloomberg, Reuters)",
-"ქართული და ინგლისური ენების პროფესიულ დონეზე ცოდნა"
-],
-"offers": []
-},
-"textLen": 4666
-},
-{
 "id": "c24e8dfc5e3b",
 "title": "ქიმიკოს-ანალიტიკოსი",
 "company": "გლობალტესტი",
@@ -1983,7 +1948,7 @@
 ],
 "url": "https://jobs.ge/ge/?view=jobs&id=769155",
 "firstSeen": "2026-11-18T17:02+04:00",
-"lastSeen": "2026-11-28T02:07+04:00",
+"lastSeen": "2026-11-28T20:23+04:00",
 "active": true,
 "skills": [
 "Excel"
@@ -2035,7 +2000,7 @@
 ],
 "url": "https://jobs.ge/ge/?view=jobs&id=769148",
 "firstSeen": "2026-11-18T17:02+04:00",
-"lastSeen": "2026-11-28T02:07+04:00",
+"lastSeen": "2026-11-28T20:23+04:00",
 "active": true,
 "skills": [],
 "languages": [],
@@ -2050,6 +2015,57 @@
 "offers": []
 },
 "textLen": 205
+},
+{
+"id": "4031f67d2a33",
+"title": "საინვესტიციო ანალიტიკოსი",
+"company": "საქართველოს საპენსიო ფონდი",
+"logo": null,
+"salary": null,
+"published": "2026-11-18",
+"deadline": "2026-11-27",
+"location": "თბილისი",
+"sources": [
+{
+"site": "jobs.ge",
+"url": "https://jobs.ge/ge/?view=jobs&id=769248"
+}
+],
+"url": "https://jobs.ge/ge/?view=jobs&id=769248",
+"firstSeen": "2026-11-18T17:02+04:00",
+"lastSeen": "2026-11-28T02:07+04:00",
+"active": false,
+"skills": [
+"Excel"
+],
+"languages": [
+"ინგლისური"
+],
+"exp": 1,
+"level": "Junior",
+"direction": "ფინანსური",
+"remote": null,
+"summary": {
+"about": "სსიპ \" საქართველოს საპენსიო ფონდი \" აცხადებს კონკურსს საინვესტიციო დეპარტამენტის საინვესტიციო ანალიტიკოსის ვაკანტურ პოზიციაზე. სამუშაოს ადგილმდებარეობა: თბილისი, საქართველო სამუშაო განაკვეთი: სრული",
+"duties": [
+"არსებული და პოტენციური ინვესტიციების ანალიზი ფასიან ქაღალდებსა და საბანკო პროდუქტებში",
+"ინვესტიციების ანალიზის შედეგად გამოვლენილი რისკების შეფასება და მათი განხილვა",
+"ინვესტიციების განხორციელების პროცესის წარმართვა და ორგანიზაციის შიგნით და გარეთ შესაბამის მხარეებთან კოორდინაცია",
+"ბანკებთან, ბროკერებთან და ბაზრის სხვა მონაწილეებთან პირდაპირი ურთიერთობა, საინვესტიციო პროექტებთან დაკავშირებული ინფორმაციის მოთხოვნა და დამუშავება",
+"ბაზრის ტენდენციების მონიტორინგი, ადგილობრივი და უცხოური კაპიტალის ბაზრების სიახლეების რეგულარული გაცნობა და ანალიზი",
+"საინვესტიციო შესაძლებლობების მოძიება, ანალიზი, ფულადი ნაკადების პროგნოზირება არსებული ტენდენციებისა და ბაზრის მოლოდინების გათვალისწინებით"
+],
+"reqs": [
+"უმაღლესი განათლება ფინანსების, ბიზნესის ადმინისტრირების, ეკონომიკის ან მათთან დაკავშირებულ სფეროში. CFA, CAIA ან ACCA სერტიფიკატი ჩაითვლება მნიშვნელოვან უპირატესობად",
+"შესაბამის სფეროში მუშაობის მინიმუმ 1-წლიანი გამოცდილება",
+"აქტივების კლასების მაღალ დონეზე ცოდნა, როგორიცაა ფულის ბაზრის ინსტრუმენტები, ობლიგაციები, აქციები, ფონდები და დერივატივები",
+"საოფისე პროგრამების მაღალ დონეზე ცოდნა (Word, Excel, PowerPoint)",
+"საინვესტიციო პროგრამებთან მუშაობის გამოცდილება ჩაითვლება უპირატესობად (Bloomberg, Reuters)",
+"ქართული და ინგლისური ენების პროფესიულ დონეზე ცოდნა"
+],
+"offers": []
+},
+"textLen": 4666
 },
 {
 "id": "028f78e99c46",
@@ -2120,7 +2136,7 @@
 "url": "https://www.hr.ge/announcement/503258",
 "firstSeen": "2026-11-13T19:40+04:00",
 "lastSeen": "2026-11-28T16:59+04:00",
-"active": true,
+"active": false,
 "skills": [],
 "languages": [
 "ინგლისური"
@@ -2153,6 +2169,103 @@
 "textLen": 3330
 },
 {
+"id": "85eb7ece2b3d",
+"title": "ფინანსური ანალიტიკოსი",
+"company": "საქართველოს კლინიკები",
+"logo": null,
+"salary": null,
+"published": "2026-11-17",
+"deadline": "2026-11-30",
+"location": "თბილისი",
+"sources": [
+{
+"site": "jobs.ge",
+"url": "https://jobs.ge/ge/?view=jobs&id=768965"
+}
+],
+"url": "https://jobs.ge/ge/?view=jobs&id=768965",
+"firstSeen": "2026-11-17T17:26+04:00",
+"lastSeen": "2026-11-28T20:23+04:00",
+"active": true,
+"skills": [
+"SQL",
+"Excel"
+],
+"languages": [
+"ინგლისური"
+],
+"exp": 1,
+"level": "Junior",
+"direction": "ფინანსური",
+"remote": null,
+"summary": {
+"about": "\" საქართველოს კლინიკები \" - ყველაზე ფართო ჰოსპიტალური ქსელი საქართველოში. \"საქართველოს ჯანდაცვის ჯგუფში\" შემავალი კომპანიაა, რომლის მისიაც ჯანდაცვის სერვისებზე ხელმისაწვდომობისა და პაციენტთა ცხოვრების ხარისხის გაუმჯობესებაა. შემოუერთდი ჩვენს დიდ გუნდს!…",
+"duties": [
+"ყოველდღიური, ყოველკვირეული, ყოველთვიური, კვარტალური და წლიური რეპორტების მომზადებაში მონაწილეობის მიღება",
+"სხვადასხვა მონაცემების დამუშავება -ზუსტი და დროული რეპორტების წარდგენა",
+"მოთხოვნის შესაბამისად, ერთჯერადი რეპორტების მომზადება სხვადასხვა სტრუქტურული ერთეულისთვის",
+"ბიუჯეტირების პროცესში მონაწილეობის მიღება და მისი მონიტორინგი",
+"Month Closer და Board Report, Manual Adjustment",
+"Cash Flow Statement"
+],
+"reqs": [
+"უმაღლესი განათლება ბიზნესის ადმინისტრირების ან ფინანსების მიმართულებით",
+"აუცილებელია შესაბამისი მიმართულებით მუშაობის მინიმუმ 1 წლიანი გამოცდილება",
+"სასურველია სამედიცინო სფეროში მუშაობის გამოცდილება",
+"საოფისე პროგრამების მაღალ დონეზე ცოდნა - განსაკუთრებით MS Excel",
+"სასურველია SQL ბაზებთან მუშაობის გამოცდილება",
+"განაცხადის მიღების ბოლო ვადაა: 30 ნოემბერი, 2026",
+"დაინტერესებულმა კანდიდატებმა, გთხოვთ, გაგვიზიაროთ რეზიუმე (CV) შემდეგ მისამართზე: gc_hr@clinics.ge და სათაურის ველში მიუთითეთ პოზიციის დასახელება \"ფინანსური ანალიტიკოსი\""
+],
+"offers": []
+},
+"textLen": 5050
+},
+{
+"id": "e5679e1da12a",
+"title": "სავაჭრო ობიექტების/მერჩენდაიზინგის აუდიტორი",
+"company": "ზებრა გრუპი",
+"logo": "https://jobs.ge/data/clients/logo_icon/2891_zebragroup_6967338.gif",
+"salary": {
+"from": 1000,
+"to": null,
+"cur": "₾"
+},
+"published": "2026-11-17",
+"deadline": "2026-12-17",
+"location": "თბილისი",
+"sources": [
+{
+"site": "jobs.ge",
+"url": "https://jobs.ge/ge/?view=jobs&id=768937"
+}
+],
+"url": "https://jobs.ge/ge/?view=jobs&id=768937",
+"firstSeen": "2026-11-17T17:26+04:00",
+"lastSeen": "2026-11-28T20:23+04:00",
+"active": true,
+"skills": [],
+"languages": [],
+"exp": null,
+"level": "Middle",
+"direction": "აუდიტი",
+"remote": null,
+"summary": {
+"about": "შპს \" ზებრა გრუპი \" აცხადებს ვაკანსიას პოზიციაზე: სავაჭრო ობიექტების/მერჩენდაიზინგის აუდიტორი - დროებითი პროექტი სამუშაო ტერიტორია: თბილისი პროექტის პერიოდი: 1-15 დეკემბერი ანაზღაურება: 1000 ლარი პროექტის სრულად შესრულებისთვის + შეთანხმებული ტრანსპორტირების…",
+"duties": [],
+"reqs": [
+"მსგავსი აუდიტების ჩატარების გამოცდილება ჩაითვლება უპირატესობად",
+"დეტალებზე ორიენტირებულობა, სიზუსტე და პასუხისმგებლობა",
+"დამოუკიდებლად მუშაობისა და მარშრუტის ორგანიზების უნარი",
+"მაღაზიის მენეჯერებთან პროფესიული კომუნიკაციის უნარი",
+"პროექტის პერიოდში შეთანხმებული ვიზიტების შესრულების შესაძლებლობა",
+"განაცხადის წარდგენა"
+],
+"offers": []
+},
+"textLen": 1936
+},
+{
 "id": "7dd77a3d8847",
 "title": "ფინანსური ანალიტიკოსი",
 "company": "ელემენტ ჰოლდინგი",
@@ -2173,7 +2286,7 @@
 ],
 "url": "https://www.hr.ge/announcement/503001",
 "firstSeen": "2026-11-17T17:26+04:00",
-"lastSeen": "2026-11-28T16:59+04:00",
+"lastSeen": "2026-11-28T20:23+04:00",
 "active": true,
 "skills": [
 "Excel",
@@ -2238,7 +2351,7 @@
 ],
 "url": "https://www.hr.ge/announcement/502990",
 "firstSeen": "2026-11-17T17:26+04:00",
-"lastSeen": "2026-11-28T16:59+04:00",
+"lastSeen": "2026-11-28T20:23+04:00",
 "active": true,
 "skills": [
 "Excel",
@@ -2275,103 +2388,6 @@
 "textLen": 3189
 },
 {
-"id": "85eb7ece2b3d",
-"title": "ფინანსური ანალიტიკოსი",
-"company": "საქართველოს კლინიკები",
-"logo": null,
-"salary": null,
-"published": "2026-11-17",
-"deadline": "2026-11-30",
-"location": "თბილისი",
-"sources": [
-{
-"site": "jobs.ge",
-"url": "https://jobs.ge/ge/?view=jobs&id=768965"
-}
-],
-"url": "https://jobs.ge/ge/?view=jobs&id=768965",
-"firstSeen": "2026-11-17T17:26+04:00",
-"lastSeen": "2026-11-28T02:07+04:00",
-"active": true,
-"skills": [
-"SQL",
-"Excel"
-],
-"languages": [
-"ინგლისური"
-],
-"exp": 1,
-"level": "Junior",
-"direction": "ფინანსური",
-"remote": null,
-"summary": {
-"about": "\" საქართველოს კლინიკები \" - ყველაზე ფართო ჰოსპიტალური ქსელი საქართველოში. \"საქართველოს ჯანდაცვის ჯგუფში\" შემავალი კომპანიაა, რომლის მისიაც ჯანდაცვის სერვისებზე ხელმისაწვდომობისა და პაციენტთა ცხოვრების ხარისხის გაუმჯობესებაა. შემოუერთდი ჩვენს დიდ გუნდს!…",
-"duties": [
-"ყოველდღიური, ყოველკვირეული, ყოველთვიური, კვარტალური და წლიური რეპორტების მომზადებაში მონაწილეობის მიღება",
-"სხვადასხვა მონაცემების დამუშავება -ზუსტი და დროული რეპორტების წარდგენა",
-"მოთხოვნის შესაბამისად, ერთჯერადი რეპორტების მომზადება სხვადასხვა სტრუქტურული ერთეულისთვის",
-"ბიუჯეტირების პროცესში მონაწილეობის მიღება და მისი მონიტორინგი",
-"Month Closer და Board Report, Manual Adjustment",
-"Cash Flow Statement"
-],
-"reqs": [
-"უმაღლესი განათლება ბიზნესის ადმინისტრირების ან ფინანსების მიმართულებით",
-"აუცილებელია შესაბამისი მიმართულებით მუშაობის მინიმუმ 1 წლიანი გამოცდილება",
-"სასურველია სამედიცინო სფეროში მუშაობის გამოცდილება",
-"საოფისე პროგრამების მაღალ დონეზე ცოდნა - განსაკუთრებით MS Excel",
-"სასურველია SQL ბაზებთან მუშაობის გამოცდილება",
-"განაცხადის მიღების ბოლო ვადაა: 30 ნოემბერი, 2026",
-"დაინტერესებულმა კანდიდატებმა, გთხოვთ, გაგვიზიაროთ რეზიუმე (CV) შემდეგ მისამართზე: gc_hr@clinics.ge და სათაურის ველში მიუთითეთ პოზიციის დასახელება \"ფინანსური ანალიტიკოსი\""
-],
-"offers": []
-},
-"textLen": 5050
-},
-{
-"id": "e5679e1da12a",
-"title": "სავაჭრო ობიექტების/მერჩენდაიზინგის აუდიტორი",
-"company": "ზებრა გრუპი",
-"logo": "https://jobs.ge/data/clients/logo_icon/2891_zebragroup_6967338.gif",
-"salary": {
-"from": 1000,
-"to": null,
-"cur": "₾"
-},
-"published": "2026-11-17",
-"deadline": "2026-12-17",
-"location": "თბილისი",
-"sources": [
-{
-"site": "jobs.ge",
-"url": "https://jobs.ge/ge/?view=jobs&id=768937"
-}
-],
-"url": "https://jobs.ge/ge/?view=jobs&id=768937",
-"firstSeen": "2026-11-17T17:26+04:00",
-"lastSeen": "2026-11-28T02:07+04:00",
-"active": true,
-"skills": [],
-"languages": [],
-"exp": null,
-"level": "Middle",
-"direction": "აუდიტი",
-"remote": null,
-"summary": {
-"about": "შპს \" ზებრა გრუპი \" აცხადებს ვაკანსიას პოზიციაზე: სავაჭრო ობიექტების/მერჩენდაიზინგის აუდიტორი - დროებითი პროექტი სამუშაო ტერიტორია: თბილისი პროექტის პერიოდი: 1-15 დეკემბერი ანაზღაურება: 1000 ლარი პროექტის სრულად შესრულებისთვის + შეთანხმებული ტრანსპორტირების…",
-"duties": [],
-"reqs": [
-"მსგავსი აუდიტების ჩატარების გამოცდილება ჩაითვლება უპირატესობად",
-"დეტალებზე ორიენტირებულობა, სიზუსტე და პასუხისმგებლობა",
-"დამოუკიდებლად მუშაობისა და მარშრუტის ორგანიზების უნარი",
-"მაღაზიის მენეჯერებთან პროფესიული კომუნიკაციის უნარი",
-"პროექტის პერიოდში შეთანხმებული ვიზიტების შესრულების შესაძლებლობა",
-"განაცხადის წარდგენა"
-],
-"offers": []
-},
-"textLen": 1936
-},
-{
 "id": "56508055e415",
 "title": "უფროსი შიდა აუდიტორი",
 "company": "ჯიაიჯი ჰოლდინგი",
@@ -2388,11 +2404,15 @@
 {
 "site": "cv.ge",
 "url": "https://www.cv.ge/announcement/502877"
+},
+{
+"site": "jobs.ge",
+"url": "https://jobs.ge/ge/?view=jobs&id=768768"
 }
 ],
 "url": "https://www.hr.ge/announcement/502877",
 "firstSeen": "2026-11-07T14:02+04:00",
-"lastSeen": "2026-11-28T16:59+04:00",
+"lastSeen": "2026-11-28T20:23+04:00",
 "active": true,
 "skills": [
 "Excel"
@@ -2445,7 +2465,7 @@
 ],
 "url": "https://jobs.ge/ge/?view=jobs&id=768755",
 "firstSeen": "2026-11-07T14:02+04:00",
-"lastSeen": "2026-11-28T02:07+04:00",
+"lastSeen": "2026-11-28T20:23+04:00",
 "active": true,
 "skills": [],
 "languages": [
@@ -2633,7 +2653,7 @@
 ],
 "url": "https://jobs.ge/ge/?view=jobs&id=768512",
 "firstSeen": "2026-11-10T03:02+04:00",
-"lastSeen": "2026-11-28T02:07+04:00",
+"lastSeen": "2026-11-28T20:23+04:00",
 "active": true,
 "skills": [],
 "languages": [
@@ -2672,8 +2692,8 @@
 ],
 "url": "https://www.hr.ge/announcement/503258",
 "firstSeen": "2026-11-07T14:02+04:00",
-"lastSeen": "2026-11-28T02:07+04:00",
-"active": false,
+"lastSeen": "2026-11-28T20:23+04:00",
+"active": true,
 "skills": [],
 "languages": [
 "ინგლისური"
@@ -2749,6 +2769,10 @@
 "location": "თბილისი",
 "sources": [
 {
+"site": "jobs.ge",
+"url": "https://jobs.ge/ge/?view=jobs&id=768395"
+},
+{
 "site": "hr.ge",
 "url": "https://www.hr.ge/announcement/502600"
 },
@@ -2757,9 +2781,9 @@
 "url": "https://www.cv.ge/announcement/502600"
 }
 ],
-"url": "https://www.hr.ge/announcement/502600",
+"url": "https://jobs.ge/ge/?view=jobs&id=768395",
 "firstSeen": "2026-11-14T15:28+04:00",
-"lastSeen": "2026-11-28T16:59+04:00",
+"lastSeen": "2026-11-28T20:23+04:00",
 "active": true,
 "skills": [
 "Excel",
@@ -2787,7 +2811,7 @@
 ],
 "reqs": [
 "უმაღლესი განათლება ფინანსების, ბუღალტერიის ან ეკონომიკის მიმართულებით",
-"ფინანსური ანგარიშგებისა და ანალიზის მიმართულებით მინიმუმ 3–5 წლის პრაქტიკული გამოცდილება",
+"ფინანსური ანგარიშგებისა და ანალიზის მიმართულებით მინიმუმ 3-5 წლის პრაქტიკული გამოცდილება",
 "კონსოლიდირებული ფინანსური ანგარიშგების მომზადების პრაქტიკული გამოცდილება",
 "შიდაჯგუფური ოპერაციებისა და ელიმინაციების (Intercompany Eliminations) სიღრმისეული ცოდნა",
 "ბალანსის, P&L-ისა და Cash Flow-ის დამოუკიდებლად მომზადების უნარი",
@@ -2796,7 +2820,7 @@
 ],
 "offers": []
 },
-"textLen": 4508
+"textLen": 4553
 },
 {
 "id": "228b61e3ffb0",
@@ -2815,7 +2839,7 @@
 ],
 "url": "https://jobs.ge/ge/?view=jobs&id=768307",
 "firstSeen": "2026-11-14T15:28+04:00",
-"lastSeen": "2026-11-28T02:07+04:00",
+"lastSeen": "2026-11-28T20:23+04:00",
 "active": true,
 "skills": [],
 "languages": [
@@ -2993,7 +3017,7 @@
 ],
 "url": "https://jobs.ge/ge/?view=jobs&id=767999",
 "firstSeen": "2026-11-13T16:12+04:00",
-"lastSeen": "2026-11-28T02:07+04:00",
+"lastSeen": "2026-11-28T20:23+04:00",
 "active": true,
 "skills": [
 "Excel",
@@ -3134,7 +3158,7 @@
 ],
 "url": "https://jobs.ge/ge/?view=jobs&id=767967",
 "firstSeen": "2026-11-12T20:11+04:00",
-"lastSeen": "2026-11-28T02:07+04:00",
+"lastSeen": "2026-11-28T20:23+04:00",
 "active": true,
 "skills": [],
 "languages": [
@@ -3173,7 +3197,7 @@
 ],
 "url": "https://jobs.smartrecruiters.com/TBCBANK/744000161232145",
 "firstSeen": "2026-11-12T16:42+04:00",
-"lastSeen": "2026-11-28T16:59+04:00",
+"lastSeen": "2026-11-28T20:23+04:00",
 "active": true,
 "skills": [
 "Excel"
@@ -3295,7 +3319,7 @@
 ],
 "url": "https://jobs.ge/ge/?view=jobs&id=767844",
 "firstSeen": "2026-11-07T14:02+04:00",
-"lastSeen": "2026-11-28T02:07+04:00",
+"lastSeen": "2026-11-28T20:23+04:00",
 "active": true,
 "skills": [],
 "languages": [
@@ -3330,7 +3354,7 @@
 ],
 "url": "https://jobs.ge/ge/?view=jobs&id=767762",
 "firstSeen": "2026-11-07T14:02+04:00",
-"lastSeen": "2026-11-28T02:07+04:00",
+"lastSeen": "2026-11-28T20:23+04:00",
 "active": true,
 "skills": [],
 "languages": [
@@ -3421,6 +3445,57 @@
 "textLen": 2547
 },
 {
+"id": "9ac0dba08b97",
+"title": "კიბერუსაფრთხოების ანალიტიკოსი",
+"company": "Corx",
+"logo": null,
+"salary": null,
+"published": "2026-11-11",
+"deadline": "2026-12-11",
+"location": "თბილისი",
+"sources": [
+{
+"site": "jobs.ge",
+"url": "https://jobs.ge/ge/?view=jobs&id=767602"
+}
+],
+"url": "https://jobs.ge/ge/?view=jobs&id=767602",
+"firstSeen": "2026-11-11T19:36+04:00",
+"lastSeen": "2026-11-28T20:23+04:00",
+"active": true,
+"skills": [
+"Python"
+],
+"languages": [],
+"exp": 1,
+"level": "Junior",
+"direction": "კიბერუსაფრთხოება",
+"remote": null,
+"summary": {
+"about": "\"Corx\"-ის გუნდი იზრდება და ვეძებთ მიზანდასახულ კიბერუსაფრთხოების ანალიტიკოსს (Junior/Mid-Level). თუ კიბერსაფრთხეების აღმოჩენა თქვენი გატაცებაა და ამ სფეროში განვითარება გსურთ, დაგვიკავშირდით!",
+"duties": [
+"ინფრასტრუქტურის მუდმივი მონიტორინგი და უსაფრთხოების სისტემების გაფრთხილებების (alerts) შესწავლა",
+"კიბერუსაფრთხოების თანამედროვე ინსტრუმენტების დანერგვა, კონფიგურირება და მართვა",
+"საფრთხეების აღმოჩენისა და ინციდენტებზე რეაგირების პროცედურების (playbooks) მუდმივი გაუმჯობესება",
+"ინციდენტების შესახებ მკაფიო ანგარიშების მომზადება ხელმძღვანელობისა და სხვა დაინტერესებული მხარეებისთვის"
+],
+"reqs": [
+"გამოცდილება: SOC-ში ან კიბერუსაფრთხოების მიმართულებით მსგავს პოზიციაზე მუშაობის არანაკლებ 1 წლის გამოცდილება",
+"ინსტრუმენტები: SIEM, EDR, IPS, WAF ან Proxy სისტემებთან მუშაობის პრაქტიკული გამოცდილება. ამასთან, უნდა შეგეძლოთ query-ს შედგენა მონაცემების დასამუშავებლად და მოსაძიებლად",
+"საფრთხეების აღმოჩენა: აღმოჩენის წესების (detection rules) შემუშავებისა და დახვეწის გამოცდილება",
+"პიროვნული თვისებები: ანალიტიკური აზროვნება, პრობლემების გადაჭრისა და დამოუკიდებლად მუშაობის უნარი, თვითმოტივაცია",
+"უპირატესობად ჩაითვლება: სკრიპტების წერის ან პროგრამირების ცოდნა (Python, Bash, PowerShell)"
+],
+"offers": [
+"პროფესიული ზრდა: გამოცდილი ექსპერტების უშუალო მენტორობა მეგობრულ გარემოში, სადაც კითხვების დასმა ყოველთვის მისასალმებელია",
+"განვითარება: ვზრუნავთ თქვენს წინსვლაზე. ყოველწლიურად გექნებათ დარგობრივი სერტიფიკატების მოპოვების შესაძლებლობა",
+"სამუშაო ფორმატი: ოფისში (on-site)",
+"მისამართი: თბილისი 0145, გრიგოლ ლორთქიფანიძის ქ. №81ა"
+]
+},
+"textLen": 1603
+},
+{
 "id": "575f5607b484",
 "title": "აქტუარი / მონაცემთა მეცნიერი",
 "company": "თიბისი დაზღვევა",
@@ -3437,7 +3512,7 @@
 ],
 "url": "https://www.myjobs.ge/ka/vacancy/31565",
 "firstSeen": "2026-11-11T19:36+04:00",
-"lastSeen": "2026-11-28T16:59+04:00",
+"lastSeen": "2026-11-28T20:23+04:00",
 "active": true,
 "skills": [
 "SQL",
@@ -3482,9 +3557,9 @@
 "textLen": 2284
 },
 {
-"id": "9ac0dba08b97",
-"title": "კიბერუსაფრთხოების ანალიტიკოსი",
-"company": "Corx",
+"id": "3695c3f72c1e",
+"title": "მონაცემთა ანალიტიკოსი",
+"company": "Remote Georgia IT",
 "logo": null,
 "salary": null,
 "published": "2026-11-11",
@@ -3493,44 +3568,98 @@
 "sources": [
 {
 "site": "jobs.ge",
-"url": "https://jobs.ge/ge/?view=jobs&id=767602"
+"url": "https://jobs.ge/ge/?view=jobs&id=767559"
 }
 ],
-"url": "https://jobs.ge/ge/?view=jobs&id=767602",
-"firstSeen": "2026-11-11T19:36+04:00",
-"lastSeen": "2026-11-28T02:07+04:00",
+"url": "https://jobs.ge/ge/?view=jobs&id=767559",
+"firstSeen": "2026-11-11T15:52+04:00",
+"lastSeen": "2026-11-28T20:23+04:00",
 "active": true,
-"skills": [
-"Python"
+"skills": [],
+"languages": [
+"ინგლისური"
 ],
-"languages": [],
-"exp": 1,
-"level": "Junior",
-"direction": "კიბერუსაფრთხოება",
+"exp": null,
+"level": "Middle",
+"direction": "მონაცემები / BI",
+"remote": "remote",
+"summary": {
+"about": "Remote Georgia IT აცხადებს ვაკანსიას მონაცემთა ანალიტიკოსის თანამდებობაზე. იხილეთ ამ განცხადების სრული ტექსტი ინგლისურ ენაზე .",
+"duties": [],
+"reqs": [],
+"offers": []
+},
+"textLen": 126
+},
+{
+"id": "1a3c7fb2b2c4",
+"title": "ბუღალტრული აღრიცხვისა და ანგარიშგების ასისტენტი",
+"company": "MOORE",
+"logo": "https://jobs.ge/data/clients/logo_icon/15276_mooreabc_7195673.gif",
+"salary": null,
+"published": "2026-11-11",
+"deadline": "2026-12-11",
+"location": "თბილისი",
+"sources": [
+{
+"site": "jobs.ge",
+"url": "https://jobs.ge/ge/?view=jobs&id=767530"
+}
+],
+"url": "https://jobs.ge/ge/?view=jobs&id=767530",
+"firstSeen": "2026-11-11T15:52+04:00",
+"lastSeen": "2026-11-28T20:23+04:00",
+"active": true,
+"skills": [],
+"languages": [
+"ინგლისური"
+],
+"exp": null,
+"level": "Middle",
+"direction": "მონაცემები / BI",
 "remote": null,
 "summary": {
-"about": "\"Corx\"-ის გუნდი იზრდება და ვეძებთ მიზანდასახულ კიბერუსაფრთხოების ანალიტიკოსს (Junior/Mid-Level). თუ კიბერსაფრთხეების აღმოჩენა თქვენი გატაცებაა და ამ სფეროში განვითარება გსურთ, დაგვიკავშირდით!",
-"duties": [
-"ინფრასტრუქტურის მუდმივი მონიტორინგი და უსაფრთხოების სისტემების გაფრთხილებების (alerts) შესწავლა",
-"კიბერუსაფრთხოების თანამედროვე ინსტრუმენტების დანერგვა, კონფიგურირება და მართვა",
-"საფრთხეების აღმოჩენისა და ინციდენტებზე რეაგირების პროცედურების (playbooks) მუდმივი გაუმჯობესება",
-"ინციდენტების შესახებ მკაფიო ანგარიშების მომზადება ხელმძღვანელობისა და სხვა დაინტერესებული მხარეებისთვის"
-],
-"reqs": [
-"გამოცდილება: SOC-ში ან კიბერუსაფრთხოების მიმართულებით მსგავს პოზიციაზე მუშაობის არანაკლებ 1 წლის გამოცდილება",
-"ინსტრუმენტები: SIEM, EDR, IPS, WAF ან Proxy სისტემებთან მუშაობის პრაქტიკული გამოცდილება. ამასთან, უნდა შეგეძლოთ query-ს შედგენა მონაცემების დასამუშავებლად და მოსაძიებლად",
-"საფრთხეების აღმოჩენა: აღმოჩენის წესების (detection rules) შემუშავებისა და დახვეწის გამოცდილება",
-"პიროვნული თვისებები: ანალიტიკური აზროვნება, პრობლემების გადაჭრისა და დამოუკიდებლად მუშაობის უნარი, თვითმოტივაცია",
-"უპირატესობად ჩაითვლება: სკრიპტების წერის ან პროგრამირების ცოდნა (Python, Bash, PowerShell)"
-],
-"offers": [
-"პროფესიული ზრდა: გამოცდილი ექსპერტების უშუალო მენტორობა მეგობრულ გარემოში, სადაც კითხვების დასმა ყოველთვის მისასალმებელია",
-"განვითარება: ვზრუნავთ თქვენს წინსვლაზე. ყოველწლიურად გექნებათ დარგობრივი სერტიფიკატების მოპოვების შესაძლებლობა",
-"სამუშაო ფორმატი: ოფისში (on-site)",
-"მისამართი: თბილისი 0145, გრიგოლ ლორთქიფანიძის ქ. №81ა"
-]
+"about": "\"MOORE\" აცხადებს ვაკანსიას ბუღალტრული აღრიცხვისა და ანგარიშგების ასისტენტის თანამდებობაზე. იხილეთ ამ განცხადების სრული ტექსტი ინგლისურ ენაზე .",
+"duties": [],
+"reqs": [],
+"offers": []
 },
-"textLen": 1603
+"textLen": 142
+},
+{
+"id": "e90dec23ae73",
+"title": "გამოცდილი ასისტენტი - ბუღალტერია და ანგარიშგება",
+"company": "MOORE",
+"logo": "https://jobs.ge/data/clients/logo_icon/15276_mooreabc_7195673.gif",
+"salary": null,
+"published": "2026-11-11",
+"deadline": "2026-12-11",
+"location": "თბილისი",
+"sources": [
+{
+"site": "jobs.ge",
+"url": "https://jobs.ge/ge/?view=jobs&id=767532"
+}
+],
+"url": "https://jobs.ge/ge/?view=jobs&id=767532",
+"firstSeen": "2026-11-11T15:52+04:00",
+"lastSeen": "2026-11-28T20:23+04:00",
+"active": true,
+"skills": [],
+"languages": [
+"ინგლისური"
+],
+"exp": null,
+"level": "Middle",
+"direction": "მონაცემები / BI",
+"remote": null,
+"summary": {
+"about": "\"MOORE\" აცხადებს ვაკანსიას გამოცდილი ასისტენტის (ბუღალტერია და ანგარიშგება) თანამდებობაზე. იხილეთ ამ განცხადების სრული ტექსტი ინგლისურ ენაზე .",
+"duties": [],
+"reqs": [],
+"offers": []
+},
+"textLen": 142
 },
 {
 "id": "e0c748d5c2ed",
@@ -3553,7 +3682,7 @@
 ],
 "url": "https://jobs.smartrecruiters.com/TBCBANK/744000161032119",
 "firstSeen": "2026-11-11T15:52+04:00",
-"lastSeen": "2026-11-28T16:59+04:00",
+"lastSeen": "2026-11-28T20:23+04:00",
 "active": true,
 "skills": [
 "Excel"
@@ -3593,111 +3722,6 @@
 ]
 },
 "textLen": 3634
-},
-{
-"id": "3695c3f72c1e",
-"title": "მონაცემთა ანალიტიკოსი",
-"company": "Remote Georgia IT",
-"logo": null,
-"salary": null,
-"published": "2026-11-11",
-"deadline": "2026-12-11",
-"location": "თბილისი",
-"sources": [
-{
-"site": "jobs.ge",
-"url": "https://jobs.ge/ge/?view=jobs&id=767559"
-}
-],
-"url": "https://jobs.ge/ge/?view=jobs&id=767559",
-"firstSeen": "2026-11-11T15:52+04:00",
-"lastSeen": "2026-11-28T02:07+04:00",
-"active": true,
-"skills": [],
-"languages": [
-"ინგლისური"
-],
-"exp": null,
-"level": "Middle",
-"direction": "მონაცემები / BI",
-"remote": "remote",
-"summary": {
-"about": "Remote Georgia IT აცხადებს ვაკანსიას მონაცემთა ანალიტიკოსის თანამდებობაზე. იხილეთ ამ განცხადების სრული ტექსტი ინგლისურ ენაზე .",
-"duties": [],
-"reqs": [],
-"offers": []
-},
-"textLen": 126
-},
-{
-"id": "1a3c7fb2b2c4",
-"title": "ბუღალტრული აღრიცხვისა და ანგარიშგების ასისტენტი",
-"company": "MOORE",
-"logo": "https://jobs.ge/data/clients/logo_icon/15276_mooreabc_7195673.gif",
-"salary": null,
-"published": "2026-11-11",
-"deadline": "2026-12-11",
-"location": "თბილისი",
-"sources": [
-{
-"site": "jobs.ge",
-"url": "https://jobs.ge/ge/?view=jobs&id=767530"
-}
-],
-"url": "https://jobs.ge/ge/?view=jobs&id=767530",
-"firstSeen": "2026-11-11T15:52+04:00",
-"lastSeen": "2026-11-28T02:07+04:00",
-"active": true,
-"skills": [],
-"languages": [
-"ინგლისური"
-],
-"exp": null,
-"level": "Middle",
-"direction": "მონაცემები / BI",
-"remote": null,
-"summary": {
-"about": "\"MOORE\" აცხადებს ვაკანსიას ბუღალტრული აღრიცხვისა და ანგარიშგების ასისტენტის თანამდებობაზე. იხილეთ ამ განცხადების სრული ტექსტი ინგლისურ ენაზე .",
-"duties": [],
-"reqs": [],
-"offers": []
-},
-"textLen": 142
-},
-{
-"id": "e90dec23ae73",
-"title": "გამოცდილი ასისტენტი - ბუღალტერია და ანგარიშგება",
-"company": "MOORE",
-"logo": "https://jobs.ge/data/clients/logo_icon/15276_mooreabc_7195673.gif",
-"salary": null,
-"published": "2026-11-11",
-"deadline": "2026-12-11",
-"location": "თბილისი",
-"sources": [
-{
-"site": "jobs.ge",
-"url": "https://jobs.ge/ge/?view=jobs&id=767532"
-}
-],
-"url": "https://jobs.ge/ge/?view=jobs&id=767532",
-"firstSeen": "2026-11-11T15:52+04:00",
-"lastSeen": "2026-11-28T02:07+04:00",
-"active": true,
-"skills": [],
-"languages": [
-"ინგლისური"
-],
-"exp": null,
-"level": "Middle",
-"direction": "მონაცემები / BI",
-"remote": null,
-"summary": {
-"about": "\"MOORE\" აცხადებს ვაკანსიას გამოცდილი ასისტენტის (ბუღალტერია და ანგარიშგება) თანამდებობაზე. იხილეთ ამ განცხადების სრული ტექსტი ინგლისურ ენაზე .",
-"duties": [],
-"reqs": [],
-"offers": []
-},
-"textLen": 142
 },
 {
 "id": "de312b0a1002",
@@ -3749,7 +3773,7 @@
 ],
 "url": "https://jobs.ge/ge/?view=jobs&id=767215",
 "firstSeen": "2026-11-10T16:39+04:00",
-"lastSeen": "2026-11-28T02:07+04:00",
+"lastSeen": "2026-11-28T20:23+04:00",
 "active": true,
 "skills": [],
 "languages": [],
@@ -3789,7 +3813,7 @@
 ],
 "url": "https://jobs.ge/ge/?view=jobs&id=767156",
 "firstSeen": "2026-11-10T16:39+04:00",
-"lastSeen": "2026-11-28T02:07+04:00",
+"lastSeen": "2026-11-28T20:23+04:00",
 "active": true,
 "skills": [],
 "languages": [
@@ -3824,7 +3848,7 @@
 ],
 "url": "https://www.myjobs.ge/ka/vacancy/31444",
 "firstSeen": "2026-11-07T14:02+04:00",
-"lastSeen": "2026-11-28T16:59+04:00",
+"lastSeen": "2026-11-28T20:23+04:00",
 "active": true,
 "skills": [
 "SQL",
@@ -3885,7 +3909,7 @@
 ],
 "url": "https://jobs.ge/ge/?view=jobs&id=766876",
 "firstSeen": "2026-11-10T16:39+04:00",
-"lastSeen": "2026-11-28T02:07+04:00",
+"lastSeen": "2026-11-28T20:23+04:00",
 "active": true,
 "skills": [],
 "languages": [],
@@ -3928,7 +3952,7 @@
 ],
 "url": "https://jobs.smartrecruiters.com/TBCBANK/744000160610654",
 "firstSeen": "2026-11-09T21:47+04:00",
-"lastSeen": "2026-11-28T16:59+04:00",
+"lastSeen": "2026-11-28T20:23+04:00",
 "active": true,
 "skills": [
 "SQL",
@@ -3979,9 +4003,13 @@
 "logo": "https://d1hedpmorgly0j.cloudfront.net/logo/53272/382e0e0a-70b0-4e73-823d-8e7f9865798c.png",
 "salary": null,
 "published": "2026-11-09",
-"deadline": "2026-12-08",
+"deadline": "2026-12-09",
 "location": "თბილისი",
 "sources": [
+{
+"site": "jobs.ge",
+"url": "https://jobs.ge/ge/?view=jobs&id=767007"
+},
 {
 "site": "hr.ge",
 "url": "https://www.hr.ge/announcement/501841"
@@ -3991,11 +4019,13 @@
 "url": "https://www.cv.ge/announcement/501841"
 }
 ],
-"url": "https://www.hr.ge/announcement/501841",
+"url": "https://jobs.ge/ge/?view=jobs&id=767007",
 "firstSeen": "2026-11-09T16:52+04:00",
-"lastSeen": "2026-11-28T16:59+04:00",
+"lastSeen": "2026-11-28T20:23+04:00",
 "active": true,
 "skills": [
+"SQL",
+"Excel",
 "Power BI",
 "Power Query",
 "ფინ. მოდელირება"
@@ -4008,10 +4038,10 @@
 "direction": "ფინანსური",
 "remote": null,
 "summary": {
-"about": "ქართულსლოვაკური კომპანია „ჯინო ჰოლდინგი “ საქართველოში არაერთ მნიშვნელოვან პროექტს ახორციელებს. ჰოლდინგის მიმდინარე პროექტების პორტფელში ყველაზე მსხვილი პროექტია „თბილისის ბულვარი“, რომელიც „ჯინო აკვაპარკის“ მიმდებარე ტერიტორიაზე მრავალფუნქციური კომპლექსის…",
+"about": "ქართულ-სლოვაკური კომპანია \" ჯინო ჰოლდინგი \" საქართველოში არაერთ მნიშვნელოვან პროექტს ახორციელებს. ჰოლდინგის მიმდინარე პროექტების პორტფელში ყველაზე მსხვილი პროექტია \"თბილისის ბულვარი\", რომელიც \"ჯინო აკვაპარკის\" მიმდებარე ტერიტორიაზე მრავალფუნქციური კომპლექსის…",
 "duties": [
 "ჰოლდინგში შემავალი კომპანიების ფინანსური და საოპერაციო შედეგების ყოველთვიური ანალიზი და საქმიანობის ეფექტიანობის შეფასება",
-"ფინანსური ანგარიშგების ძირითადი ფორმების — მოგებაზარალის (PL), ფინანსური მდგომარეობის (BS), ფულადი ნაკადებისა (CF) და კაპიტალში ცვლილებების ანგარიშგებების (SoCE)…",
+"ფინანსური ანგარიშგების ძირითადი ფორმების — მოგება-ზარალის (PL), ფინანსური მდგომარეობის (BS), ფულადი ნაკადებისა (CF) და კაპიტალში ცვლილებების ანგარიშგებების (SoCE)…",
 "წლიური ბიუჯეტირების პროცესში მონაწილეობა, კომპანიების ბიუჯეტების მომზადების კოორდინაცია, კონსოლიდაცია და შესრულების მონიტორინგი",
 "ბიუჯეტსა და ფაქტობრივ მაჩვენებლებს შორის გადახრების იდენტიფიცირება, მათი გამომწვევი მიზეზების ანალიზი და შესაბამისი მენეჯერული ანგარიშგების მომზადება",
 "ფინანსური პროგნოზებისა და ფულადი ნაკადების საპროგნოზო მოდელების (Cash Flow Forecast) მომზადება, განახლება და შესრულების მონიტორინგი",
@@ -4028,7 +4058,7 @@
 ],
 "offers": []
 },
-"textLen": 4884
+"textLen": 4924
 },
 {
 "id": "5d7ff0a09afb",
@@ -4051,7 +4081,7 @@
 ],
 "url": "https://www.hr.ge/announcement/501460",
 "firstSeen": "2026-11-09T16:52+04:00",
-"lastSeen": "2026-11-28T16:59+04:00",
+"lastSeen": "2026-11-28T20:23+04:00",
 "active": true,
 "skills": [],
 "languages": [
@@ -4193,7 +4223,7 @@
 ],
 "url": "https://jobs.ge/ge/?view=jobs&id=767072",
 "firstSeen": "2026-11-07T14:02+04:00",
-"lastSeen": "2026-11-28T02:07+04:00",
+"lastSeen": "2026-11-28T20:23+04:00",
 "active": true,
 "skills": [
 "Excel",
@@ -4246,7 +4276,7 @@
 ],
 "url": "https://jobs.ge/ge/?view=jobs&id=767071",
 "firstSeen": "2026-11-07T14:02+04:00",
-"lastSeen": "2026-11-28T02:07+04:00",
+"lastSeen": "2026-11-28T20:23+04:00",
 "active": true,
 "skills": [
 "Excel",
@@ -4279,6 +4309,39 @@
 "textLen": 2563
 },
 {
+"id": "454fd8ca48fc",
+"title": "უფროსი ფინანსური ანალიტიკოსი",
+"company": "სილქ ბანკი",
+"logo": null,
+"salary": null,
+"published": "2026-11-06",
+"deadline": "2026-12-06",
+"location": "თბილისი",
+"sources": [
+{
+"site": "jobs.ge",
+"url": "https://jobs.ge/ge/?view=jobs&id=766670"
+}
+],
+"url": "https://jobs.ge/ge/?view=jobs&id=766670",
+"firstSeen": "2026-11-07T14:02+04:00",
+"lastSeen": "2026-11-28T20:23+04:00",
+"active": true,
+"skills": [],
+"languages": [],
+"exp": null,
+"level": "Senior",
+"direction": "ფინანსური",
+"remote": null,
+"summary": {
+"about": "\"Silk Bank\" აცხადებს ვაკანსიას პოზიციაზე - უფროსი ფინანსური ანალიტიკოსი . ვაკანსიის შესახებ დეტალური ინფორმაციის გასაცნობად და რეზიუმეს გადმოსაგზავნად გთხოვთ ეწვიოთ მოცემულ ბმულს: https://hel-ai.com/apply/NzzSmo2c",
+"duties": [],
+"reqs": [],
+"offers": []
+},
+"textLen": 213
+},
+{
 "id": "ac029cfd2d12",
 "title": "სტაჟირება აუდიტის დეპარტამენტში",
 "company": "არესემ საქართველო",
@@ -4299,7 +4362,7 @@
 ],
 "url": "https://www.hr.ge/announcement/501721",
 "firstSeen": "2026-11-07T14:02+04:00",
-"lastSeen": "2026-11-28T16:59+04:00",
+"lastSeen": "2026-11-28T20:23+04:00",
 "active": true,
 "skills": [
 "Excel"
@@ -4330,39 +4393,6 @@
 "textLen": 1757
 },
 {
-"id": "454fd8ca48fc",
-"title": "უფროსი ფინანსური ანალიტიკოსი",
-"company": "სილქ ბანკი",
-"logo": null,
-"salary": null,
-"published": "2026-11-06",
-"deadline": "2026-12-06",
-"location": "თბილისი",
-"sources": [
-{
-"site": "jobs.ge",
-"url": "https://jobs.ge/ge/?view=jobs&id=766670"
-}
-],
-"url": "https://jobs.ge/ge/?view=jobs&id=766670",
-"firstSeen": "2026-11-07T14:02+04:00",
-"lastSeen": "2026-11-28T02:07+04:00",
-"active": true,
-"skills": [],
-"languages": [],
-"exp": null,
-"level": "Senior",
-"direction": "ფინანსური",
-"remote": null,
-"summary": {
-"about": "\"Silk Bank\" აცხადებს ვაკანსიას პოზიციაზე - უფროსი ფინანსური ანალიტიკოსი . ვაკანსიის შესახებ დეტალური ინფორმაციის გასაცნობად და რეზიუმეს გადმოსაგზავნად გთხოვთ ეწვიოთ მოცემულ ბმულს: https://hel-ai.com/apply/NzzSmo2c",
-"duties": [],
-"reqs": [],
-"offers": []
-},
-"textLen": 213
-},
-{
 "id": "dc84e136f9c3",
 "title": "ფინანსური ანალიტიკოსი",
 "company": "Leverage Lab",
@@ -4379,7 +4409,7 @@
 ],
 "url": "https://jobs.ge/ge/?view=jobs&id=766325",
 "firstSeen": "2026-11-07T14:02+04:00",
-"lastSeen": "2026-11-28T02:07+04:00",
+"lastSeen": "2026-11-28T20:23+04:00",
 "active": true,
 "skills": [
 "Excel",
@@ -4435,7 +4465,7 @@
 ],
 "url": "https://jobs.ge/ge/?view=jobs&id=766295",
 "firstSeen": "2026-11-07T14:02+04:00",
-"lastSeen": "2026-11-28T02:07+04:00",
+"lastSeen": "2026-11-28T20:23+04:00",
 "active": true,
 "skills": [
 "Machine Learning",
@@ -4489,7 +4519,7 @@
 ],
 "url": "https://jobs.ge/ge/?view=jobs&id=766124",
 "firstSeen": "2026-11-07T14:02+04:00",
-"lastSeen": "2026-11-28T02:07+04:00",
+"lastSeen": "2026-11-28T20:23+04:00",
 "active": true,
 "skills": [
 "SQL",
@@ -4546,7 +4576,7 @@
 ],
 "url": "https://jobs.ge/ge/?view=jobs&id=766299",
 "firstSeen": "2026-11-07T14:02+04:00",
-"lastSeen": "2026-11-28T02:07+04:00",
+"lastSeen": "2026-11-28T20:23+04:00",
 "active": true,
 "skills": [
 "Python",
@@ -4614,64 +4644,6 @@
 "textLen": 203
 },
 {
-"id": "d96553eaf8c6",
-"title": "საწყობების საოპერაციო ანალიტიკოსი",
-"company": "ავერსი ფარმა",
-"logo": "https://d1hedpmorgly0j.cloudfront.net/logo/16280/d138f102-cc60-4907-bfec-0298d4dac897.png",
-"salary": null,
-"published": "2026-11-04",
-"deadline": "2026-11-30",
-"location": "თბილისი",
-"sources": [
-{
-"site": "hr.ge",
-"url": "https://www.hr.ge/announcement/501399"
-},
-{
-"site": "cv.ge",
-"url": "https://www.cv.ge/announcement/501399"
-}
-],
-"url": "https://www.hr.ge/announcement/501399",
-"firstSeen": "2026-11-07T14:02+04:00",
-"lastSeen": "2026-11-28T16:59+04:00",
-"active": true,
-"skills": [
-"Excel",
-"სტატისტიკა"
-],
-"languages": [
-"ინგლისური",
-"რუსული"
-],
-"exp": 2,
-"level": "Middle",
-"direction": "ოპერაციები / მიწოდება",
-"remote": null,
-"summary": {
-"about": "კომპანია „ავერსი-ფარმა“ აცხადებს ვაკანსიას საწყობების საოპერაციო ანალიტიკოსის თანამდებობაზე. პოზიციის ძირითადი მიზანია სასაწყობო მონაცემების ანალიზი, ოპერაციების ეფექტიანობის შეფასება და პროცესების გაუმჯობესების რეკომენდაციების მომზადება. თანამშრომელი…",
-"duties": [
-"სასაწყობო პროცესებისა და საოპერაციო მონაცემების ანალიზი, მონაცემთა სიზუსტის შემოწმება და გაუმჯობესების შესაძლებლობების გამოვლენა",
-"WMS-ის დანერგვისა და ავტომატიზაციის პროექტებისთვის მონაცემების მომზადება; პროცესებისა და მოთხოვნების აღწერაში, სისტემების ტესტირებასა და მონაცემთა სისწორის შემოწმებაში…",
-"საქმიანობის ძირითადი მაჩვენებლების (KPI), ანგარიშებისა და ანალიტიკური ინსტრუმენტების შემუშავება; მაჩვენებლების გამოთვლის წესების აღწერაში მონაწილეობა",
-"რეგულარული ანგარიშგება, გეგმურ და ფაქტობრივ მაჩვენებლებს შორის გადახრებისა და მათი გამომწვევი მიზეზების ანალიზი",
-"სასაქონლო პოზიციების გაცემისა და ბრუნვის, მათ შორის პერიოდული ABC ანალიზი; საქონლის მახასიათებლებისა და შენახვის პირობების გათვალისწინებით, საწყობში ოპტიმალური…",
-"სამუშაო პოსტების, ცვლებისა და გუნდების დატვირთვისა და პროდუქტიულობის შეფასება; სამუშაოს ეფექტიანად განაწილების რეკომენდაციების მომზადება"
-],
-"reqs": [
-"უმაღლესი განათლება ლოგისტიკის, ოპერაციების მართვის, ეკონომიკის, სტატისტიკის ან მონაცემთა ანალიზის მიმართულებით",
-"სასაწყობო ოპერაციების, ლოგისტიკის ან მონაცემთა/საოპერაციო ანალიზის მიმართულებით მუშაობის მინიმუმ 2-წლიანი გამოცდილება",
-"სასაწყობო პროცესების, საწყობის მართვის სისტემებისა (WMS) და ავტომატიზაციის ძირითადი პრინციპების ცოდნა",
-"Microsoft Excel-ის მაღალ დონეზე ცოდნა",
-"მონაცემთა დამუშავების, ანალიზის, ვიზუალიზაციისა და ანგარიშგების უნარი",
-"საოპერაციო მაჩვენებლების, პროდუქტიულობისა და დატვირთვის შეფასებისა და დასაბუთებული რეკომენდაციების მომზადების უნარი",
-"სასურველია ინგლისური და რუსული ენების საბაზისო დონეზე ცოდნა"
-],
-"offers": []
-},
-"textLen": 4090
-},
-{
 "id": "4ef91bb1f49b",
 "title": "SME საკრედიტო ანალიტიკოსი",
 "company": "საქართველოს ბანკი",
@@ -4688,7 +4660,7 @@
 ],
 "url": "https://jobs.ge/ge/?view=jobs&id=765871",
 "firstSeen": "2026-11-07T14:02+04:00",
-"lastSeen": "2026-11-28T02:07+04:00",
+"lastSeen": "2026-11-28T20:23+04:00",
 "active": true,
 "skills": [],
 "languages": [],
@@ -4725,7 +4697,7 @@
 ],
 "url": "https://jobs.ge/ge/?view=jobs&id=766018",
 "firstSeen": "2026-11-07T14:02+04:00",
-"lastSeen": "2026-11-28T02:07+04:00",
+"lastSeen": "2026-11-28T20:23+04:00",
 "active": true,
 "skills": [
 "Excel",
@@ -4785,7 +4757,7 @@
 ],
 "url": "https://jobs.ge/ge/?view=jobs&id=765984",
 "firstSeen": "2026-11-07T14:02+04:00",
-"lastSeen": "2026-11-28T02:07+04:00",
+"lastSeen": "2026-11-28T20:23+04:00",
 "active": true,
 "skills": [],
 "languages": [],
@@ -4807,6 +4779,68 @@
 "offers": []
 },
 "textLen": 587
+},
+{
+"id": "d96553eaf8c6",
+"title": "საწყობების საოპერაციო ანალიტიკოსი",
+"company": "ავერსი-ფარმა",
+"logo": "https://d1hedpmorgly0j.cloudfront.net/logo/16280/d138f102-cc60-4907-bfec-0298d4dac897.png",
+"salary": null,
+"published": "2026-11-04",
+"deadline": "2026-11-30",
+"location": "თბილისი",
+"sources": [
+{
+"site": "jobs.ge",
+"url": "https://jobs.ge/ge/?view=jobs&id=765938"
+},
+{
+"site": "hr.ge",
+"url": "https://www.hr.ge/announcement/501399"
+},
+{
+"site": "cv.ge",
+"url": "https://www.cv.ge/announcement/501399"
+}
+],
+"url": "https://jobs.ge/ge/?view=jobs&id=765938",
+"firstSeen": "2026-11-07T14:02+04:00",
+"lastSeen": "2026-11-28T20:23+04:00",
+"active": true,
+"skills": [
+"Excel",
+"სტატისტიკა"
+],
+"languages": [
+"ინგლისური",
+"რუსული"
+],
+"exp": 2,
+"level": "Middle",
+"direction": "ოპერაციები / მიწოდება",
+"remote": null,
+"summary": {
+"about": "კომპანია \"ავერსი-ფარმა\" აცხადებს ვაკანსიას საწყობების საოპერაციო ანალიტიკოსის თანამდებობაზე. პოზიციის ძირითადი მიზანია სასაწყობო მონაცემების ანალიზი, ოპერაციების ეფექტიანობის შეფასება და პროცესების გაუმჯობესების რეკომენდაციების მომზადება. თანამშრომელი…",
+"duties": [
+"სასაწყობო პროცესებისა და საოპერაციო მონაცემების ანალიზი, მონაცემთა სიზუსტის შემოწმება და გაუმჯობესების შესაძლებლობების გამოვლენა",
+"WMS-ის დანერგვისა და ავტომატიზაციის პროექტებისთვის მონაცემების მომზადება; პროცესებისა და მოთხოვნების აღწერაში, სისტემების ტესტირებასა და მონაცემთა სისწორის შემოწმებაში…",
+"საქმიანობის ძირითადი მაჩვენებლების (KPI), ანგარიშებისა და ანალიტიკური ინსტრუმენტების შემუშავება; მაჩვენებლების გამოთვლის წესების აღწერაში მონაწილეობა",
+"რეგულარული ანგარიშგება, გეგმურ და ფაქტობრივ მაჩვენებლებს შორის გადახრებისა და მათი გამომწვევი მიზეზების ანალიზი",
+"სასაქონლო პოზიციების გაცემისა და ბრუნვის, მათ შორის პერიოდული ABC ანალიზი; საქონლის მახასიათებლებისა და შენახვის პირობების გათვალისწინებით, საწყობში ოპტიმალური…",
+"სამუშაო პოსტების, ცვლებისა და გუნდების დატვირთვისა და პროდუქტიულობის შეფასება; სამუშაოს ეფექტიანად განაწილების რეკომენდაციების მომზადება"
+],
+"reqs": [
+"უმაღლესი განათლება ლოგისტიკის, ოპერაციების მართვის, ეკონომიკის, სტატისტიკის ან მონაცემთა ანალიზის მიმართულებით",
+"სასაწყობო ოპერაციების, ლოგისტიკის ან მონაცემთა/საოპერაციო ანალიზის მიმართულებით მუშაობის მინიმუმ 2-წლიანი გამოცდილება",
+"სასაწყობო პროცესების, საწყობის მართვის სისტემებისა (WMS) და ავტომატიზაციის ძირითადი პრინციპების ცოდნა",
+"მონაცემთა დამუშავების, ანალიზის, ვიზუალიზაციისა და ანგარიშგების უნარი",
+"საოპერაციო მაჩვენებლების, პროდუქტიულობისა და დატვირთვის შეფასებისა და დასაბუთებული რეკომენდაციების მომზადების უნარი",
+"სასურველია ინგლისური და რუსული ენების საბაზისო დონეზე ცოდნა",
+"WMS და ERP სისტემებთან მუშაობის გამოცდილება, ასევე მონაცემთა ბაზებისა და ანგარიშგების სხვა პროგრამების ცოდნა ჩაითვლება უპირატესობად"
+],
+"offers": []
+},
+"textLen": 4109
 },
 {
 "id": "ec261e0f0687",
@@ -4950,7 +4984,7 @@
 ],
 "url": "https://jobs.ge/ge/?view=jobs&id=765709",
 "firstSeen": "2026-11-13T16:12+04:00",
-"lastSeen": "2026-11-28T02:07+04:00",
+"lastSeen": "2026-11-28T20:23+04:00",
 "active": true,
 "skills": [],
 "languages": [],
@@ -4959,71 +4993,12 @@
 "direction": "მონაცემები / BI",
 "remote": null,
 "summary": {
-"about": "სს \" არდი დაზღვევა \" აცხადებს ვაკანსიას უმცროსი მონაცემთა ანალიტიკოსის პოზიციაზე. დაინტერესების შემთხვევაში ვაკანსიის სანახავად ეწვიეთ შემდეგ ბმულს: https://career.ardi.ge/",
+"about": "სს \" არდი დაზღვევა \" აცხადებს ვაკანსიას უმცროსი BI ანალიტიკოსის პოზიციაზე. დაინტერესების შემთხვევაში ვაკანსიის სანახავად ეწვიეთ შემდეგ ბმულს: https://career.ardi.ge/",
 "duties": [],
 "reqs": [],
 "offers": []
 },
-"textLen": 172
-},
-{
-"id": "94868a086daa",
-"title": "შიდა აუდიტორი",
-"company": "ნუტრიმაქსი",
-"logo": "https://d1hedpmorgly0j.cloudfront.net/logo/18189/68cfde80-8d92-46b0-8de9-47458feec725.png",
-"salary": {
-"from": 3000,
-"to": null,
-"cur": "₾"
-},
-"published": "2026-11-03",
-"deadline": "2026-12-02",
-"location": "თბილისი",
-"sources": [
-{
-"site": "hr.ge",
-"url": "https://www.hr.ge/announcement/501252"
-},
-{
-"site": "cv.ge",
-"url": "https://www.cv.ge/announcement/501252"
-}
-],
-"url": "https://www.hr.ge/announcement/501252",
-"firstSeen": "2026-11-07T14:02+04:00",
-"lastSeen": "2026-11-28T16:59+04:00",
-"active": true,
-"skills": [],
-"languages": [
-"ინგლისური",
-"რუსული"
-],
-"exp": 3,
-"level": "Middle",
-"direction": "აუდიტი",
-"remote": null,
-"summary": {
-"about": "ნუტრიმაქსი 2009 წლიდან ოპერირებს საქართველოში და წარმოადგენს ცხოველთა კვების ინდუსტრიის ერთ-ერთ წამყვან კომპანიას. კომპანია აერთიანებს ორ მაღალტექნოლოგიურ საწარმოს, თანამედროვე ლაბორატორიებსა და საერთაშორისო სტანდარტებზე დაფუძნებულ წარმოების პროცესს.…",
-"duties": [
-"რისკების შეფასება და შიდა აუდიტის წლიური გეგმის შემუშავება, აუდიტის კომიტეტთან კონსულტაციით",
-"კომპანიის ფინანსური, საწარმოო და საოპერაციო პროცესების (მათ შორის შესყიდვების, მარაგების, თვითღირებულების, გაყიდვებისა და დისტრიბუციის) აუდიტი და დასაბუთებული…",
-"შიდა კონტროლის გაუმჯობესების რეკომენდაციების შემუშავება და მენეჯმენტისათვის წარდგენა",
-"რეკომენდაციების შესრულების მონიტორინგი შეთანხმებული ვადებისა და პასუხისმგებელი პირების გათვალისწინებით",
-"აუდიტის კომიტეტისთვის შედეგების რეგულარული წარდგენა და წლიური შეფასების მომზადება",
-"გარე აუდიტორთან და თემატური აუდიტების შემსრულებელ გარე ექსპერტებთან კოორდინაცია, საჭირო გარე ექსპერტიზის განსაზღვრა და აუდიტის კომიტეტისთვის რეკომენდაციის წარდგენა"
-],
-"reqs": [
-"სავალდებულო",
-"უმაღლესი განათლება (მინიმუმ ბაკალავრის ხარისხი) ფინანსების, ბუღალტრული აღრიცხვის, ეკონომიკის ან ბიზნესის ადმინისტრირების მიმართულებით",
-"მინიმუმ 3 წლის გამოცდილება შიდა ან გარე აუდიტში, შიდა კონტროლის ან რისკების მართვის სფეროში",
-"ინგლისური ენის ცოდნა მინიმუმ B2 დონეზე",
-"სასურველი",
-"CIA (Certified Internal Auditor) - შიდა აუდიტორის მთავარი საერთაშორისო სერტიფიკატი, ან მისი მოპოვების პროცესში ყოფნა",
-"ალტერნატივად: ACCA ან CPA სერტიფიკატი (სრული ან ნაწილობრივი)"
-],
-"offers": []
-},
-"textLen": 4439
+"textLen": 165
 },
 {
 "id": "ff1f4b3f4511",
@@ -5042,7 +5017,7 @@
 ],
 "url": "https://jobs.ge/ge/?view=jobs&id=765680",
 "firstSeen": "2026-11-07T14:02+04:00",
-"lastSeen": "2026-11-28T02:07+04:00",
+"lastSeen": "2026-11-28T20:23+04:00",
 "active": true,
 "skills": [
 "SQL",
@@ -5103,7 +5078,7 @@
 ],
 "url": "https://jobs.ge/ge/?view=jobs&id=765501",
 "firstSeen": "2026-11-07T14:02+04:00",
-"lastSeen": "2026-11-28T02:07+04:00",
+"lastSeen": "2026-11-28T20:23+04:00",
 "active": true,
 "skills": [
 "Excel"
@@ -5131,6 +5106,69 @@
 ]
 },
 "textLen": 2048
+},
+{
+"id": "94868a086daa",
+"title": "შიდა აუდიტორი",
+"company": "ნუტრიმაქსი",
+"logo": "https://d1hedpmorgly0j.cloudfront.net/logo/18189/68cfde80-8d92-46b0-8de9-47458feec725.png",
+"salary": {
+"from": 3000,
+"to": null,
+"cur": "₾"
+},
+"published": "2026-11-03",
+"deadline": "2026-12-06",
+"location": "თბილისი",
+"sources": [
+{
+"site": "hr.ge",
+"url": "https://www.hr.ge/announcement/501252"
+},
+{
+"site": "cv.ge",
+"url": "https://www.cv.ge/announcement/501252"
+},
+{
+"site": "jobs.ge",
+"url": "https://jobs.ge/ge/?view=jobs&id=766575"
+}
+],
+"url": "https://www.hr.ge/announcement/501252",
+"firstSeen": "2026-11-07T14:02+04:00",
+"lastSeen": "2026-11-28T20:23+04:00",
+"active": true,
+"skills": [],
+"languages": [
+"ინგლისური",
+"რუსული"
+],
+"exp": 3,
+"level": "Middle",
+"direction": "აუდიტი",
+"remote": null,
+"summary": {
+"about": "ნუტრიმაქსი 2009 წლიდან ოპერირებს საქართველოში და წარმოადგენს ცხოველთა კვების ინდუსტრიის ერთ-ერთ წამყვან კომპანიას. კომპანია აერთიანებს ორ მაღალტექნოლოგიურ საწარმოს, თანამედროვე ლაბორატორიებსა და საერთაშორისო სტანდარტებზე დაფუძნებულ წარმოების პროცესს.…",
+"duties": [
+"რისკების შეფასება და შიდა აუდიტის წლიური გეგმის შემუშავება, აუდიტის კომიტეტთან კონსულტაციით",
+"კომპანიის ფინანსური, საწარმოო და საოპერაციო პროცესების (მათ შორის შესყიდვების, მარაგების, თვითღირებულების, გაყიდვებისა და დისტრიბუციის) აუდიტი და დასაბუთებული…",
+"შიდა კონტროლის გაუმჯობესების რეკომენდაციების შემუშავება და მენეჯმენტისათვის წარდგენა",
+"რეკომენდაციების შესრულების მონიტორინგი შეთანხმებული ვადებისა და პასუხისმგებელი პირების გათვალისწინებით",
+"აუდიტის კომიტეტისთვის შედეგების რეგულარული წარდგენა და წლიური შეფასების მომზადება",
+"გარე აუდიტორთან და თემატური აუდიტების შემსრულებელ გარე ექსპერტებთან კოორდინაცია, საჭირო გარე ექსპერტიზის განსაზღვრა და აუდიტის კომიტეტისთვის რეკომენდაციის წარდგენა"
+],
+"reqs": [
+"სავალდებულო",
+"უმაღლესი განათლება (მინიმუმ ბაკალავრის ხარისხი) ფინანსების, ბუღალტრული აღრიცხვის, ეკონომიკის ან ბიზნესის ადმინისტრირების მიმართულებით",
+"მინიმუმ 3 წლის გამოცდილება შიდა ან გარე აუდიტში, შიდა კონტროლის ან რისკების მართვის სფეროში",
+"ინგლისური ენის ცოდნა მინიმუმ B2 დონეზე",
+"სასურველი",
+"CIA (Certified Internal Auditor) - შიდა აუდიტორის მთავარი საერთაშორისო სერტიფიკატი, ან მისი მოპოვების პროცესში ყოფნა",
+"ალტერნატივად: ACCA ან CPA სერტიფიკატი (სრული ან ნაწილობრივი)"
+],
+"offers": []
+},
+"textLen": 4439
 },
 {
 "id": "2b8ffc84ba7d",
@@ -5199,6 +5237,43 @@
 "textLen": 172
 },
 {
+"id": "7ff2b6da65f8",
+"title": "ბიზნეს ანალიტიკოსი",
+"company": "Dressup Group",
+"logo": "https://jobs.ge/data/clients/logo_icon/7192_dressup_6293879.gif",
+"salary": null,
+"published": "2026-11-02",
+"deadline": "2026-12-02",
+"location": "თბილისი",
+"sources": [
+{
+"site": "jobs.ge",
+"url": "https://jobs.ge/ge/?view=jobs&id=765297"
+}
+],
+"url": "https://jobs.ge/ge/?view=jobs&id=765297",
+"firstSeen": "2026-11-07T14:02+04:00",
+"lastSeen": "2026-11-28T20:23+04:00",
+"active": true,
+"skills": [],
+"languages": [],
+"exp": null,
+"level": "Middle",
+"direction": "ბიზნეს / სისტემური",
+"remote": null,
+"summary": {
+"about": "\" დრესაპ ჯგუფი \" 32 წელია მოღვაწეობს საქართველოს ბაზარზე და ექსკლუზიურად წარმოადგენს ტანსაცმლისა და ფეხსაცმლის მსოფლიოში აღიარებულ ბრენდებს: Levi`s, Lacoste, CK, Tommy Hilfiger, Tommy Jeans, Gant, Samsonite, Guess, Lee, Wrangler, Jack & Jones, Mavi, Etam,…",
+"duties": [
+"კომპანია წარმოდგენილია 90-ზე მეტი მაღაზიით თბილისში, რუსთავში, ბათუმსა და ზუგდიდში. ასევე, ონლაინ მაღაზიით - Dressup.ge",
+"Dressup.ge - მოდის სფეროში საქართველოში წამყვანი ელექტრონული კომერციის პლატფორმაა, რომელიც აერთიანებს ტანსაცმლისა და ფეხსაცმლის მსოფლიოში აღიარებულ ბრენდებს - ეძებს…",
+"დაინტერესების შემთხვევაში გადადით ლინკზე და გაგვიზიარეთ რეზიუმე: https://dressup.selfrecruit.ge/s/FsBG7L"
+],
+"reqs": [],
+"offers": []
+},
+"textLen": 699
+},
+{
 "id": "38d930a3b804",
 "title": "აუდიტის მენეჯერი",
 "company": "თი-ემ-სი",
@@ -5219,7 +5294,7 @@
 ],
 "url": "https://www.hr.ge/announcement/500942",
 "firstSeen": "2026-11-07T14:02+04:00",
-"lastSeen": "2026-11-28T16:59+04:00",
+"lastSeen": "2026-11-28T20:23+04:00",
 "active": true,
 "skills": [
 "Excel",
@@ -5278,7 +5353,7 @@
 ],
 "url": "https://www.hr.ge/announcement/500944",
 "firstSeen": "2026-11-07T14:02+04:00",
-"lastSeen": "2026-11-28T16:59+04:00",
+"lastSeen": "2026-11-28T20:23+04:00",
 "active": true,
 "skills": [
 "Excel",
@@ -5332,7 +5407,7 @@
 ],
 "url": "https://jobs.smartrecruiters.com/TBCBANK/744000159205019",
 "firstSeen": "2026-11-07T14:02+04:00",
-"lastSeen": "2026-11-28T16:59+04:00",
+"lastSeen": "2026-11-28T20:23+04:00",
 "active": true,
 "skills": [
 "SQL",
@@ -5374,43 +5449,6 @@
 ]
 },
 "textLen": 4983
-},
-{
-"id": "7ff2b6da65f8",
-"title": "ბიზნეს ანალიტიკოსი",
-"company": "Dressup Group",
-"logo": "https://jobs.ge/data/clients/logo_icon/7192_dressup_6293879.gif",
-"salary": null,
-"published": "2026-11-02",
-"deadline": "2026-12-02",
-"location": "თბილისი",
-"sources": [
-{
-"site": "jobs.ge",
-"url": "https://jobs.ge/ge/?view=jobs&id=765297"
-}
-],
-"url": "https://jobs.ge/ge/?view=jobs&id=765297",
-"firstSeen": "2026-11-07T14:02+04:00",
-"lastSeen": "2026-11-28T02:07+04:00",
-"active": true,
-"skills": [],
-"languages": [],
-"exp": null,
-"level": "Middle",
-"direction": "ბიზნეს / სისტემური",
-"remote": null,
-"summary": {
-"about": "\" დრესაპ ჯგუფი \" 32 წელია მოღვაწეობს საქართველოს ბაზარზე და ექსკლუზიურად წარმოადგენს ტანსაცმლისა და ფეხსაცმლის მსოფლიოში აღიარებულ ბრენდებს: Levi`s, Lacoste, CK, Tommy Hilfiger, Tommy Jeans, Gant, Samsonite, Guess, Lee, Wrangler, Jack & Jones, Mavi, Etam,…",
-"duties": [
-"კომპანია წარმოდგენილია 90-ზე მეტი მაღაზიით თბილისში, რუსთავში, ბათუმსა და ზუგდიდში. ასევე, ონლაინ მაღაზიით - Dressup.ge",
-"Dressup.ge - მოდის სფეროში საქართველოში წამყვანი ელექტრონული კომერციის პლატფორმაა, რომელიც აერთიანებს ტანსაცმლისა და ფეხსაცმლის მსოფლიოში აღიარებულ ბრენდებს - ეძებს…",
-"დაინტერესების შემთხვევაში გადადით ლინკზე და გაგვიზიარეთ რეზიუმე: https://dressup.selfrecruit.ge/s/FsBG7L"
-],
-"reqs": [],
-"offers": []
-},
-"textLen": 699
 },
 {
 "id": "bf2676765b65",
@@ -5511,61 +5549,6 @@
 ]
 },
 "textLen": 3643
-},
-{
-"id": "adb304a9d68b",
-"title": "უფროსი ბიზნეს ანალიტიკოსი",
-"company": "კავკასიის მედიცინის ცენტრი",
-"logo": "https://d1hedpmorgly0j.cloudfront.net/logo/21233/ac511a44-9683-4255-b0f3-d590dabe2947.png",
-"salary": null,
-"published": "2026-10-31",
-"deadline": "2026-11-29",
-"location": "თბილისი",
-"sources": [
-{
-"site": "hr.ge",
-"url": "https://www.hr.ge/announcement/500861"
-}
-],
-"url": "https://www.hr.ge/announcement/500861",
-"firstSeen": "2026-11-07T14:02+04:00",
-"lastSeen": "2026-11-28T16:59+04:00",
-"active": true,
-"skills": [
-"SQL",
-"Excel",
-"Power BI",
-"VBA"
-],
-"languages": [
-"ინგლისური"
-],
-"exp": 2,
-"level": "Senior",
-"direction": "ბიზნეს / სისტემური",
-"remote": null,
-"summary": {
-"about": "კავკასიის მედიცინის ცენტრი წარმოადგენს მულტიპროფილურ წამყვან რეფერალურ ჰოსპიტალს რეგიონში, რომელმაც 2024 წელს JCI აკრედიტაციის უმაღლესი ორგანოს (Joint Commission International) ოქროს ხარისხი მოიპოვა. იგი დაკომპლექტებულია ქვეყნის წამყვანი პროფესიონალებით და…",
-"duties": [
-"ჰოსპიტლის ფინანსური ანგარიშების მომზადება, დამუშავება და წარდგენა",
-"ჰოსპიტლის ფინანსური მდგომარეობის შეფასება და შესაბამისი რეკომენდაციების წარდგენა",
-"სხვადასხვა ჯანდაცვის პროგრამების ფარგლებში არსებული სერვისების შექმნის, შესაბამისი სახელშეკრულებო ფასების დადგენის და კონტრაგენტთან ბმის პროცესის მართვა, საჭიროების…",
-"სადაზღვევო კომპანიებისთვის, ქვეკონტრაქტორებისთვის და სხვა კონტრაგენტებისთვის სახელშეკრულებო ფასების დადგენა/განახლება",
-"სამედიცინო ტურიზმისთვის სამედიცინო სერვისების მომზადების პროცესის მართვა",
-"აქციის ფარგლებში სერვისების შექმნა/განფასება/ გაუქმება; პროგრამის აწყობიდან გამომდინარე განსაზღვრული სიისთვის სერვისების გამორჩევა და მიწოდება"
-],
-"reqs": [
-"უმაღლესი განათლება ბიზნეს ადმინისტრირების/ფინანსების/ეკონომიკის მიმართულებით",
-"საოფისე კომპიუტერული პროგრამების პროფესიონალურ დონეზე ცოდნა, განსაკუთრებით Excel, Macros, SQL, Power BI",
-"დიდ ბაზებთან მუშაობა და შესაბამისი ანგარიშების მომზადება",
-"ანალიტიკური აზროვნება",
-"გუნდური მუშაობის უნარი",
-"ინგლისური ენის ცოდნა",
-"მსგავი მიმართულებით მუშაობის არანაკლებ ორწლიანი გამოცდილება"
-],
-"offers": []
-},
-"textLen": 2679
 },
 {
 "id": "c55e792ab4e9",
@@ -5700,6 +5683,65 @@
 "offers": []
 },
 "textLen": 232
+},
+{
+"id": "adb304a9d68b",
+"title": "უფროსი ბიზნეს ანალიტიკოსი",
+"company": "კავკასიის მედიცინის ცენტრი",
+"logo": "https://d1hedpmorgly0j.cloudfront.net/logo/21233/ac511a44-9683-4255-b0f3-d590dabe2947.png",
+"salary": null,
+"published": "2026-10-29",
+"deadline": "2026-11-29",
+"location": "თბილისი",
+"sources": [
+{
+"site": "hr.ge",
+"url": "https://www.hr.ge/announcement/500861"
+},
+{
+"site": "jobs.ge",
+"url": "https://jobs.ge/ge/?view=jobs&id=764440"
+}
+],
+"url": "https://www.hr.ge/announcement/500861",
+"firstSeen": "2026-11-07T14:02+04:00",
+"lastSeen": "2026-11-28T20:23+04:00",
+"active": true,
+"skills": [
+"SQL",
+"Excel",
+"Power BI",
+"VBA"
+],
+"languages": [
+"ინგლისური"
+],
+"exp": 2,
+"level": "Senior",
+"direction": "ბიზნეს / სისტემური",
+"remote": null,
+"summary": {
+"about": "კავკასიის მედიცინის ცენტრი წარმოადგენს მულტიპროფილურ წამყვან რეფერალურ ჰოსპიტალს რეგიონში, რომელმაც 2024 წელს JCI აკრედიტაციის უმაღლესი ორგანოს (Joint Commission International) ოქროს ხარისხი მოიპოვა. იგი დაკომპლექტებულია ქვეყნის წამყვანი პროფესიონალებით და…",
+"duties": [
+"ჰოსპიტლის ფინანსური ანგარიშების მომზადება, დამუშავება და წარდგენა",
+"ჰოსპიტლის ფინანსური მდგომარეობის შეფასება და შესაბამისი რეკომენდაციების წარდგენა",
+"სხვადასხვა ჯანდაცვის პროგრამების ფარგლებში არსებული სერვისების შექმნის, შესაბამისი სახელშეკრულებო ფასების დადგენის და კონტრაგენტთან ბმის პროცესის მართვა, საჭიროების…",
+"სადაზღვევო კომპანიებისთვის, ქვეკონტრაქტორებისთვის და სხვა კონტრაგენტებისთვის სახელშეკრულებო ფასების დადგენა/განახლება",
+"სამედიცინო ტურიზმისთვის სამედიცინო სერვისების მომზადების პროცესის მართვა",
+"აქციის ფარგლებში სერვისების შექმნა/განფასება/ გაუქმება; პროგრამის აწყობიდან გამომდინარე განსაზღვრული სიისთვის სერვისების გამორჩევა და მიწოდება"
+],
+"reqs": [
+"უმაღლესი განათლება ბიზნეს ადმინისტრირების/ფინანსების/ეკონომიკის მიმართულებით",
+"საოფისე კომპიუტერული პროგრამების პროფესიონალურ დონეზე ცოდნა, განსაკუთრებით Excel, Macros, SQL, Power BI",
+"დიდ ბაზებთან მუშაობა და შესაბამისი ანგარიშების მომზადება",
+"ანალიტიკური აზროვნება",
+"გუნდური მუშაობის უნარი",
+"ინგლისური ენის ცოდნა",
+"მსგავი მიმართულებით მუშაობის არანაკლებ ორწლიანი გამოცდილება"
+],
+"offers": []
+},
+"textLen": 2679
 },
 {
 "id": "c6e41a4d81b8",
@@ -5842,7 +5884,7 @@
 ],
 "url": "https://jobs.ge/ge/?view=jobs&id=764267",
 "firstSeen": "2026-11-07T14:02+04:00",
-"lastSeen": "2026-11-28T02:07+04:00",
+"lastSeen": "2026-11-28T20:23+04:00",
 "active": true,
 "skills": [],
 "languages": [],
@@ -5881,7 +5923,7 @@
 ],
 "url": "https://jobs.ge/ge/?view=jobs&id=764369",
 "firstSeen": "2026-11-07T14:02+04:00",
-"lastSeen": "2026-11-28T02:07+04:00",
+"lastSeen": "2026-11-28T20:23+04:00",
 "active": true,
 "skills": [
 "IFRS"
@@ -7072,7 +7114,7 @@
 ],
 "url": "https://jobs.smartrecruiters.com/TBCBANK/744000156505414",
 "firstSeen": "2026-11-07T14:02+04:00",
-"lastSeen": "2026-11-28T16:59+04:00",
+"lastSeen": "2026-11-28T20:23+04:00",
 "active": true,
 "skills": [
 "Excel"
@@ -7413,7 +7455,7 @@
 ],
 "url": "https://jobs.smartrecruiters.com/TBCBANK/744000155709331",
 "firstSeen": "2026-11-07T14:02+04:00",
-"lastSeen": "2026-11-28T16:59+04:00",
+"lastSeen": "2026-11-28T20:23+04:00",
 "active": true,
 "skills": [],
 "languages": [
@@ -8259,7 +8301,7 @@
 ],
 "url": "https://jobs.smartrecruiters.com/TBCBANK/743999956340743",
 "firstSeen": "2026-11-07T14:02+04:00",
-"lastSeen": "2026-11-28T16:59+04:00",
+"lastSeen": "2026-11-28T20:23+04:00",
 "active": true,
 "skills": [
 "Excel"

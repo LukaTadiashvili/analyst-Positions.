@@ -1,41 +1,39 @@
 {
- "updated": "2026-11-28T16:59+04:00",
+ "updated": "2026-11-28T20:23+04:00",
  "active": 92,
  "total": 173,
- "new": 1,
- "newIds": [
-  "7ab5ff52ea55"
- ],
+ "new": 0,
+ "newIds": [],
  "sources": [
   {
    "site": "jobs.ge",
-   "ok": false,
-   "count": 0,
-   "error": "https://jobs.ge/ge/?page=1&q=%E1%83%90%E1%83%9C%E1%83%90%E1%83%9A%E1%83%98%E1%83%A2%E1%83%98%E1%83%99%E1%83%9D%E1%83%A1%E1%83%98&cid=&lid=&jid=: HTTP Error 404: Not Found"
+   "ok": true,
+   "count": 65,
+   "sec": 139.6
   },
   {
    "site": "hr.ge",
    "ok": true,
    "count": 31,
-   "sec": 17.7
+   "sec": 19.4
   },
   {
    "site": "myjobs.ge",
    "ok": true,
    "count": 8,
-   "sec": 61.0
+   "sec": 61.8
   },
   {
    "site": "cv.ge",
    "ok": true,
    "count": 24,
-   "sec": 18.1
+   "sec": 19.6
   },
   {
    "site": "hh.ge",
    "ok": true,
    "count": 0,
-   "sec": 2.5
+   "sec": 3.6
   },
   {
    "site": "TBC კარიერა",
@@ -47,19 +45,19 @@
    "site": "openjobs.ge",
    "ok": true,
    "count": 0,
-   "sec": 12.4
+   "sec": 12.8
   },
   {
    "site": "unijobs.ge",
    "ok": true,
    "count": 0,
-   "sec": 13.0
+   "sec": 13.7
   },
   {
    "site": "joob.ge",
    "ok": true,
    "count": 0,
-   "sec": 28.5
+   "sec": 29.8
   }
  ]
 }
